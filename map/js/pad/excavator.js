@@ -1,1 +1,2312 @@
-const _0x56cc=['egrCtcKxwpnDgcOUw67Dh8KGYgjCkG1u','wrrCrgXCo1TDhcKJw4c=','wq5+woYkWQ==','woDDg11Ywq/DjRFRBFQ=','bcOYL8OPw4onw7DCnQ==','wpdtw4TCng==','eHp/dcKLbcOkUlrDpQ7DtVM=','w4fDq8O8wpbDpA==','wrULw5vDiiM5GlgEIyPCnA==','wpLChsO5','RcK+wrrDo8K0asKg','wrjDqMOQw5F3','SC7CisKlWQ==','EmHDtURqw43Cl27Dgw==','wrrDhcKUNcKed0FF','w4PDosO8wo/DssK+ew==','VMOPKMOCw4gyw6vCisKcw51fFMOyGcOmw5fCj1w=','fsOPLsOyw4Yzw7bCm8K6','wr1zwpskWQ==','wrUGw5TDjCEiJFAsPzI=','BMKEwr0=','IsOkesKfwoxTMgfDmw==','w4fCq8KYTRfCjE/DisKJw6IiUFzDiFA=','ZWZx','wrDCj8O0w4U=','elLCpMOhwq5fw4rDnx8=','w6zCncOAw6s1w4k0w7DCusOMXmR+L8KVYHcgOMKfTgLCtSXChcKMBQ==','DVE9cULDpg==','w6DCncOHw7M7w4MUw6HDuMOdXnhTZg==','w4nCssKGUzLCmBLDmMOaEWJFw6vDokTCvsOcJwQ=','w61Two3CiMKiUA==','D1A6dw==','w650wo8x','VxkHaMO/','TBINacOiAEZE','wp9jw4fCjy3CmcKPw54=','wp5pw4bClhvChMKHw4I=','LhfCgcK0a8OA','eQvCuMK6wpHDiw==','wrPCsMOaw4FbwpvCgxt2','w4XCocKaUBXCkQ==','w49OVA==','w5csb0vDnABhaMOaw7UEwozDl8OWwr8=','X8KFw7EiST/DtBDCk3E=','a8ONOMOAwoF3wrbDjMOzwoADU8K6QcK8wprDixfCnsKJVA==','w5Q3cVvDlQhmUcOE','AnPDmFVlKsOdw4o=','PnXDtUN8w5XCm2PDgg==','TyjCmcKvUnbCmhzCqg==','U8OEwrbDmcKTw6IYw4HDnyx+','w6fDqUzCqELCsMKv','w5tSw5XDtcKHw73CgsOJ','WcOCwqPDjsKGw7sZw4rDrjdywpnCkQ==','w5pKw6/CvTjDgMOF','wqbCi8Ojw6llYBw=','CnnDmHx8','wrfCusOAw6FbwoLClA==','UADCtcKhwoXDncOW','wqDCkcOaw7Qrw40=','VcKNw6QrFg==','NcKfwq7ChQY=','JMOlccKhwoZSMh0=','w71Fwo/CmMKpVcKFwrAZD08=','csK/wovDjcOfMcO9wro=','IMOlcMK4wpFJKQA=','woDDoGXCiA==','w7LDk8KPE8KZd1gPRUdbw73Dh8KGCB7DtkHCocOy','AcK9wqjCgMOrL8OiJAk=','KF/DoklRw43Cm3A=','ScOawq7DlcKV','wqbCjcOyw4Nh','woEGw5jDqyszH1ox6L6P5o+j5YaO6ZWB','w6HDhMKaOMKGflQeTmk=','I3ZfIis=','fsKFwo/DkBDDkMO4w7IYw4E=','TRIXScOmBkI=','wq/Cl8OBw6MLw5wow73Du8OY','wqLCgsO/w65BBcKFJivDt8KYPTdVw78bJQ==','WMKdKi5d','ZcKuwp7DsMOeBMO1wrjDuQ==','wrfCusOBw6BQwofCnxlnZH0=','wo4zHsKuCixRJ8KvQMOFw7Q=','egrCsw==','YhzCpMKw','wrvCucOKw41EwoHCmBZnXmkWB2jDnU/Clw==','w6EmYkbDjh1q','wph+w5vClAnCucKWw5TCuA==','DVE8d0jDpRQ=','wrEGw47DqyslBlwg','w5XCtsKTI8O4OD/CicOPwrrCj8KwH8Knwow=','woDDhFJCwq7Doh0=','woE0HsK4','I0U6bXjDvwnDgMOw','aBTCrQ==','w4TCocKAZBHCik/DocK+w7UiSkrDlUoy','WMKQKDhKMQ==','woZrw54lLA==','ZcKuwpXDtcOV','w49IXUrCnRw=','JBfCmsK8fMOHwqfDjw==','QcKBwpbDjQ/DjcKN','LHnDrE5Qw5U=','57Ca57i85o2d56aZ','worDhVhUwrk=','cgzCp8KhwpHDgcOQw5s=','MGzDpXNPw5bCl2zDhMOJT8OxTwI9VcKt','fFPCtMO+wqBTw53Djg==','wpbCkHRLZg==','wrDCjMOMw7zClwcCBMOe','wrHCm8OBw6I9w5o=','w4ZZUE7Cig82UMOKw45NfQsOWA==','w5XDm8OXwoHDu1NJ','w61JwoXChMKo','EWNRPw3Dh8Kqw6rCnsKiwqZ0DMOZwoFk','LsO1csK4wopWLB0=','woQ1G8K5FQ==','D2dO','wqLCr8OLEnfDiw==','IBPCmMK0a8OS','wqfDgk5UwqLDuhFMBlA4w5bDsn9GVg==','esKzwoLDvA==','D2dOHj7DnMK/','wpPCjMOsw4d9BMKDPhbDqsKXDA==','ZMK/woLDvcOVEQ==','woXCgsO5w4IDCMKE','w5csalzDjw==','w44tZ1fDgw==','w5DDtcOmwobDqsKSYEYIcTdgAAYCX8Ko','L0opaUg=','ccK/wpjDmsORDcOqwr/Dsw==','FcKqwr8=','w4fDosO9wpHDs8K+fFA=','wrHCsn3DoD4mwr7Cig==','woDDjlJFwqTDvDRKBlQ=','egzCusKw','fnR6','Hksna1nDlAfDicOsw4FIW8KC','wqDCswLCoFbDiMKUw5jCsQ==','wpTCmH90YsODwp/Dog==','SsOYwq3DjMKEw6ADw4TDmys=','w59EwofChsKo','CUE6VkLDvhLDj8Om','wqxmwp0l','wrbCgcOiw593cQ==','wqLDrMOaw5A=','w7lPwo/Ch8KoSMKZwqg=','XR4RbsOrFw==','EzHCisK2E3DCgR/CsmpNwokmwr8VVsOfwofDm8KvwrnDn8KpM8KRXhjCtcK0D8OSwqDCmsOBworCm8KQNhrCnMK8wotEwpY6woMgKi7Drh8F','WBgRYA==','V8K0wovDtcOV','w7rDmsKfCcKFfVkTTFxGw6DDmcK3BhPDi0/Cog==','TjnChcKiWWPClgg=','wp3CvxXCo1I=','wpfDkkxU','w4XDo8O3wqzDrMKwclE=','Xz3ChsKjTnA=','BMKewqDChxfDn8OEZAAfbB5w','a2BkacKaXMO3','wrfCs23DvzAqwqnCm8O6','wpbClHpKZMOTwpTDtw7DoxtP','f8KFwpbDuwfDgcOY','dcOFO8OFw4Aow6PCqMKww4FZEsO/H8Om','wojCjcOpw4ZW','ScKDw64nEDXDtBI=','w7AwHsOx','w4jCssKGYiHCglM=','wrzDn1lJwrU=','HUcvaUg=','e8K/wpLDjQPDhsOcw7Izw5DDgcKVMERF','D3jDn3hwOsOXw5bCmsODF8O6Yw==','wrfCjMOOw6grw441w6bDuMOtVH57dsKD','wr53wp0TXQxM','IMOlcMK4woZUDA3DkAE=','L3LDrlxaw4vCimvDlcOl','wrDCtMOaw7M=','wp/DvXnChMO8woXCtRrCvA==','wpvCjMOiw44=','w5cicUHDng==','wppkw4jCiRnCmcKbw5zChsKiw4Elwpg=','w6/DmcKUOw==','DzjDhsKrU3XClhY=','5o2I5pWt772l','w4rCusKXKcO0','WMKIw7k=','A1EicUTDuwzDlQ==','PUguPS5OUMKr','wq3CuR7CuVLDlsKxw4vCugYiwrknwqnDgg==','w7DDmsKeO8KQfEE=','57CO57ij5o+L56SC','wr7Crh/CvQ==','AHjDiWt3Ng==','fGbDp0pZwonDjg==','wrjCnW9QVsOOwpPDvDw=','dMOLIsOlw4Ahw6PCkcKxw5VzD8OkE8Okw5M=','cVbCqcOXwrM=','wok+GMKIAhdeJA==','wq3CuR7CuVLDlg==','w5DDncOVwovCv05RLcKaw5oMw4bChMK4wocBZsK6','wrPCn8Odw7U9','w5fDgMONwpU=','w73CuF3CoFjDgMKYw47DuQ==','TD3CmcK1WQ==','w6XDmcKSOMKBTVIPRFlbw5DDkA==','KkI2CChYW8KGGCZowprDjSnChA==','PGXDr1haw4vCsmvDnsOz','wqfCsMOaw4JVwofCnwxDc2EDDXDDmlk=','Nm7Dp0M=','wrMRw4jDlzY=','wok6C8K9','UsOTw4g6wqXCrxtKKQ==','wpbCk3RKZ8OTwpTDsTvDtA0=','wpTCgsKycjbDkxE=','wrpgw5AjKcORETXDoGbDgQ==','a8KFwo3DkgPDgcOLw78=','WcOPwqzDiMKEw6Anw4LDlzZv','VMKdIQJIPzHCpcOeEsOTw7PDm8OewobCtcOj','w5QgYl7Dng==','OUI1AyteW8K4CyZ0','wq19w4oyJsO7CibDpmbDnMOGblgIJF0=','w5jDo1jCpl/Ct8Krw5E=','wprCjMOKw4zCmQYfFcO4LEZXEMKsw5bCgzzDiw==','w5Few4XDocKK','DUshd0nDog7DjcO3w45I','b8KIwoPDjQHDnMOXw6Etw4HDi8KB','GXjDk3Q=','wqLCssO5GWrDg0EnEjA=','wovDrH/CocOzwpvCuQ4=','TMODwrHDlcKDw74S','w7pJw7kXC8KITw==','w7bDqU/Cj1jCocKhw5or6LyN5o+f5Y6Q55eE6ZSq6K6l','w4/CuMKe','fsKPwpfDkQI=','wol5w5rCkw==','VsOZw5IKwrDCsxhILsOaw4E=','B8KBwqXCgBc=','w5TCucKfQzPChVPCl8OZ','w41Rw4TDkMKfw6fCisOJwpVUwp4BDMKowq/Do8Oj','b8KJw746Cy7CqA==','w5XDmMOWwpTDtw==','L8KGwoTDmV7ChcKJ','wqF9woo2SBFCZV/DksKFw4vChA==','wrPCuMO7Fm/DjlQ8BUfCn8Klw7AfcMObwpLDtGzDmQ==','wr7CsxzCtFDDi8KTw73CswYMwqEmwqnDmw==','wqXCjMOVw4DCjhcjCMOOMUpA','w6zCk8OOw7Z3w4E3w7PCusOeSXh1dcOLfXs/e8OSUhnCvw==','w5TCvMKGIsOjJQ==','wrF7w5I9','OUw3FD1W','b8KBwpDDsw/Dm8Ocw5k=','wp9lw4XCl1PCk8Kaw5fCucK/','w4bDqULCtkTCrcKk','VcKJw7MpEDQ=','E25eBS/Dh8K3w6XCnsKUwq5/IsOLwpt4w5w=','Dm7DvXNlKw==','asOJP8OPw4w=','W8OfwrbDk8Kiw74Sw4zDjA==','w5DCocKbWRXCl1PDrA==','a8KFwpbDswfDjMOcw7Q=','XzPChMK0WHjCnRvCp0pG','GlYva17DpwHDmMOmw7M=','Z3lyRMKPXcOvTlLDoBPDhVrDgz7CksO1KcKx','SsOYwq3DlsKEw7EDw4TDkTZWwpbCkS5DRg==','w5rCscKTNcO2PzbCvsOhwrvCg8Kl','dcK/woLDrcOVEQ==','wrTCisOzw75rYQ/DgMKD','WsO3wqjCt8K6UMKwZ0wNwofDtCjDgMOxwoFZCcObw6pMR8OCTnbDrsKufcOdKMKKQMOcSg7DlMK6IF7DnMOGF8K1YsOCw7slwp12YCB5w6DCkWTDm8O7ScKmdsO3w7pOw4XDpMO+wpJYw7HChsOlLE/Cq0rDv0rCm8OVw6MOw73ComVLwpBMNMKTw7kUwqgjw47mjLrmn6zku63lv5Xng5nlnoHmoafkua3oiIrlkpvDqTPDkcOTw7DDnsK3EsK6w7BaJHQPUw3DoXMUUXTChcOWXzrDpA8dw7zChMOFImPDrsK+','MBHCkMK/fA==','w5LDqVnCmFbCtsKr','wpLCsMOPw6ZBwpzClA==','MxPCh8KifA==','w67CvMKQFMO+NTPCvMOU6LyX5o2D5ouU5Yupw7I=','BHLDk3RhJ8OKw4E=','S8KQNy5d','wqbCr8OxGW3CgkwyDg/CjsO7','PGPDmWFw','WhIEWcOoIEJS','wpLCmW90YsODwp/Dog==','wpjDu37CjsO5wqHCqQ7Ct8OEAlPDs8OhDkR5wrE1FRPDuiQf','w4vCpcKdViXChEbCmcOZFw==','wrHCpGvDgygWwrjCl8Ox','w4TCp8KRWhU=','cMKowoPDtMO8DcO7wpLDoRY=','5b2m5Yu75rez6Kax5Zqs5LuM5pWC5oyqesOCw5ZDwpFJDQvDikE=','dQDCusKhwpXDncOjw5HDgcKbfw==','BHLDk3N3PMOW','wr3DrMOIw7RzUsKnGSTCncKHRB81JcO/','wpbDmVA=','PG/Drl5bw5DCkGPDhMOzWw==','wpTCjn5ZRsOCwpnDsTnDsApBdFbDrMOYw7jDr1ZlwrMew5rDgAM=','w5XCuMKASyHCmlvCisOZ','wrUWw4jDiiE+AA==','wrvCpcOsEmvDnA==','woDDpmrCicO7wozCuyzCqsOSBVPDisOhCQ==','W8KcwqjCmUzDqcOOZkAUbQNxw41YEcKvQCYAPsKhw4s=','ajnCiMKyU2PDgA==','woFbw4bDqcKJw67ChQ==','w5Usd1PDjwpX','O2nDpm9Ww4vCnW7DlQ==','f8ODNsOVw4w0','elLCv8OfwqRew4rDhQ==','I2ZbLj4=','w5HDkcONwrTDvVRWOsKT','d8K+wog=','worCvcOfKsO+Mj3CtcKN','OGXDtWBew4DCm3A=','woLChsOjw5dcDsKJLg==','VMOSw5g1wqXCuAhZ','w4pPV0rChA==','ZsK1wp/DrQ==','ScKDw7E3AzPDtSPCm2bCj8KpZsOKw7o=','w5XCtsKV','WsKAw7I9AQ==','CUEhaEjDvxLDlQ==','w5jCuMKdVCTCn1zCkcOIAX8=','wq59wockUxRI','w4PDosOnwqfDpMKwZ10Ucw==','GUwoPCBTUMK1KzFmwp7DjSDChcO1AQ==','XsOPwrHDiMKIw7wWw5nDlzd1','dQrCu8KnwpTDhsOdw5/DnMKQeA==','wp06DcKvCA==','GMKYwqfCjDDDtMORaAES','fsOPNcOLw5opw6o=','57OC57iz5o2N56W0','w4TDm8ONwobDpkR+','wqTCm8Obw4o5w5E/w6Y=','TgIQZQ==','KEg3HjlSZsK2CjFkwpU=','fGXDuU9ew4/Cn3bDn8OkZsOhTQorSA==','wq/Du8OOw4tlcsKqAho=','SsOLwrDDj8KE','wrPCmXpMdsOIwp8=','HzrCjcO2DCHDgw==','CkU6ZA==','w6YtZF7Dng==','TDPCh8K/W37CnSXCtEpawoA0wqYa','wpnClXVdYsOI','woTDjlNcwqTDugpa','wrHCpcO3HWrDgE4=','wrfCs3bDhiwwwrU=','wqTCm8Obw5U3w50ow7fDsA==','wqw1GMKwCA==','TUIoNR3Cu1A=','w43Cq8KHKcOyNyzCvA==','w6PDn8KIP8KXflA=','N0wq','wo/Dpm/CiA==','w79OwoTCpsKsRcKOwqM=','YTrCpMKnwpXDnMOWw4rDt8KWZAnCi3Fl','w7LDk8KUPMKGfVs=','wrt7wowgTBdffw==','a8OFL8OPw40=','K3NwK8OPAsKz','wp4+C8KYDDFe','OcKQwr3CmwrDuMKX','MMO0bMKlwo1BKQLDhw==','enpjb8KabcOM','CmtfLS/Dh8Ksw78=','w6DDkcOawpPDvVMX','wrRuw5Q0H8OXCzXDoGrDncOcfFQAIw==','fMKPwo7DhgHDmsOXw5kLw5bDgcKKMVhO','BcKwwr3CocOjM8O+IC1fw4LCtQ==','w5k+HcO3aXfDo8OWw5E=','wqjDoHnCiMOxwpbCtRPCq8OAAGvDisOpD14=','wqXCm8Okw4U=','PUg1HCpDR8Kg','w4fDrsOhwobDrcK0','clvCtMOtwrFFw5TDhR3CqEFUKMK0HEbDh8O8w6k=','wofCk25MZsOlwrM=','woA+C8K5HzY=','UsOTw4gqwqvCtB9IPw==','wrPCsMOaw55VwpfClAo=','WMKZJC9fOTbCrMOrP8ORw7c=','w7NPwpTCj8K/Tw==','w6xPwo3ChcK7WcK4wr4YGF8c','w5JSw5PDuw==','wojDrMOdw5BnScKs','w4PDosO8wojDpMKlZ00=','w7c3CMOtW2rDpMOdw6MtIFc=','WMOXw5ccwpbCrhlKLsOcw5xPwqNeBxM=','TsOFwpHDmcKPw7Ylw4jDjS13woM=','w71Zw4HDu8KO','w5XCuMKLMsO4ez7CtsOSwqTDi8KgF8KmwoVrw4Y=','w7M6HcOMU3bDuMOZw4c=','ZHB4fMKLWg==','esOCP8OCw4Ijw6A=','BX7Dkn1NPcOcw53Csg==','wrsyCMOvE2LDuMOfw4NwLFg9Yj0=','w49IXUrCrxowVsOWw6c=','MgfCkMKjYMOhwrDDmE3DtcKLYMKARMOmw7xeJ8KeKMOf','acOLKMOSw4w=','H2pbKDjDgcKww6zCq8K5wqx7','Uh4NaMKqEUZYF8KHw58=','WsKVIRFZKT3CuQ==','woPClWhRYcOWwp8=','wq3DpsOJw5ZhXg==','w4HCosKdXCjCg1PCng==','wrFfwpDChsKiXcKPwpcEBllWw6nCvMOrEBp8w67Cq8Krw4Vrw50SLMKJw6/Dqnpi','S8KeNjRMOTfCpQ==','wrPCvnjDnjg2wrXCn8OeXw5q','TcKew7wgFzrDtA7CkVfCksKie8OWw7g2wpLCrg==','AcK9wrPCvsOhLsOiPg==','IMOsd8Kvwog=','DHdJMg==','ZXBifsKNe8OtelDDvR7Du0nDiSPCu8OpKcKtw7vCr8OZG8KNO05GPXzCqQ==','wrlrwpky','cVjCs8OTwrVDw5fDkirCqEZlOw==','w7A6DsOLU1HDq8Oe','wpPDhFVfwrXDkR9GB1snw7XDtQ==','w7fCsMOWw7FVwpjCkAx8c0AGBWDDi1I=','w5TDssOgwo0=','wrDCncOOw6o9','QcOEw4kawq/CjQRIP8Obw4BE','w5BER2vCnRoj','w5UxDsOzWQ==','URsHUsO3HUpYF8K9w4onT8O7wrbCjj4=','w73Dl8KIH8KYc1IP','w63CmjbCi3HClMON','fRYOaMO1Ew==','wpZgw43CpA7Cn8Kcw5XCosKSw48uwoPDhHXDoEQ=','wrvChsObw47CjBsfCQ==','JcOpcsKgw45FLwjDkRY=','BcK5wq7Cn8OtNMO1GA==','wpLChsO5w6dPFcKB','KhzCm8K0a8O7woHDu2U=','esOGM8OCw4I=','wrfCjMOGw6E/w40ow4bDsMOPWmN0dg==','D37DknxXJ8OKw5HCpMOL','wrfCvcOPw6BTwofCnx9DbmcdHA==','GcKIwojCgwLDuA==','w5FYw5Q=','UsKfNShMCzbCqsOHKMKJwrTDl8OcwpTCqMOqdcKOQ8Klw6oFWxcSwqLDmMK6w458w77CsAE=','wqXCk3dBZMOVwpQ=','w5PDmMOjwpfDpMKicEAldzZhIQEG','wpXDksOfw5fCohEU','w7ksDg==','c8Kowp7DtsOC','cQDCoMKGwp/DmsOBw53DjQ==','dVjCo8OG','woXCk3dBZMOVwpTDjyjDtBFEdWnDrQ==','wokXw5/DgDA=','dcK/woLDrcOVEcOQwrfDrgc=','w5vDh8Oe','w7TCjMOAw4zCmQQRE8OUMWdQGcKnw53CkA==','w4bDqULCsVLCtsK4w4Y=','w4XDl8OYwovDtw==','dMOFPsOEw4UTw7bClA==','OEEtcULDuVM=','N0guFD1+W8KUGjFkwpHDiinCmMOEA2TDhsKTbXtIdMOhw73DlcOjQkc=','wqHDqH/Cn8O7wprDqA==','wqTCtMOcw6FR','w5zCssKGdS/Cg0DCk8OZ','wppjw4bCiRrCmcKbw5rCosKow5s=','woLCo2tKZsOJwp/DpBDDshFbdHXDpg==','w4bDm8OQwonDpn5DPMKZw5kRw4zDhw==','w5jCssKcUiXChH7CmcOSAQ==','w7LDk8KPBcKaZ0cJTg==','w6LDvMO/','wo4uDcKuCCtL','SMKUMRlZJDk=','w7JDwo7Cj8OgWMKKwqIFC04Lw6XCqg==','wq/DrcOYw6hzQsKsHw==','woljw4DClQrCr8KSw57CucKnw5skwoI=','wr7CvQLCvlI=','woHCjm5WYMObwo7DtQ==','W8OOwqbDsMKAw6sSw58=','wqXCjsOawofDikdFS8KLbxkM','wo/DglJUwqDDvA==','wrPCsMOBw79RwprCgwE=','KkwoAio=','wrjCusOPw7ZdwoDClih8cmcHAW3DgA==','GmtWNg==','wovDrGTCh8Ohwo3Csg==','HksifErDpA7Ds8Okw45UXsKfa8Kf','w5Vcw5LDoQ==','EXLDkXZyNsO0w5nCs8OJDA==','wppuw5I0P8OZ','w6crG8O2UmTDo8Ocw5s=','w4nCuMKANMO0','5Ymd5o2P6KKf5peo5LyC5Ym677y55pu25ZGZ5L6e5a2f5oum6YWz57yo542a5p6O6KKp5paS5L+577+o','KUguNS5DVA==','IMOof8K+woRPLgPDvxZ6Gw==','a3p5acKbW8OtVkHDqg4=','cQDCu8K/woPDgMOd','bVbCosOBwqQ=','wqrCkMOLw6Mg','dFnCoMOHwrVxw5bDnRfCohIpLMK5El7Dk8O6w6kHw4zCoXrDhSQ5','w5rCpcKXRw7CmVbClQ==','w47ChsKCNcO0JT3CrcO/wqrCicKxBMK7woc=','w5XCsMKcIg==','wqPCpTHCp1bDnA==','WcOZw50dwq3Crwp7NcOGw5pVwotJAA==','woDDpmw=','w6AtCMOxT2XDpcOIw48LN1c1fn4Qw4/Clg==','VMKJw6krFi8=','b1jCpMOTwrVPw6A=','wqTCusOHw7xA','eBICecOyAEY=','HcKfwq3CjBs=','ZcK5wonDt8OV','wqHDpcOYw7tiVMKgAwDCsMKPURUtIsOpw68=','w4QrYkDDnAZhUMO8w6IOwoc=','wpjCssKKRSHCgFPChMOTFkJTw7LDqU7Cog==','w43CvsKXUTDCmUDChA==','UsOTw5MUwqHCtR9S','wrXCr8O8Eg==','woE0GA==','wo1+w5zClR3CkcKBw54=','TBgXbMOzF3o=','ZgrCuMKswpfDgMOdw6HDj8KQZBbCim1u','w5rCocKAUQLCqk/DmMKLw7UuW1vDiEwIb8KwfcOdYT7ChEwJFCUYwrZy','w4nDvsOSwo/DoMKp','w57CvMKGC8OwLz3Cqw==','w5I6CMOrSXHDrw==','w4PDosOnwrbDrsKkZ1cf','wrVuw4Y0Pw==','w57CvMKdLcOiOTY=','wpLCmW96ZsObwojDuSHDtg==','MWdIOT7DnMKxw7nCqcKkwqZoKcOIwoZ2w4bCog==','wrICw47DmQ==','wqLCs3fDiDotwr7Cig==','dMOfNsOVw4A2w6jCgQ==','MsKUwqjCnRbDssOG','wqTCusOHw7xAwrHClh18a30cBg==','w5XDvljCslTCo8K+w5o=','w5XDvkzCskTCrsKrw4s6wos=','wpTCmH9rbMOPwojDsyo=','I0E8ZkzDvw/DnsOAw4RURsKIbcKfWcOhLQ==','HxrCrcKAeiHDgw==','w7ItBsOycG3DrcO2w4Mr','woXChsO+w5dHD8KBPhbDqsKX','w6A+G8O4WXc=','H2pbKDjDgcKww6zCusKkwqB0OQ==','elLCpA==','wo7DjkhUwrPDvQ==','w5DDosOgwpE=','w5Qmd3bDmhtu','w5XDncOLwoTDvkQ=','wpTCtMKVUC/ChlnDtsKPw7EsTkDDlWEqcsK6bsOmZjHCiF0=','w6pYwpXCicKmcMKCwrIIBE8c','RsOTw4g=','wqLCssO5GWrDg0EnEjM=','wozCkMOq','wpRpw53CngzCgw==','wpHDilhYwq7CphtLCUMzw7PDtX9vUMO6wq3Dhw==','EXFd','AcK9wqjCkcOhO8OiLgJK','w7bDmsKUJcKQ','wpHCuH7DgDo=','5bKQ6YC+6Ked5Yq+6Law57ug5aeq6Led776e','wrDCjMOXw4XCix0e','w4XDo8O3wrbDrsKkZ1cf','flvCv8OBwqQ=','w5vCocKaUwTCiw==','E3bDjmph','C8Khwp3CucOlIg==','wql3wosiWw==','wqbCl8O6w49reA==','AMKDwrzCigjDjMOKYgobbBQ=','w71Pwo7CnsKoTsKnwrgDDw==','IhbCkcKdeMOKwrDDhA==','ejnCisKySWPClg==','wpHCjMOZw5vCjQAV','w4jCtMKXSCU=','N8KQwrvCpAzDpMOGbTsHfh9tw5waCsKh','GMKQwrDCjBE=','wq3CuR7CuUXDi8KUw4Y=','wrjCusOJ','w4QsbEDDnwZhVsOJw7UY','w5HDrV/Cr1I=','wqYWw4nDkA==','WznCn8KVU2TCgRnCtg==','w5fDs8OhwozDr8K2fFID','w6MACsOqTnHDr8OUw5YAJlkuf2EU','wrrDu8OJw4pxWsK9CA==','wofCmXZXdcOfwrbDsTbDtAw=','w7lPwo/CgMK+U8KF','w5DDtcOywovDssK3ekYXQCt1PQEPSsK5wqY=','w5rCtsKdNcO1PzbCuMOUwqzClQ==','woLCi8Osw5FJCMKOLT7Dt8KcMg==','wr5qw5A7PsOXEQ==','wp00E8KlCipRH8KJV8OPw783Mk4=','wozChsO5w4ZcEg==','LhPCnsK0S8OcwqHDl13DucKWa8KlesOqw64=','wrR8w5g=','w5HDo0HCpVDCrcKkw6A4wrYVK8KoXCQ=','XzTCisK0W3jCnR3Ckl1Qwos=','wqluw40iKA==','wrPCgcOlw4A=','Kk08YE7DvwnDg8Otw4pXeMKFY8KZTA==','w5rCtsKWIg==','wq/CuBTCnljDkcKPw4HCsQ==','w43Do0o=','GlY7a07DqhTDiQ==','SsKPw7wiAQ==','F8KewqfCmgzDrMOG','wqXCo8O9GXw=','wo/DrGXCmcO3wpA=','w4VYw4/DosKKw7zCkcOe','F27DjHw=','w7xIUEDCkg==','w5fDkMOdwqvDs1hBKw==','w57CvMKGFMO+IyrCusOF','wrHCunzDnis=','wqlgw5Y/OcOnGDHDu2nDgcOdUw==','w6hLwow=','woE6BsK5Hw==','NRvCkMKmacOcwqfDgg==','LhPCjcKVcMOUwrLDn0fDt8K6bMKWYcOvw7g=','woRzMwLCi18/','WcOfwrDDjsKEw7wD','wqfChsOsw5dbE8KF','QcOEw50XwrfCpwJZN8Ohw4FAwoxVAgHDm1A=','wr7DqMOOw5d3','U8OEwqbDmcKZ','fcKUJClNIj0=','IMOof8K+woRPLgPDrgt2FMKy','Hm7DpkBa','w73CuMKBL8O0Mg==','WcOFwq3DjsKFw7sZw4zDij1o','w5vDo0LCsQ==','GGNOOw==','w7bDncKhw483IkU=','woPClX5Pc8OVwojDpA==','WsKDw6g8Fzk=','wqDCqcOrHnvDg0U=','woDDjlJFwqTDvA==','K8KYwqrChg0=','NwDCgMK/esOSwqHDkw==','UTnCn8KjTmI=','Mx3CnMK/bQ==','w4tTw5TDqsKdw7jCjMOLwoB/wpw=','wrjCvRw=','wowpGsK9JCE=','w5bCtsKZQxLCmUbCkcOIDWNIw57Ds0LCow==','wqXCjMOWw4vCnQAVFQ==','FWxOPy3DmMKxw6fCi8K/wqw=','VcOawqfDkg==','VcKDw7wqDTLDvCzCk3DCicK3fMOKw7o=','wq5zwpsbVRZIVA==','wpHClXx7asOIwpnDvCo=','w4fCq8KdWgTCvEbDsMKBw60+VUE=','w5hPwoHCnsK4TsKO','wo4+EcKoCDdzKcKAVw==','dMOPLsOEw5s1','XzTCisK0W3jCnR3Cg0BcwoQz','PGjDpE9Uw5zCmg==','wr19woUuWxdDVGjDmMKDw4/Cg15R','WMKIw7kCBSXDvg4=','wrbCgsO4w55h','woLCkMOIw6o9','VMKfJzhePyrCrsOfI8OYw7nDlcOQ','w4LDqUPCqFLCsMKaw5A2wr0O','w6REXELCmRowRsO7w69UfAwIXsKCeCw=','PUg1GzxYWw==','fljCtMOX','wr7Cl8Oow5ta','wqbCr8O0Dn7DgE4MEA/Ck8Kjw6wDew==','w4LDpEzCrlDCq8Kkw5gewqEfIA==','wrPCuXbDnjs2wrXCmcOrSBg=','UsOLwq7Dk8OPwrxZwoPCkA==','AsKYwqzCnhPDr8ORdQ==','wqLCmsOL','ZADCusKxwpXDnQ==','wrp6w40jKMOWCw==','DHnDk2lhPQ==','wq3Csx/Cv1PDjcKTw4PCoAYQ','wq1gw6w0I8Oc','w4ExbF/Duh19VsOE','w7HDmcKYI8KYd1sebl9Nw5LDm8K8HQ==','YcKBwpI=','wpbCk3VeasOIwpc=','F2XDnXd3NcOXw4rCp8O+EcOgdsK7wog=','wrPCh8O7w5lhZg==','W8K/wp7DusORF8OzwqzDgw3DpsOzSMOcwqbCncO4TA==','w5JIw5PDpw==','wrPCs3fDmDot','ZHp1esKLW8OsWWXDoBTDtEk=','woXCm8OOw7Itw5o/','w5zCssKGaiHCj1fCgg==','wpjCmW9dccOJ','wr9pw4jCjwvCgsKQw7jCucKhw4Quwo/Dmm/DoEQ=','AWLDiG1rPcOjw5zCq8OYH8K5fsKrwrA=','I8KUwqvCugzDo8OIZBs=','WRIMZ8O0HU0=','ZXBifsKNQQ==','w7vDkcOLwoTDs1VLK8K1w5wNw5HDjcKywoYMfcKt','IMK9wr3Cp8OxKMO1','YcKFwpbDmhTDhg==','w4VTXELCsAAlc8OZw7Q=','WcOFwrfDjsKSw7c=','A0E6YF/DuA==','wrUWw4nDjCs9','BcOlf8K4wpZUJQ==','EGtUPw==','wq1uw402KMOM','wpPDmVNbwqTDrQxKB18Zw7vDr2pHWg==','w4TCocKAcBHCl0A=','6LGt6K+x5Y6M5pW15L+M5oOk','w7bDk8KVIsKQYGUFQl1c','woBzwp0lVQAZ','w4XDl8OcwonDtw==','wq3DpsOTw5Z2UsKnDADCisKb','wqfDp8OYw4Fq','wp7DrGXCicO3wpDCuQ4=','w6QtBsOvWXHDvsOTw4cs','wqDDik58wq7Dqh1PPEM1w7TDqH5BUMOy','WsKJw7M6AS4=','w5TCq8KBRgPChg==','cgDCp8KhwpnDgcOSw4rDgcKaZQ==','wpbCs3jDmCotwr4=','OmdbLirDmsK7','w5TDlcOKwoLDkUhWOsKaw5Y=','f8KJw7w6ES7Dvg==','w7lPwpTCucKiScKZwrII','AXbDj3xHOsOKw5vCpsOJ','w5LDqVnCjFbCq8Kkw4sPwqEVMcK+QT4V','MMO1fMKhwopSaAXDjAF+JcKlPsOewqsAwp7Dg0zDs3DDuCNnGQvCuXfCvQ==','QADCt8Khwp/DncKA','woPDqMOIw5Z7Q8O9','wqDClsOOw7Q/w4E0w7PDlMONXms=','L2/DskVLw5DCkWw=','TsOYwqPDksKSw7QYw5/DkwxpwpbCiy9GX8Kiwrg=','w5MxdlHDkCx6RcOPw7UFwpLDt8ONwrAiwpw=','ZhDCp8K9','JQDCmsK8VcOdwrLDukjDpA==','wq/DrcOYw7d9TsK7DhE=','esK1wos=','w4ZUw4fDjMKGw7rCgMOLwoQ=','wrTChsOXw53CnBseBsOPJlo=','worCtQLCqFTDkMKUw43CugIPwoc8wqHDnQ0=','wrUMw5XDiiA5Gl4xNDU=','wpTCjGtUeg==','wqQMw4/DliA=','UQcXZMOoHHhAAsKOw5gnHcKz','YDTCs8KXX8KDw6U=','wrfCvcOPw6BTwofCnx9Sc2sS','LGXDtQ==','wq9pw4rCjxHCgsOG','w5PDo1jCslM=','BMKEwrrCgQ==','wqTCusOdw7tAwofCnhY=','wo/CshfCoVI=','woDDh1VSwqo=','w4rCvMKGA8OwIjk=','wqPCm8OZw4HCixQfFcOWF1tEGsK2w5TCgzzDiw==','w4BOXF3CmAcsXsOMw6VL','WcOGwq3Dj8KE','6K606YKJ5ou35o+a5p+Z57yw5Y63','VsKCIg==','IhbCkcKYdMOSwrLDkw==','ThYRfsOi','ZMKzwovDscOE','M8OhbMK/woY=','esOCO8OTw44vw6rCn8Kew4BVBw==','wpXDilA=','wrXCp8Ocw71DwqfCkhd9','CmtJMz3DhMK7','w7szDcOATGzDpsODw4UwK2k8aH0bw4jCnCc=','XRsKbsOs','wqbCsMOAw7ZRwpzClAo=','w4/CuMKhQy7CkmDClcOPEWBS','MW/Ds0Few5XCl3jDlQ==','bsOZYMKOwoY=','w7PCkF/Dqhlvw6s=','wrTCjMOWw5vCnQA=','VsOew50LwqPCqANMCsOaw5pPwpY=','wrXCr8OtBWrDig==','JBfCgcKCdsOGwqfDlUw=','wofCmXVcZsOIwp/Dog==','worCvQPCpVLDgA==','OUwoPSZZUMKG','wrHCgMOUw4M=','w5TCocKaQALCjEjDsQ==','X8OPO8OVw5w0w6E=','wqUGw47DvCUkFQ==','w5PDqV7CuUPDr8Kmw5A+wrcTL8K8Hisewo5r','w5bCssKGQzLCv1zCvcOZFm9Hw6vDpFnCk8KbYVZ7Izd2wq7DrXDCvwTCisOH','wrbCtMOdw7d3wofCgxt/ZA==','UzDCj8KZTH7CnwPCtEBbwrUgwqwbSMODwprDpQ==','SsKFwoPDixPDh8Oc','wqnCuQTCnljDkcKPw4HCsQ==','5q+E5Z2r5o+T5LqW5peL5oyB','wpHDhElfwqU=','wrfCssO9FlzDl0MyAQvCiMKmw60z','EMKxwq/CusOmNsO1','N0guFD1E','wrzCswTCrEPDgcKn','woXCl8O/w4ZL','wpHCj8Osw41ABMKEGBDDpMKdHy1dw7U=','F2XDiXpvH8ORw5vCr8OCDcOx','e3Z3d8Ka','IBPCm8KyfMOfwpTDmEDDvcKYccKNbcOtw5tYM8KBKA==','wo5tw5vClQ==','wqnCuQTCgVbDncKYw5A=','wrfCpMO8O3jDlkUh','BRfClMKlbMOBwrA=','wqfCiMOKw5zCnQ==','N149','Em1+OyvDiQ==','w5HDkcONwqvDs1hBKw==','wqx2wo0bXQFIeQ==','w7BCVkHCmQ==','KEp8','G2dOCTDDncKsw6jCjw==','wqDCo2rDhA==','YAzCp8K8wpLDg8OW','wpTDtExDwqTDvR1XN1I7w6/DqWtL','wrfCs23DoD4mwr7Cig==','w4HDq8O2wojDpMK/YQ==','JBfCgcKdeMOKwrDDhA==','wqp3woY9TxdD','XsOLwrbDnQ==','XzTCjsKlV3TClw==','w6xLwoTCvsKieMKOwrY=','wrTDjl52wo3DnB1NDFQmw7/DqQ==','w5fDosOnwqHDoMKldA==','S3RkVsKQVsOmW2HDvRzDtE7DgD7CisOr','w7gOw5XDjiF9BlAxMDLCmMKMX1FrUXDDsEgWwp7Cj8OlUAPCvsOpw6Muw5p6Rg==','EMKYwrvCjADDtMOKbgEhZgF7','w4YnZ2HDlBp9VMOY','w53CvsKeSm3ClV3CnMOTFg==','DRNOYMOoFkZaTg==','w4/Dr23Ci8O0woTCug==','wpvDlnvCn8O3wpHCuQjCmsOCA1LDkcO9Ag==','XRgMf8OjG01XF8KHw54=','T8KBwpDDsgnDkcOcw6o4w4HDj8KOMVFPc8KR','TQMaYcOi','wp/Dqm7Cg8O3','blTCscOewqQ=','wqAKw4nDkSY8EQ==','eVLCo8OGwqhEw5nDiBPCqEE=','wqDCp8Obw7xXwo/ChR0=','f8ODNsONwoQlw6vClMKww4A=','MWNOKDbDkMOq','wrjCncOw','SC7CgsKhW3TCgSjCtl9UwoMpwr0=','SgUWY8OkE1dT','dcKywo3Dq8OXCsOywrnDgRDDrMOg','w45cw5nDqsKd','H21UKTDDhMK7','HWZeCTDDncKsw6jCjw==','wrUGw5TDjDY/HVs=','EsK5wr7Cv8Oh','w4omd1fDiRw=','f8KDwofDkQM=','PWxdNjo=','wqfCsMOa','w53CuMKGJg==','SsKJw6kKBSjDug==','WsKEw7w8AzXDtRvCrGzCicKtYQ==','wrx3w5w0PcOMFjvDug==','F8KZwqjCmwTDqcONZi4HehA=','wpJ7woo4Ug==','Sj3Ch8KzWQ==','wrTChcOXw5zCnQ==','w4nCtsKePsO2OTbChsOHwqzCicKuBcKnwow=','wo1tw5vCnBvChA==','w5HDo0TCskM=','AkU3YF8=','w7bCiMOxw49mJE0=','Z3lyRMKPXcOqWUHDkBrDv1LDjCLCl8Oo','D37DknwpMMOdw5bCvsOJDA==','wpzDvHjChQ==','HEg7BTpFUA==','wq7Cm8Obw6Mqw6E0w5nDsMONWGtubcKUV3c/Z8KYSAHCuTDCjsK9RMKLV8KU','FcKVwq0=','EXLDmmthIMOQwpXCr8OUHcO1YcKuwpnCqhXDt2HCj3zDvsOEG8Ogw5k=','Uh4NaMOUBlFfDcKF','wrnCh8O5w4g=','w7DDkcOYwpPDp1NB','wrIyHMKzAw==','w5TDmMKcOsKQ','Q8OXw5A=','wq3DpsOSw5d9V8Ks','wqHCnMOiw45vWBTDgMKDw4QmeA==','w5fDhsOLwojDpWhHNsKY','Y8KOwofDjRTDmsOL','VcK7wp7DlMOfB8O5wrLDlBDDqMOvX8OTwqfCjsOh','eMKSwpfDkQXDlMONw6M=','wqHDp8OQw4tzXw==','wrRtw53CiRfCiMOB','ThgKY8OzEw==','EWdOPy3DocKww4bCj8K5wqp7OcOOwppUw53CqMKSwpTDhgtDw6jCuGZuw7bCm2c=','5rK35p2s5Y+u5ZyK5paA5o+B','VMOSw5gqwqvCtB9IPw==','wpjDu37Cg8OxwoPCqBk=','wrXDisOb','wrPCkcOGw6gsw7c9w7HDusOVSGV0','w5MxdlzDmA57Ug==','wpPDh11fwq/DqxxxB1Aww5bDsnZL','woXDkMKUworDvUVBNcOb','wpDDjkh1wqDDuhk=','NwDClMK/asOVwrrDhETDhMKLZMKKccOvw7xeNw==','woHCjm5baMO5wo/Doj3DtBBaVXLDosOfw7Q=','w4NZw4TDg8KOw7HChsOV','PUguIiBCR8K6Gg==','w7lPwpTCpsKsRcKOwqM=','TcKew7wgFzrDtA7CkVHCj8K3dMORw7E=','VcOEwqHDkMKOw6ES','w7nDn8KVMw==','FsK3wrXCvcOw','L8OSw5PDmlXChMKB','ZADCucK6wobDisO/w5/DkcKQeQ==','wqzCksOLw5kow4c2w63DssOQVVV9Z8KJfms/ew==','w4bDm8OVwp7DtU5KBsKRw5YNw4nDmsK0woY=','WMOFw5s=','N8Oya8KvwohqKQfDmwpsHw==','f8KDwoPDkwM=','wq/CkcOI','D2FfNDo=','WsKEw7w8AzXDtRvCvXHChcKi','csK/wp/DrcOZDcO9wqrDqQ3Dpw==','woo+C8KeCCRNKcKAVQ==','wovCoMKdQlDCkFXDrMKCw6JwGF/DhlovacKxaMKDKGHDk0gUemlPw4ghw6fClcO0TMO1SsOmCsOvw41hwph1ScOkaANOw54Bw5xewr0Ww7BhJSbDgQDCpsKlOwIWUwI9w587wqBXD29Nw7PDkkXCisOKwpdeHQHCg8OiJcOlw4wyZHfDo2A8wq3ClMKCXC/CscKSEVPDjsK2wrxbwqLCuy0Xw7RQwqoYw7LClcK1MXvDlsOOG1fCr8OVwophQVTDgsKFw47Dm8KDZsOHOMKyw5kQJsOhImnCmcKwAsK5OcOZXsKALCHDgcKXwpXDjiAIAMOHSh7Cgi/DlsOTw5ksIsOuI8OBw73ChsOIKXXDvHU5fMK1IMKUdRMCXcKTUMObdQgXE8KYVMKNQMOvwp0aY8Kaw6bDgsKifFvDscKYacKwAsK4NsO5w7jDuVBewpnCqAZRLx0Cw6QDPsOTbcOcw5UdWMKbI8KXw4Zyw4/DmA1gJsKCwpkKwq7ChcOGBcO4w6BMN8O/w7PDlsOkw5bCnMOVEsOSMMKeE8K3wrrDvTnDi8KLwrRkw5XCgmbDnSM6wr11BikOw5gpTcKrWsOjIsOcw5vCp1rDtFEIwonDssO3XcKzwrDCnsO6J0XDl2vCuMOnwrhpfXnDil5mwonClMOIw53ChV3CqQ9EwoRYSHnDtcKSekXDtcKv5L6F5oKK5ZCv56eyEzbCocK4dF8hVcKLwq/CnsO3EcOzUxkTwptOb8K5w7nCpgoKwrsQHURbLw1uwqXDssKa5LyC5oKH5YaD5a6Ew508JcO1PsKew5PCuXXDllbCtnMMf8OjayFoBMKdTS3ChMKBw41/wrbDpCfDhTZvwpjDtcObw4fCgRjCmcOUEcOsFjZvVHAmSUoTCE9Vwqp+XcKXw6cIwoRlwpLCpcOcFgHDpyHDiRM6wpoTw7ZnwrvChQ7CuFnDgcODZlhmQcKVw7VoD8KQQBDCv8KfZXDCpGxZEQYza2fDlMOCbxYTSmPCux4mfE0JURgsWsO3BsOawqtMwo0Vw5sPw67DrcOow64xVEhtwq01OicyMFU5w4Bvw6Rsw6dIw6rDnOiiieaWpeS8nOWDlOi/qOeAueWdkeajn+S5v+iLj+WRp8KUwrU5fcOkCBfCq8KxRHAMO8K6fcKSw7rDm8KPEhFAwoU6A8OzISgEw4zCpxsxRwEg','w45ER0rCjh0=','wrzCuX4=','w5PCsMKGURU=','wrDCjMOXw4LCnQYCHg==','w5bCmn1eZcOcwpw=','wpzDpmLCg8Om','KUguMypWR8KwESQ=','OGXDtX9Qw4zCjGHDlQ==','wrfCusOKw7c=','F8KewrzCmxDDpQ==','EHLDiF1lJ8OZ','wr5xwow5WQ==','w4fDq8O6woDDr8KlQl0eYDE=','bcOYL8OCw4IKw63Cm8K6w5xDAw==','wqZ4w4zCgwo=','LxvCm8K0','XFnCt8OewqQ=','wpLCmXRVZsOOwojDqQ==','L2HDs19a','w5FEUkPCuRYhXsOOw6FMfxslX8KGdSco','w4bDqVnCj1jCt8K4w5w6','woA6Dw==','wqfChsORw4HCjC0XAsOUKVpKGg==','wqPCqRzCuV7DlMKRw5s=','dQzCpsK2wpzDig==','RsOTw4g9wqXCtQw=','6KCI5paL5Y+THnjmnZLnn4g=','wqE8w5nDjTYiEVExDiXCksOZREx+','O2XDpnhQw6vCn2Y=','w7nDl8KCM8KH','wobChsOiw45LFcKSMw==','wo7DnlBFwqjDvhRa','w4BUQV3CmQA2','wqs+HsKoGDda','wow/G8KQDDxaMg==','wo1+w5zCmBXCvMKcw5jCs8Kjw5su','wobChsO5w7BBFMKSKRo=','wovDrH/CvsO9wpfCrh/CoA==','57Gv57qA5o6556al','w5dES1s=','wq1Ow43Ch8KiWMKOwr1A','VMOFwrDDkcKAw74ew5fDmw==','wrpqw5ElP8OXFjA=','wrhrw5sCIsONDTfDsQ==','wpjCuRPCuVjDlsOO','Xj3CmMKjf3jCgRnCv0o=','KUguIS5eW8KtLzFowoDDmzTCnsO+','ZsK1woDDoMOXDMOywoHDpwfDpsOrX8OawqY=','R8OTw48cwrDCkhlKLsOQ','woltw5vCiBs=','wpp5w5vCiRvCnsKB','QVE+aULDqgTDqsOqw4deG8KBa8KVXcO5Z0dxfgfChsKcwrDDnW13wojCtcOpw5DChCg1GA==','eMOOPsOtw4g/w6HCig==','ABPCh8KcdsOXwrDDmn3DosKYa8KXZMOsw69H','cVbCqcOXwrN+w4HDjB8=','bcKkw48LIQ==','wo3Du3nCgsOlwqvCvxPCqw==','w4LCrcKbM8O9MyU=','57Ci57uQ5o2v56Wr','GWXDoFhKw4vCmw==','w5VAXw==','w53DjMO5w4cQa8OAal/CpcOZc2QTwrBJaE/DqDIXK8Kqw63CpBDDhAg2w6MPbMOKe37DlzUjw5prD1MYw48sCcK0wqggwqTCtcOsDlBnwpAtX1/Dsx9tfSfDkzLDnMOzwrnCnC/ClB/Dli5iI8Osw6YfDMOwe29tw4XDiDchwphcd0B8wqfDtcKlHyMqOcOOwrrDqT7Di1nCimJew61BGX0Vc8K1Zw==','woljw4DClQrCkQ==','w6bDlcKeOMKQ','w6LDosOywpHDtMKjcA==','5Yq+5o676KC35pee5L+c5Yib772U5pu25ZKG5LyU5a6+5ouS6Ya7576m542S5pyH6KGx5paw5L2c772N','cHXDsUBQw5jCmkTDmcO6TcK7TQcqX8KvdhxAOnHDpDFBQsK7PCNPQcORwrbCsMK+SQ==','w4/CpcKHSCPCl0bClQ==','WcOfw5Ic','esK1wo3DvcOZDcO7wo7DrxHDoMO1RcOawqY=','RcOXw44KwqE=','wpXCh8KPwoXCoRcc','MwDCmsKhfMOBwqHDn0zDow==','wphow43CqBHChcKHw5jCsw==','woAoGA==','woLCjMOiw5FKCMKOKwvDoMKK','BHLDiEprJsOKw5vCrw==','FcKdwqzCmxc=','wppjw4TCixfCnMKQ','woTDjkh9wqDDtx1R','DhPCgcK5TMOHwrzDmlo=','woLCj8Oiw5BL','w4VYw5TDg8KOw7HChsOV','wrsGw47DnTYj','w4XDkcONwrfDs0hKLcKmw4ENw5PDjMKpwpwU','wqbCocOqBHw=','ZcKqwoDDsMOE','w4FSw4/DvcKLw6HCjcOGwpVuwoo=','wo43EMKvCA==','w4FSw47DqcKGw7rCjg==','w6HDpMOdw5Q9XsKxDhXCmcKJQBU1','w4VIXUs=','wrrDu8Odw4phV8KoGRHCtg==','BMKQwrvCmgY=','wrPCuXfDnzAzwr4=','YhfCtcK2wpU=','WsKJw7M6AS7DlxXCkmY=','cMOEPsOEw5E=','J8OpecKPwopUIwjDmw==','w5rDsQPCv1jCrMK5w4stwqYZNcK0QWJOwplvMcO9wq9Vw5TCpcK3w4pNesOSHRzDvA==','wqBnwoUjVQhBcg==','WMOZw4ocw6nCqAk=','w7k+AsO6aHHDq8OUw5EzJEIyYnw=','dMOLKg==','w6pFwrPCj8KjWA==','w4HDtcOhworDsw==','w5vDjcO4wo3Ds1k=','dcK1wpnDq8ODBg==','URsHUsO3HU9PBMKNw4MdR8O0wqrCiyPCkcK0','L8KGwoTCj1bChcKJ','fMKBwpDDjAM=','w6QwAMOxSETDr8OVw4gsKlg=','w4zCiMKRQy7CglfCgg==','wqXDjl1FwrTDvB0=','AEUjYA==','XcOPwq3DkcKEw6YFw5Q=','J2Bmd8KQU8OncVzDoxjCtVDDiTXCncOqacKrw7DCqMOQFsKQAW9aIWvCscK1TiHDtALDpA==','woppw53Cvx/ChMKU','woEyEcK5','w5FAV0bCkw=='];(function(_0x26dec3,_0x56ccde){const _0x23a0f3=function(_0x599fa8){while(--_0x599fa8){_0x26dec3['push'](_0x26dec3['shift']());}};const _0x3cc2ff=function(){const _0x4e822f={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0xe8d3e5,_0x51821f,_0x193a38,_0x2c48f1){_0x2c48f1=_0x2c48f1||{};let _0x59cde7=_0x51821f+'='+_0x193a38;let _0x3adaa8=0x0;for(let _0x32bfe5=0x0,_0x5a408c=_0xe8d3e5['length'];_0x32bfe5<_0x5a408c;_0x32bfe5++){const _0x1468f1=_0xe8d3e5[_0x32bfe5];_0x59cde7+=';\x20'+_0x1468f1;const _0xa4bb6=_0xe8d3e5[_0x1468f1];_0xe8d3e5['push'](_0xa4bb6);_0x5a408c=_0xe8d3e5['length'];if(_0xa4bb6!==!![]){_0x59cde7+='='+_0xa4bb6;}}_0x2c48f1['cookie']=_0x59cde7;},'removeCookie':function(){return'dev';},'getCookie':function(_0x31e948,_0x54f479){_0x31e948=_0x31e948||function(_0x19c66d){return _0x19c66d;};const _0x4a6229=_0x31e948(new RegExp('(?:^|;\x20)'+_0x54f479['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)'));const _0x45ed34=function(_0x58ee3e,_0x5f354b){_0x58ee3e(++_0x5f354b);};_0x45ed34(_0x23a0f3,_0x56ccde);return _0x4a6229?decodeURIComponent(_0x4a6229[0x1]):undefined;}};const _0x209e8f=function(){const _0x37be11=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x37be11['test'](_0x4e822f['removeCookie']['toString']());};_0x4e822f['updateCookie']=_0x209e8f;let _0x104321='';const _0x264a15=_0x4e822f['updateCookie']();if(!_0x264a15){_0x4e822f['setCookie'](['*'],'counter',0x1);}else if(_0x264a15){_0x104321=_0x4e822f['getCookie'](null,'counter');}else{_0x4e822f['removeCookie']();}};_0x3cc2ff();}(_0x56cc,0x107));const _0x23a0=function(_0x26dec3,_0x56ccde){_0x26dec3=_0x26dec3-0x0;let _0x23a0f3=_0x56cc[_0x26dec3];if(_0x23a0['fVDwGQ']===undefined){(function(){const _0x4e822f=function(){let _0x264a15;try{_0x264a15=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0xe8d3e5){_0x264a15=window;}return _0x264a15;};const _0x209e8f=_0x4e822f();const _0x104321='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';_0x209e8f['atob']||(_0x209e8f['atob']=function(_0x51821f){const _0x193a38=String(_0x51821f)['replace'](/=+$/,'');let _0x2c48f1='';for(let _0x59cde7=0x0,_0x3adaa8,_0x32bfe5,_0x5a408c=0x0;_0x32bfe5=_0x193a38['charAt'](_0x5a408c++);~_0x32bfe5&&(_0x3adaa8=_0x59cde7%0x4?_0x3adaa8*0x40+_0x32bfe5:_0x32bfe5,_0x59cde7++%0x4)?_0x2c48f1+=String['fromCharCode'](0xff&_0x3adaa8>>(-0x2*_0x59cde7&0x6)):0x0){_0x32bfe5=_0x104321['indexOf'](_0x32bfe5);}return _0x2c48f1;});}());const _0x599fa8=function(_0x1468f1,_0xa4bb6){let _0x31e948=[],_0x54f479=0x0,_0x4a6229,_0x45ed34='',_0x19c66d='';_0x1468f1=atob(_0x1468f1);for(let _0x5f354b=0x0,_0x37be11=_0x1468f1['length'];_0x5f354b<_0x37be11;_0x5f354b++){_0x19c66d+='%'+('00'+_0x1468f1['charCodeAt'](_0x5f354b)['toString'](0x10))['slice'](-0x2);}_0x1468f1=decodeURIComponent(_0x19c66d);let _0x58ee3e;for(_0x58ee3e=0x0;_0x58ee3e<0x100;_0x58ee3e++){_0x31e948[_0x58ee3e]=_0x58ee3e;}for(_0x58ee3e=0x0;_0x58ee3e<0x100;_0x58ee3e++){_0x54f479=(_0x54f479+_0x31e948[_0x58ee3e]+_0xa4bb6['charCodeAt'](_0x58ee3e%_0xa4bb6['length']))%0x100;_0x4a6229=_0x31e948[_0x58ee3e];_0x31e948[_0x58ee3e]=_0x31e948[_0x54f479];_0x31e948[_0x54f479]=_0x4a6229;}_0x58ee3e=0x0;_0x54f479=0x0;for(let _0xe5f4d1=0x0;_0xe5f4d1<_0x1468f1['length'];_0xe5f4d1++){_0x58ee3e=(_0x58ee3e+0x1)%0x100;_0x54f479=(_0x54f479+_0x31e948[_0x58ee3e])%0x100;_0x4a6229=_0x31e948[_0x58ee3e];_0x31e948[_0x58ee3e]=_0x31e948[_0x54f479];_0x31e948[_0x54f479]=_0x4a6229;_0x45ed34+=String['fromCharCode'](_0x1468f1['charCodeAt'](_0xe5f4d1)^_0x31e948[(_0x31e948[_0x58ee3e]+_0x31e948[_0x54f479])%0x100]);}return _0x45ed34;};_0x23a0['WPlGBn']=_0x599fa8;_0x23a0['xpePNy']={};_0x23a0['fVDwGQ']=!![];}const _0x3cc2ff=_0x23a0['xpePNy'][_0x26dec3];if(_0x3cc2ff===undefined){if(_0x23a0['agqWXg']===undefined){const _0x399109=function(_0x382a81){this['KxvnHz']=_0x382a81;this['JCBxYl']=[0x1,0x0,0x0];this['IuSVAr']=function(){return'newState';};this['ilAyka']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*';this['UOvrbL']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x399109['prototype']['CuuddD']=function(){const _0x452db9=new RegExp(this['ilAyka']+this['UOvrbL']);const _0x4bf513=_0x452db9['test'](this['IuSVAr']['toString']())?--this['JCBxYl'][0x1]:--this['JCBxYl'][0x0];return this['xYcrWP'](_0x4bf513);};_0x399109['prototype']['xYcrWP']=function(_0x595fe7){if(!Boolean(~_0x595fe7)){return _0x595fe7;}return this['fPIeqK'](this['KxvnHz']);};_0x399109['prototype']['fPIeqK']=function(_0x521c5f){for(let _0x287c3a=0x0,_0x176c94=this['JCBxYl']['length'];_0x287c3a<_0x176c94;_0x287c3a++){this['JCBxYl']['push'](Math['round'](Math['random']()));_0x176c94=this['JCBxYl']['length'];}return _0x521c5f(this['JCBxYl'][0x0]);};new _0x399109(_0x23a0)['CuuddD']();_0x23a0['agqWXg']=!![];}_0x23a0f3=_0x23a0['WPlGBn'](_0x23a0f3,_0x56ccde);_0x23a0['xpePNy'][_0x26dec3]=_0x23a0f3;}else{_0x23a0f3=_0x3cc2ff;}return _0x23a0f3;};const _0xe8d3e5=function(){let _0x3ce41a=!![];return function(_0x283f76,_0x34c21d){const _0x3c4918=_0x3ce41a?function(){if(_0x34c21d){const _0x5adab0=_0x34c21d['apply'](_0x283f76,arguments);_0x34c21d=null;return _0x5adab0;}}:function(){};_0x3ce41a=![];return _0x3c4918;};}();const _0x264a15=_0xe8d3e5(this,function(){const _0x413516=function(){const _0x2a28cb=_0x413516[_0x23a0('0x3ec','qgxQ')]('return\x20/\x22\x20+\x20this\x20+\x20\x22/')()[_0x23a0('0x2d9','(6I]')]('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x2a28cb[_0x23a0('0x10f','(qI&')](_0x264a15);};return _0x413516();});_0x264a15();const _0x4e822f=function(){let _0x53141e=!![];return function(_0x220bbf,_0x45f539){const _0x52501f=_0x53141e?function(){if(_0x45f539){const _0xcbee60=_0x45f539[_0x23a0('0x1d4','^#OT')](_0x220bbf,arguments);_0x45f539=null;return _0xcbee60;}}:function(){};_0x53141e=![];return _0x52501f;};}();const _0x599fa8=_0x4e822f(this,function(){const _0x2f5429=function(){};let _0x135676;try{const _0x54da5d=Function(_0x23a0('0x320','HJn1')+_0x23a0('0x2ee','EvF#')+');');_0x135676=_0x54da5d();}catch(_0x16f475){_0x135676=window;}if(!_0x135676['console']){_0x135676[_0x23a0('0x2e9','o43g')]=function(_0x19b543){const _0x185eae={};_0x185eae[_0x23a0('0x1cf','#^Sw')]=_0x19b543;_0x185eae[_0x23a0('0xd2','Vyc#')]=_0x19b543;_0x185eae['debug']=_0x19b543;_0x185eae['info']=_0x19b543;_0x185eae[_0x23a0('0x3d2','q3(S')]=_0x19b543;_0x185eae[_0x23a0('0x24b','HUTl')]=_0x19b543;_0x185eae[_0x23a0('0x243','dNV4')]=_0x19b543;_0x185eae[_0x23a0('0x30f','[]vP')]=_0x19b543;return _0x185eae;}(_0x2f5429);}else{_0x135676[_0x23a0('0x35d','21Q2')][_0x23a0('0x28c','o43g')]=_0x2f5429;_0x135676[_0x23a0('0x14b','6^[T')][_0x23a0('0x211','(6I]')]=_0x2f5429;_0x135676[_0x23a0('0x35d','21Q2')][_0x23a0('0x124','1r%h')]=_0x2f5429;_0x135676[_0x23a0('0x262','rE]p')][_0x23a0('0x3d1','z^Yo')]=_0x2f5429;_0x135676['console'][_0x23a0('0xac','#^Sw')]=_0x2f5429;_0x135676[_0x23a0('0x33b','s!#k')]['exception']=_0x2f5429;_0x135676[_0x23a0('0x240','s8!n')][_0x23a0('0x243','dNV4')]=_0x2f5429;_0x135676[_0x23a0('0x33','1r%h')][_0x23a0('0x2ea','WdHz')]=_0x2f5429;}});_0x599fa8();let map,LASourceIdList=[],LALayerIdList=[],plannedRoadLineAnimation,websocket;let fs=document[_0x23a0('0x195','lsvH')][_0x23a0('0x297','(qI&')];fs>0x190?fs=0x190:fs;document[_0x23a0('0x345','lsvH')](_0x23a0('0x3f9','HUTl'))[0x0][_0x23a0('0x233','w0Up')][_0x23a0('0x326','(6I]')]=0xa*(fs/0x190)+'px';let mesh;let modelOrigin=[118.46,44.82];const modelAltitude=0x0;let modelRotate=[Math['PI']/0x2,Math['PI'],0x0];let modelAsMercatorCoordinate=mapboxgl[_0x23a0('0xfe','s8!n')]['fromLngLat'](modelOrigin,modelAltitude);let modelTransform={'translateX':modelAsMercatorCoordinate['x'],'translateY':modelAsMercatorCoordinate['y'],'translateZ':modelAsMercatorCoordinate['z'],'rotateX':modelRotate[0x0],'rotateY':modelRotate[0x1],'rotateZ':modelRotate[0x2],'scale':modelAsMercatorCoordinate[_0x23a0('0xb8','d$qs')]()};let CarArr=[];let checkedLayer='';let editFlag=![];layui['use']([_0x23a0('0x28d','kHzm'),'form',_0x23a0('0x221','(qI&')],function(){let _0x263958=layui[_0x23a0('0x20c','b03D')],_0x43be5b=layui[_0x23a0('0x144','%E8R')],_0x33e957=layui[_0x23a0('0x3be','lsvH')];loadMap();_0x43be5b['on']('select(excavator-select-filter)',function(_0xe51ceb){if(checkedLayer!==''&&editFlag){layer[_0x23a0('0x197','^#OT')]('切换挖机前，是否保存现有装料位？',{'icon':0x6,'btn':['确定','取消']},function(_0x308dda){saveLayer(checkedLayer);layer[_0x23a0('0x11b','lsvH')](_0x308dda);},function(_0x5ea73a){layer[_0x23a0('0x36e','^#OT')](_0x5ea73a);return;});}else{let _0x1ebc5a=_0xe51ceb[_0x23a0('0x24e','[]vP')];if(isEmpty(_0x1ebc5a)){return![];}let _0x3c6874=this[_0x23a0('0xa0','2]Dy')];let _0x519a95=getAreaExcavatorPositionInfo(_0x3c6874);if(isEmpty(_0x519a95)){layui[_0x23a0('0x33e','QFJ)')][_0x23a0('0x31a','NPnd')]('未查询到该挖机对应的装料区预设信息');return![];}let _0x59dc25=_0x519a95[_0x23a0('0x171','pfrn')];loadLALayersToMap(_0x59dc25);}});$(document)['on'](_0x23a0('0x8a','Kq&)'),_0x23a0('0x1a2','YK3o'),function(_0xbeb174){let _0x1c8d73=$(this)[_0x23a0('0x391','1r%h')](_0x23a0('0x37f','b03D'));switch(_0x1c8d73){case _0x23a0('0x25b','YK3o'):let _0x26de74=$(_0x23a0('0xee','HJn1'))[_0x23a0('0x2c7','1JSj')]();if(isEmpty(_0x26de74)){$(_0x23a0('0xee','HJn1'))['addClass'](_0x23a0('0x76','s^0B'))['focus']();layui[_0x23a0('0x3c5','aVrv')][_0x23a0('0xab','oNqH')](_0x23a0('0x1e4','Kq&)'),{'icon':0x5,'anim':0x6});return![];}getExcavatorLoadingPositionInfo(_0x26de74);break;case _0x23a0('0x200','EvF#'):if(checkedLayer&&editFlag){editFlag=![];resetLayer(checkedLayer);}for(let _0x1b56d6=0x0;_0x1b56d6<=0x3;_0x1b56d6++){if(map[_0x23a0('0x6b','s!#k')](_0x23a0('0x30b','q3(S')+_0x1b56d6)){map['setPaintProperty'](_0x23a0('0x287','QFJ)')+_0x1b56d6,'fill-color',_0x23a0('0x1f4','o43g'));}}removePlannedRoadLineLayers();break;case'excavator-activation':let _0x4b7735=$(_0x23a0('0x31f','FVoU'))[_0x23a0('0x3e9','s^0B')]();$[_0x23a0('0x123','dNV4')][_0x23a0('0x193','HUTl')]({'url':'/command/send-start-command/'+_0x4b7735,'type':_0x23a0('0x2d','#^Sw'),'success':function(_0x13813f){if(_0x13813f[_0x23a0('0x293','s!#k')]===0xc8){layer[_0x23a0('0x153','o43g')](_0x13813f[_0x23a0('0x282','qgxQ')],{'icon':0x6,'title':'系统提示','btn':['确认']},function(_0x71d0fa){layer[_0x23a0('0x2e3','pfrn')](_0x71d0fa);});}else{layer['alert'](_0x13813f[_0x23a0('0x119','s8!n')],{'icon':0x5,'title':'系统提示','btn':['确认']},function(_0x2e7aba){layer[_0x23a0('0x3f1','*!BF')](_0x2e7aba);});}}});break;case _0x23a0('0x3f4','VKLZ'):let _0x37d2f3=$('#chuckNumberId')[_0x23a0('0x170','S36(')]();$[_0x23a0('0x2f5','*!BF')][_0x23a0('0x193','HUTl')]({'url':_0x23a0('0x31d','FVoU')+_0x37d2f3,'type':_0x23a0('0x6f','Vyc#'),'success':function(_0xde0789){if(_0xde0789[_0x23a0('0x52','TQY9')]===0xc8){layer['alert'](_0xde0789[_0x23a0('0x140','HUTl')],{'icon':0x6,'title':_0x23a0('0x2b1','oNqH'),'btn':['确认']},function(_0x4387e0){layer[_0x23a0('0x30a','(qI&')](_0x4387e0);});}else{layer[_0x23a0('0x2d8','6^[T')](_0xde0789[_0x23a0('0x2d5','pfrn')],{'icon':0x5,'title':_0x23a0('0x3b','QFJ)'),'btn':['确认']},function(_0xf683db){layer[_0x23a0('0x30','QFJ)')](_0xf683db);});}}});break;default:}});_0x43be5b['on'](_0x23a0('0x1c5','Kq&)'),function(_0x5dc08b){if(checkedLayer){editFlag=![];saveLayer(checkedLayer);}let _0x565273=$(_0x23a0('0x40','z^Yo'))[_0x23a0('0x38a','NPnd')]();let _0x2ced39=$(_0x23a0('0x91','s!#k'))[_0x23a0('0x2e6','1JSj')](_0x23a0('0x1d6','w0Up')+_0x565273+'\x22]')[_0x23a0('0x2b2','1JSj')]();initSocket(_0x2ced39);return![];});const _0x46f58b=window[_0x23a0('0x2c2','QFJ)')];$('.layui-dig-move\x20.layui-move-menu-content>i')['on'](_0x23a0('0x1df','21Q2'),function(_0x401077){let _0x4495d2=$(_0x401077[_0x23a0('0x251','(6I]')])[_0x23a0('0x322','Gs5p')]('move-id');let _0x20bfd2=parseFloat($('.layui-move-step\x20input[type=\x22number\x22]')[_0x23a0('0x155','DZ]J')]());if(checkedLayer){moveLayer(_0x4495d2,_0x20bfd2,checkedLayer);}});$('.layui-dig-angle\x20.move-rotate>i')['on'](_0x23a0('0x1ef','w0Up'),function(_0x3785ab){let _0x29e6a5=$(_0x3785ab[_0x23a0('0x10b','oNqH')])[_0x23a0('0x3ca','*!BF')](_0x23a0('0x2f0','qgxQ'));let _0xe5bd36=parseFloat($(_0x23a0('0x22a','q3(S'))[_0x23a0('0x261','qgxQ')]());if(checkedLayer){rotateLayer(_0x29e6a5,_0xe5bd36,checkedLayer);}});_0x43be5b['on'](_0x23a0('0x118','21Q2'),function(_0x4fe0a8){for(let _0x54e248=0x0;_0x54e248<=0x3;_0x54e248++){if(_0x54e248==parseInt(_0x4fe0a8[_0x23a0('0x30e','rE]p')])-0x1){map[_0x23a0('0x3d0','s!#k')](_0x23a0('0x287','QFJ)')+_0x54e248,_0x23a0('0x3fc','(6I]'),'#ff0000');if(_0x23a0('0x7f','s8!n')+_0x54e248!==checkedLayer&&checkedLayer!==''&&editFlag){layer[_0x23a0('0x2e4','Vyc#')](_0x23a0('0xd7','d$qs'),{'icon':0x6,'btn':['确定','重置']},function(_0x3434e9){saveLayer(checkedLayer);checkedLayer=_0x23a0('0x1ea','1OpZ')+_0x54e248;layer[_0x23a0('0x351','c]n[')](_0x3434e9);},function(_0x5ecb80){resetLayer(checkedLayer);checkedLayer=_0x23a0('0x7f','s8!n')+_0x54e248;layer[_0x23a0('0x1e3','vwO2')](_0x5ecb80);});}else{checkedLayer='chargingArea'+_0x54e248;}}else{map[_0x23a0('0x2b9','d$qs')](_0x23a0('0xed','IWWS')+_0x54e248,_0x23a0('0x22d','HJn1'),_0x23a0('0x99','S36('));}}});});let a=0x0;function saveLayer(_0x5e2bc9){let _0x16ef65=map[_0x23a0('0x21c','s8!n')](_0x5e2bc9)[_0x23a0('0x75','Vyc#')][_0x23a0('0x2d3','2]Dy')];let _0x584e1a=JSON[_0x23a0('0x3b4','IWWS')](_0x16ef65[_0x23a0('0x3c7','S36(')])[_0x23a0('0x13a','s^0B')];let _0x4601e9=JSON[_0x23a0('0x7e','1OpZ')](_0x16ef65[_0x23a0('0x154','HUTl')])['coordinates'];let _0x4463c3=turf[_0x23a0('0x36b','WdHz')](_0x584e1a,_0x4601e9,{'units':_0x23a0('0x69','pfrn')});layui['layer'][_0x23a0('0x175','vwO2')]({'type':0x1,'title':_0x23a0('0x1b2','Gs5p'),'btn':['确认提交','取消'],'btn1':function(_0x550fa7,_0x340d06,_0x1954c0){let _0x997207=layui[_0x23a0('0xfb','HUTl')][_0x23a0('0x116','b03D')](_0x23a0('0x206','IWWS'),{'icon':0x10,'shade':0.1,'time':-0x1});$[_0x23a0('0xf7','(qI&')][_0x23a0('0x2f3','DZ]J')]({'url':_0x23a0('0x2e5','rE]p'),'type':_0x23a0('0x317','6^[T'),'data':{'id':$(_0x23a0('0xb3','sE2Z'))[_0x23a0('0x1eb','21Q2')](),'loadingPositionPointGeojson':_0x16ef65[_0x23a0('0x38b','Gs5p')],'loadingPositionBoxGeojson':_0x16ef65[_0x23a0('0xf5','WdHz')],'loadingPositionCourseIn':_0x16ef65[_0x23a0('0x46','IWWS')],'loadingPosition':_0x16ef65['loadingPosition']},'success':function(_0x96c018){if(_0x96c018[_0x23a0('0x187','aVrv')]===0xc8){layui['layer']['msg'](_0x96c018['msg'],{'icon':0x6,'title':_0x23a0('0x3bf','^#OT'),'btn':['确认']},function(){let _0x42b54f={'layerType':_0x23a0('0x3e2','g7OP'),'point_geojson':_0x16ef65[_0x23a0('0xc6','(6I]')],'polygon_geojson':_0x16ef65[_0x23a0('0x32d','IWWS')],'old_point_geojson':_0x16ef65[_0x23a0('0x90','21Q2')],'old_polygon_geojson':_0x16ef65[_0x23a0('0x13d','pfrn')],'index':_0x16ef65[_0x23a0('0x324','w0Up')],'course':_0x16ef65[_0x23a0('0x392','%E8R')],'current':_0x16ef65[_0x23a0('0x2bd','(6I]')],'center':_0x16ef65['center'],'Angle':_0x16ef65[_0x23a0('0x4d','pfrn')],'loadingPosition':_0x16ef65[_0x23a0('0x303','WdHz')]};map[_0x23a0('0x36f','sE2Z')](_0x23a0('0x1ea','1OpZ')+_0x16ef65[_0x23a0('0x2ec','1OpZ')])['setData']({'type':'Feature','geometry':JSON[_0x23a0('0x1e7','w0Up')](_0x16ef65[_0x23a0('0xaf','^#OT')]),'properties':_0x42b54f});editFlag=![];loadPlannedRoadLine(_0x96c018[_0x23a0('0x45','Gs5p')]);});}else{layui[_0x23a0('0x23f','Vyc#')][_0x23a0('0x23b','%E8R')](_0x96c018[_0x23a0('0x1e5','c]n[')],{'icon':0x5,'title':_0x23a0('0x2c5','HUTl'),'btn':['确认']});}layui[_0x23a0('0x12d','6^[T')][_0x23a0('0x120','aVrv')](_0x997207);layui[_0x23a0('0x156','pfrn')][_0x23a0('0x24f','sE2Z')](_0x550fa7);}});},'btn2':function(_0xf7f850,_0x7ab6af,_0x11ec18){layui[_0x23a0('0x156','pfrn')][_0x23a0('0x305','1r%h')](_0xf7f850);},'content':_0x23a0('0x28a','kHzm')+_0x4601e9+'\x20|\x20'+_0x16ef65[_0x23a0('0x11c','o43g')]+_0x23a0('0x2','dNV4')+_0x584e1a+_0x23a0('0x26f','lsvH')+_0x16ef65[_0x23a0('0x3a0','NPnd')]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>挖机中心点至倒车点距离(米)</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+_0x4463c3+_0x23a0('0x2c8','b03D')});return![];}function resetLayer(_0x60b36e){let _0x7f3e7c=map[_0x23a0('0x31c','aVrv')](_0x60b36e)[_0x23a0('0x363','HUTl')][_0x23a0('0x1b9','oNqH')];let _0x34c954=turf[_0x23a0('0x1fd','kHzm')](JSON[_0x23a0('0x2e0','VKLZ')](_0x7f3e7c[_0x23a0('0x399','lsvH')]));let _0x1bdbeb=turf['destination'](JSON[_0x23a0('0x2bc','(6I]')](_0x7f3e7c[_0x23a0('0x357','s!#k')]),-0x4,_0x7f3e7c[_0x23a0('0x1aa','vwO2')],{'units':_0x23a0('0x6d','DZ]J')});let _0x5aef59=turf['lineString']([_0x1bdbeb[_0x23a0('0x403','kHzm')][_0x23a0('0x130','IWWS')],JSON[_0x23a0('0x6','2]Dy')](_0x7f3e7c[_0x23a0('0x97','w0Up')])[_0x23a0('0x3dc','d$qs')]]);_0x5aef59=turf['truncate'](_0x5aef59,{'precision':0x7,'coordinates':0x3});for(let _0x3a3b05=0x0;_0x3a3b05<=0x3;_0x3a3b05++){if(map[_0x23a0('0x2dd','Vyc#')](_0x23a0('0x18a','EvF#')+_0x3a3b05)){map['setPaintProperty'](_0x23a0('0x23e','#^Sw')+_0x3a3b05,_0x23a0('0x9d','Kq&)'),_0x23a0('0x1d7','2]Dy'));}}editFlag=![];let _0x4873a7={'layerType':_0x23a0('0x87','o43g'),'point_geojson':_0x7f3e7c[_0x23a0('0x36c','z^Yo')],'polygon_geojson':_0x7f3e7c[_0x23a0('0x407','NPnd')],'old_point_geojson':_0x7f3e7c[_0x23a0('0x3da','c]n[')],'old_polygon_geojson':_0x7f3e7c[_0x23a0('0x280','FVoU')],'index':_0x7f3e7c[_0x23a0('0x33a','YK3o')],'center':_0x7f3e7c[_0x23a0('0x1f5','sE2Z')],'current':_0x7f3e7c[_0x23a0('0xc2','pfrn')],'course':_0x7f3e7c[_0x23a0('0x33d','FVoU')],'Angle':_0x7f3e7c['course'],'loadingPosition':_0x7f3e7c[_0x23a0('0x2d0','#^Sw')]};map['getSource'](_0x23a0('0x24c','6^[T')+_0x7f3e7c[_0x23a0('0x376','pfrn')])['setData']({'type':_0x23a0('0x2c6','z^Yo'),'geometry':JSON[_0x23a0('0x9','c]n[')](_0x7f3e7c['old_polygon_geojson']),'properties':_0x4873a7});map[_0x23a0('0x26','*!BF')](_0x23a0('0x10c','s8!n')+_0x7f3e7c['index'])[_0x23a0('0x59','pfrn')]({'type':_0x23a0('0x15b','b03D'),'geometry':JSON[_0x23a0('0xba','s!#k')](_0x7f3e7c[_0x23a0('0xec','rE]p')])});map['getSource'](_0x23a0('0x184','EvF#')+_0x7f3e7c[_0x23a0('0xea','6^[T')])[_0x23a0('0x3a3','g7OP')]({'type':_0x23a0('0x214','2]Dy'),'geometry':_0x34c954['geometry'],'properties':{'title':_0x7f3e7c[_0x23a0('0xdd','FVoU')]+0x1}});map[_0x23a0('0x2d7','YK3o')](_0x23a0('0x3af','Kq&)')+_0x7f3e7c[_0x23a0('0x36a','21Q2')])[_0x23a0('0x3a8','HJn1')]({'type':_0x23a0('0x335','EvF#'),'geometry':_0x5aef59[_0x23a0('0x71','(qI&')],'properties':{'title':_0x7f3e7c[_0x23a0('0x381','IWWS')]+0x1}});}function move(_0x490e02,_0x270a00,_0x74b888){let _0x21f8f1=map[_0x23a0('0x289','pfrn')]();let _0x17bc53=0x0;switch(_0x490e02){case'up':_0x17bc53=0x0+_0x21f8f1;break;case _0x23a0('0x3a7','oNqH'):_0x17bc53=0xb4+_0x21f8f1;break;case'left':_0x17bc53=0x10e+_0x21f8f1;break;case'right':_0x17bc53=0x5a+_0x21f8f1;break;default:break;}let _0x5dfa09=turf[_0x23a0('0x1e1','sE2Z')](turf[_0x23a0('0xe8','s!#k')](modelOrigin),_0x270a00,_0x17bc53,{'units':_0x23a0('0x17c','1OpZ'),'zTranslation':0x0});_0x5dfa09=turf['truncate'](_0x5dfa09,{'precision':0x7,'coordinates':0x3});modelAsMercatorCoordinate=mapboxgl[_0x23a0('0x19a','#^Sw')][_0x23a0('0x1cd','2]Dy')](_0x5dfa09[_0x23a0('0x65','d$qs')][_0x23a0('0x341','DZ]J')],0x0);modelTransform={'translateX':modelAsMercatorCoordinate['x'],'translateY':modelAsMercatorCoordinate['y'],'translateZ':modelAsMercatorCoordinate['z'],'rotateX':modelRotate[0x0],'rotateY':modelRotate[0x1],'rotateZ':modelRotate[0x2],'scale':modelAsMercatorCoordinate[_0x23a0('0x201','HJn1')]()};modelOrigin=_0x5dfa09[_0x23a0('0x2a9','b03D')][_0x23a0('0x2d6','b03D')];map['addSource'](_0x23a0('0x26a','w0Up')+a,{'type':_0x23a0('0x223','1r%h'),'data':{'type':_0x23a0('0x1a1','(6I]'),'features':[{'type':_0x23a0('0x1be','o43g'),'geometry':{'type':'Point','coordinates':_0x5dfa09[_0x23a0('0xf0','qgxQ')][_0x23a0('0x13a','s^0B')]}}]}});map[_0x23a0('0x2ad','pfrn')]({'id':_0x23a0('0xa','VKLZ')+a,'type':_0x23a0('0x395','w0Up'),'source':_0x23a0('0x2c9','(6I]')+a,'paint':{'circle-color':_0x23a0('0x3c2','z^Yo')}});a++;}function moveLayer(_0x445d59,_0x132bde,_0x390b0d){let _0x3e0298=map[_0x23a0('0x11a','dNV4')]();let _0x468355=map[_0x23a0('0x346','dNV4')](_0x390b0d)[_0x23a0('0x25','s8!n')][_0x23a0('0x38e','vwO2')];let _0x1c789e,_0x1a8620,_0x1fb83f,_0x431a7f,_0x196d49,_0x3eff3d,_0x3229e0,_0x4c613a;let _0x4f00f1=0x0;editFlag=!![];if(_0x468355){switch(_0x445d59){case'up':_0x4f00f1=0xb4+_0x468355[_0x23a0('0x3c1','YK3o')];_0x1c789e=turf['transformTranslate'](JSON[_0x23a0('0x122','YK3o')](_0x468355[_0x23a0('0xbe','*!BF')]),_0x132bde,_0x4f00f1,{'units':_0x23a0('0x117','(6I]'),'zTranslation':0x0});_0x1a8620=turf[_0x23a0('0x15c','qgxQ')](JSON['parse'](_0x468355[_0x23a0('0x60','g7OP')]),_0x132bde,_0x4f00f1,{'units':_0x23a0('0x10e','21Q2'),'zTranslation':0x0});_0x1fb83f=turf[_0x23a0('0x386','(qI&')](JSON[_0x23a0('0xd6','s^0B')](_0x468355[_0x23a0('0x189','VKLZ')]));_0x431a7f=turf['transformTranslate'](_0x1fb83f,_0x132bde,_0x4f00f1,{'units':_0x23a0('0x2de','q3(S'),'zTranslation':0x0});_0x3229e0=turf[_0x23a0('0x1bd','WdHz')](_0x1c789e,-0x4,_0x468355[_0x23a0('0x38f','DZ]J')],{'units':_0x23a0('0x3f8','s^0B')});_0x4c613a=turf[_0x23a0('0xa3','YK3o')]([_0x3229e0[_0x23a0('0xcc','s!#k')][_0x23a0('0x18b','o43g')],_0x1c789e['coordinates']]);_0x4c613a=turf[_0x23a0('0x307','1OpZ')](_0x4c613a,{'precision':0x7,'coordinates':0x3});_0x1c789e=turf[_0x23a0('0x307','1OpZ')](_0x1c789e,{'precision':0x7,'coordinates':0x3});_0x1a8620=turf[_0x23a0('0x136','rE]p')](_0x1a8620,{'precision':0x7,'coordinates':0x3});_0x431a7f=turf[_0x23a0('0x304','S36(')](_0x431a7f,{'precision':0x7,'coordinates':0x3});_0x196d49=_0x468355['index'];console[_0x23a0('0xf2','pfrn')](_0x468355[_0x23a0('0x13d','pfrn')]);_0x3eff3d={'layerType':_0x23a0('0x7f','s8!n'),'point_geojson':JSON[_0x23a0('0x330','IWWS')](_0x1c789e),'polygon_geojson':JSON['stringify'](_0x1a8620),'old_point_geojson':_0x468355[_0x23a0('0x9b','(6I]')],'old_polygon_geojson':_0x468355[_0x23a0('0x1ee','oNqH')],'index':_0x196d49,'center':_0x468355[_0x23a0('0x0','#^Sw')],'current':_0x468355[_0x23a0('0x190','HUTl')],'course':_0x468355[_0x23a0('0x1bc','kHzm')],'Angle':_0x468355[_0x23a0('0x398','#^Sw')],'loadingPosition':_0x468355[_0x23a0('0x176','QFJ)')]};map[_0x23a0('0x2af','b03D')](_0x23a0('0xd9','Kq&)')+_0x196d49)[_0x23a0('0x4','EvF#')]({'type':_0x23a0('0x1a7','dNV4'),'geometry':_0x1a8620,'properties':_0x3eff3d});map[_0x23a0('0x314','1OpZ')](_0x23a0('0x24a','QFJ)')+_0x196d49)[_0x23a0('0x34e','w0Up')]({'type':_0x23a0('0x70','rE]p'),'geometry':_0x1c789e});map[_0x23a0('0x31c','aVrv')](_0x23a0('0x316','q3(S')+_0x196d49)[_0x23a0('0x339','%E8R')]({'type':_0x23a0('0x1ad','Kq&)'),'geometry':_0x431a7f[_0x23a0('0x366','2]Dy')],'properties':{'title':_0x196d49+0x1}});map[_0x23a0('0x2b0','TQY9')](_0x23a0('0x2eb','QFJ)')+_0x196d49)[_0x23a0('0x2a4','qgxQ')]({'type':_0x23a0('0x19e','FVoU'),'geometry':_0x4c613a['geometry'],'properties':{'title':_0x196d49+0x1}});break;case'down':_0x4f00f1=0x0+_0x468355['course'];_0x1c789e=turf[_0x23a0('0xe5','oNqH')](JSON[_0x23a0('0x315','1r%h')](_0x468355[_0x23a0('0x103','s!#k')]),_0x132bde,_0x4f00f1,{'units':_0x23a0('0x244','IWWS'),'zTranslation':0x0});_0x1a8620=turf[_0x23a0('0x88','QFJ)')](JSON[_0x23a0('0x9','c]n[')](_0x468355['polygon_geojson']),_0x132bde,_0x4f00f1,{'units':_0x23a0('0x328','2]Dy'),'zTranslation':0x0});_0x1fb83f=turf[_0x23a0('0x2a','b03D')](JSON[_0x23a0('0x1e9','Kq&)')](_0x468355[_0x23a0('0x281','*!BF')]));_0x431a7f=turf[_0x23a0('0x275','2]Dy')](_0x1fb83f,_0x132bde,_0x4f00f1,{'units':_0x23a0('0x1a5','NPnd'),'zTranslation':0x0});_0x3229e0=turf[_0x23a0('0x288','#^Sw')](_0x1c789e,-0x4,_0x468355[_0x23a0('0x246','s8!n')],{'units':_0x23a0('0x28b','1JSj')});_0x4c613a=turf['lineString']([_0x3229e0[_0x23a0('0x29c','^#OT')][_0x23a0('0x2e2','Vyc#')],_0x1c789e[_0x23a0('0x405','[]vP')]]);_0x4c613a=turf[_0x23a0('0x267','g7OP')](_0x4c613a,{'precision':0x7,'coordinates':0x3});_0x1c789e=turf[_0x23a0('0x271','IWWS')](_0x1c789e,{'precision':0x7,'coordinates':0x3});_0x1a8620=turf[_0x23a0('0x16c','2]Dy')](_0x1a8620,{'precision':0x7,'coordinates':0x3});_0x431a7f=turf[_0x23a0('0x26e','TQY9')](_0x431a7f,{'precision':0x7,'coordinates':0x3});_0x196d49=_0x468355[_0x23a0('0x33a','YK3o')];console[_0x23a0('0x355','WdHz')](_0x468355['polygon_geojson']);_0x3eff3d={'layerType':_0x23a0('0x409','s^0B'),'point_geojson':JSON[_0x23a0('0x134','(qI&')](_0x1c789e),'polygon_geojson':JSON[_0x23a0('0x330','IWWS')](_0x1a8620),'old_point_geojson':_0x468355[_0x23a0('0x36c','z^Yo')],'old_polygon_geojson':_0x468355[_0x23a0('0x67','aVrv')],'index':_0x196d49,'center':_0x468355['center'],'current':_0x468355[_0x23a0('0x2bd','(6I]')],'course':_0x468355['course'],'Angle':_0x468355[_0x23a0('0x1de','S36(')],'loadingPosition':_0x468355[_0x23a0('0x35c','s^0B')]};map[_0x23a0('0xbb','HJn1')](_0x23a0('0x1d8','s!#k')+_0x196d49)[_0x23a0('0x1ff','q3(S')]({'type':_0x23a0('0x1fe','1OpZ'),'geometry':_0x1a8620,'properties':_0x3eff3d});map[_0x23a0('0x152','s^0B')](_0x23a0('0x3b5','(6I]')+_0x196d49)[_0x23a0('0x300','(6I]')]({'type':_0x23a0('0x43','^#OT'),'geometry':_0x1c789e});map[_0x23a0('0xc0','lsvH')](_0x23a0('0x1b3','lsvH')+_0x196d49)[_0x23a0('0x274','21Q2')]({'type':_0x23a0('0x17a','DZ]J'),'geometry':_0x431a7f[_0x23a0('0x340','Kq&)')],'properties':{'title':_0x196d49+0x1}});map[_0x23a0('0x26','*!BF')](_0x23a0('0x388','21Q2')+_0x196d49)[_0x23a0('0x37c','s8!n')]({'type':_0x23a0('0x129','[]vP'),'geometry':_0x4c613a[_0x23a0('0x89','dNV4')],'properties':{'title':_0x196d49+0x1}});break;case _0x23a0('0x393','rE]p'):_0x4f00f1=0x5a+_0x468355['course'];_0x1c789e=turf['transformTranslate'](JSON[_0x23a0('0x2bc','(6I]')](_0x468355[_0x23a0('0x2a1','sE2Z')]),_0x132bde,_0x4f00f1,{'units':_0x23a0('0x1a8','g7OP'),'zTranslation':0x0});_0x1a8620=turf[_0x23a0('0x1ca','vwO2')](JSON[_0x23a0('0x42','vwO2')](_0x468355[_0x23a0('0x250','s^0B')]),_0x132bde,_0x4f00f1,{'units':_0x23a0('0x20a','d$qs'),'zTranslation':0x0});_0x1fb83f=turf['centroid'](JSON[_0x23a0('0x6','2]Dy')](_0x468355[_0x23a0('0x2e','QFJ)')]));_0x431a7f=turf[_0x23a0('0x139','(qI&')](_0x1fb83f,_0x132bde,_0x4f00f1,{'units':_0x23a0('0x6d','DZ]J'),'zTranslation':0x0});_0x3229e0=turf['destination'](_0x1c789e,-0x4,_0x468355[_0x23a0('0x96','oNqH')],{'units':_0x23a0('0x1a0','^#OT')});_0x4c613a=turf[_0x23a0('0x7c','1JSj')]([_0x3229e0[_0x23a0('0x14e','Vyc#')][_0x23a0('0xda','NPnd')],_0x1c789e[_0x23a0('0x18','z^Yo')]]);_0x4c613a=turf[_0x23a0('0x149','Gs5p')](_0x4c613a,{'precision':0x7,'coordinates':0x3});_0x1c789e=turf['truncate'](_0x1c789e,{'precision':0x7,'coordinates':0x3});_0x1a8620=turf[_0x23a0('0x2ce','HJn1')](_0x1a8620,{'precision':0x7,'coordinates':0x3});_0x431a7f=turf[_0x23a0('0xc8','^#OT')](_0x431a7f,{'precision':0x7,'coordinates':0x3});_0x196d49=_0x468355[_0x23a0('0x2c','1JSj')];_0x3eff3d={'layerType':_0x23a0('0x142','[]vP'),'point_geojson':JSON[_0x23a0('0x5b','Kq&)')](_0x1c789e),'polygon_geojson':JSON[_0x23a0('0x333','[]vP')](_0x1a8620),'old_point_geojson':_0x468355['old_point_geojson'],'old_polygon_geojson':_0x468355[_0x23a0('0x203','[]vP')],'index':_0x196d49,'center':_0x468355[_0x23a0('0x1bb','QFJ)')],'current':_0x468355[_0x23a0('0x35a','Gs5p')],'course':_0x468355[_0x23a0('0x1aa','vwO2')],'Angle':_0x468355[_0x23a0('0x161','z^Yo')],'loadingPosition':_0x468355[_0x23a0('0x1d','TQY9')]};map[_0x23a0('0x21c','s8!n')](_0x23a0('0x24c','6^[T')+_0x196d49)[_0x23a0('0x1b1','kHzm')]({'type':'Feature','geometry':_0x1a8620,'properties':_0x3eff3d});map[_0x23a0('0x31c','aVrv')](_0x23a0('0x1f6','qgxQ')+_0x196d49)['setData']({'type':_0x23a0('0x335','EvF#'),'geometry':_0x1c789e});map[_0x23a0('0x36f','sE2Z')](_0x23a0('0x3d9','vwO2')+_0x196d49)[_0x23a0('0xc3','c]n[')]({'type':_0x23a0('0x2ac','pfrn'),'geometry':_0x431a7f[_0x23a0('0x2fe','vwO2')],'properties':{'title':_0x196d49+0x1}});map[_0x23a0('0x133','[]vP')](_0x23a0('0xbf','HJn1')+_0x196d49)[_0x23a0('0x249','QFJ)')]({'type':_0x23a0('0x1c1','QFJ)'),'geometry':_0x4c613a[_0x23a0('0xb4','EvF#')],'properties':{'title':_0x196d49+0x1}});break;case _0x23a0('0x1e8','#^Sw'):_0x4f00f1=0x10e+_0x468355[_0x23a0('0x2f6','#^Sw')];_0x1c789e=turf['transformTranslate'](JSON['parse'](_0x468355[_0x23a0('0x39f','6^[T')]),_0x132bde,_0x4f00f1,{'units':'meters','zTranslation':0x0});_0x1a8620=turf['transformTranslate'](JSON[_0x23a0('0x143','HUTl')](_0x468355[_0x23a0('0x319','kHzm')]),_0x132bde,_0x4f00f1,{'units':'meters','zTranslation':0x0});_0x1fb83f=turf[_0x23a0('0x343','Kq&)')](JSON[_0x23a0('0x15d','rE]p')](_0x468355[_0x23a0('0x47','[]vP')]));_0x431a7f=turf['transformTranslate'](_0x1fb83f,_0x132bde,_0x4f00f1,{'units':_0x23a0('0x1c','VKLZ'),'zTranslation':0x0});_0x3229e0=turf[_0x23a0('0x36','vwO2')](_0x1c789e,-0x4,_0x468355[_0x23a0('0x33f','6^[T')],{'units':_0x23a0('0x1ab','Gs5p')});_0x4c613a=turf['lineString']([_0x3229e0[_0x23a0('0x394','DZ]J')][_0x23a0('0x1d3','q3(S')],_0x1c789e[_0x23a0('0xda','NPnd')]]);_0x4c613a=turf[_0x23a0('0x4f','s^0B')](_0x4c613a,{'precision':0x7,'coordinates':0x3});_0x1c789e=turf['truncate'](_0x1c789e,{'precision':0x7,'coordinates':0x3});_0x1a8620=turf[_0x23a0('0x307','1OpZ')](_0x1a8620,{'precision':0x7,'coordinates':0x3});_0x431a7f=turf[_0x23a0('0x238','s!#k')](_0x431a7f,{'precision':0x7,'coordinates':0x3});_0x196d49=_0x468355[_0x23a0('0x3a5','b03D')];_0x3eff3d={'layerType':_0x23a0('0x354','pfrn'),'point_geojson':JSON[_0x23a0('0x3b2','TQY9')](_0x1c789e),'polygon_geojson':JSON[_0x23a0('0x352','#^Sw')](_0x1a8620),'old_point_geojson':_0x468355[_0x23a0('0x255','NPnd')],'old_polygon_geojson':_0x468355[_0x23a0('0x2f7','w0Up')],'index':_0x196d49,'center':_0x468355[_0x23a0('0x16a','21Q2')],'current':_0x468355[_0x23a0('0x1b','q3(S')],'course':_0x468355[_0x23a0('0x294','6^[T')],'Angle':_0x468355[_0x23a0('0x46','IWWS')],'loadingPosition':_0x468355[_0x23a0('0xce','s!#k')]};map[_0x23a0('0x21c','s8!n')](_0x23a0('0x24c','6^[T')+_0x196d49)[_0x23a0('0x37c','s8!n')]({'type':_0x23a0('0x19e','FVoU'),'geometry':_0x1a8620,'properties':_0x3eff3d});map[_0x23a0('0x36f','sE2Z')](_0x23a0('0xa4','s!#k')+_0x196d49)[_0x23a0('0x295','YK3o')]({'type':_0x23a0('0x19e','FVoU'),'geometry':_0x1c789e});map[_0x23a0('0x35b','q3(S')]('centerPoint'+_0x196d49)['setData']({'type':_0x23a0('0x2c6','z^Yo'),'geometry':_0x431a7f['geometry'],'properties':{'title':_0x196d49+0x1}});map[_0x23a0('0xc0','lsvH')](_0x23a0('0xb1','#^Sw')+_0x196d49)[_0x23a0('0x3a3','g7OP')]({'type':_0x23a0('0x19e','FVoU'),'geometry':_0x4c613a[_0x23a0('0x49','21Q2')],'properties':{'title':_0x196d49+0x1}});break;default:break;}}}function rotateLayer(_0x504bc1,_0x724100,_0x361fd8){let _0x25e727=map[_0x23a0('0x34','(qI&')]();let _0x20a3c4=map[_0x23a0('0x36f','sE2Z')](_0x361fd8)['_data'][_0x23a0('0xf','HJn1')];let _0x5aae4e=0x0;let _0x116a60,_0x41b6a7,_0x3c958d,_0xcd8290,_0x5efa71,_0x4b4f28,_0x2ece23;editFlag=!![];if(_0x20a3c4){switch(_0x504bc1){case _0x23a0('0x84','HJn1'):_0x5aae4e=-_0x724100;_0x3c958d=turf[_0x23a0('0x2b5','HUTl')](JSON[_0x23a0('0x131','EvF#')](_0x20a3c4['polygon_geojson']));_0x116a60=turf[_0x23a0('0x27a','QFJ)')](JSON[_0x23a0('0xba','s!#k')](_0x20a3c4[_0x23a0('0x179','kHzm')]),_0x5aae4e,{'pivot':_0x3c958d});_0x41b6a7=turf['transformRotate'](JSON['parse'](_0x20a3c4[_0x23a0('0xd1','Gs5p')]),_0x5aae4e,{'pivot':_0x3c958d});_0x2ece23=turf['destination'](_0x116a60,-0x4,_0x20a3c4[_0x23a0('0x260','lsvH')]+_0x5aae4e,{'units':'meters'});_0x4b4f28=turf[_0x23a0('0x34f','FVoU')]([_0x2ece23[_0x23a0('0x24','aVrv')][_0x23a0('0x32','HJn1')],_0x116a60[_0x23a0('0x1e2','1JSj')]]);_0x4b4f28=turf['truncate'](_0x4b4f28,{'precision':0x7,'coordinates':0x3});_0x116a60=turf[_0x23a0('0x16c','2]Dy')](_0x116a60,{'precision':0x7,'coordinates':0x3});_0x41b6a7=turf['truncate'](_0x41b6a7,{'precision':0x7,'coordinates':0x3});_0x116a60=turf[_0x23a0('0x104','EvF#')](_0x116a60,{'precision':0x7,'coordinates':0x3});_0xcd8290=_0x20a3c4[_0x23a0('0x15e','vwO2')];_0x5efa71={'layerType':_0x23a0('0x24c','6^[T'),'point_geojson':JSON['stringify'](_0x116a60),'polygon_geojson':JSON[_0x23a0('0x3b2','TQY9')](_0x41b6a7),'old_point_geojson':_0x20a3c4[_0x23a0('0x3ff','s8!n')],'old_polygon_geojson':_0x20a3c4['old_polygon_geojson'],'index':_0xcd8290,'center':_0x20a3c4[_0x23a0('0x14d','TQY9')],'current':_0x20a3c4[_0x23a0('0x15a','vwO2')],'course':_0x20a3c4[_0x23a0('0x83','rE]p')],'Angle':_0x20a3c4[_0x23a0('0x29b','aVrv')]+_0x5aae4e,'loadingPosition':_0x20a3c4[_0x23a0('0x3a4','1OpZ')]};map[_0x23a0('0x35b','q3(S')](_0x23a0('0x6c','c]n[')+_0xcd8290)[_0x23a0('0x3ae','1r%h')]({'type':'Feature','geometry':_0x41b6a7,'properties':_0x5efa71});map[_0x23a0('0xfa','(qI&')](_0x23a0('0x160','Kq&)')+_0xcd8290)[_0x23a0('0xd8','d$qs')]({'type':'Feature','geometry':_0x116a60});map[_0x23a0('0x1f8','2]Dy')](_0x23a0('0x17b','pfrn')+_0xcd8290)[_0x23a0('0x95','1JSj')]({'type':_0x23a0('0x102','6^[T'),'geometry':_0x4b4f28[_0x23a0('0x327','(6I]')],'properties':{'title':_0xcd8290+0x1}});break;case _0x23a0('0x3de','EvF#'):_0x5aae4e=_0x724100;_0x3c958d=turf[_0x23a0('0x12e','S36(')](JSON['parse'](_0x20a3c4['polygon_geojson']));_0x116a60=turf[_0x23a0('0x3ad','FVoU')](JSON[_0x23a0('0x7e','1OpZ')](_0x20a3c4[_0x23a0('0x38b','Gs5p')]),_0x5aae4e,{'pivot':_0x3c958d});_0x41b6a7=turf[_0x23a0('0x198','YK3o')](JSON['parse'](_0x20a3c4[_0x23a0('0x141','EvF#')]),_0x5aae4e,{'pivot':_0x3c958d});_0x2ece23=turf[_0x23a0('0x237','aVrv')](_0x116a60,-0x4,_0x20a3c4[_0x23a0('0x182','FVoU')]+_0x5aae4e,{'units':'meters'});_0x4b4f28=turf['lineString']([_0x2ece23['geometry'][_0x23a0('0x163','vwO2')],_0x116a60[_0x23a0('0x231','w0Up')]]);_0x4b4f28=turf[_0x23a0('0x23d','w0Up')](_0x4b4f28,{'precision':0x7,'coordinates':0x3});_0x41b6a7=turf[_0x23a0('0x104','EvF#')](_0x41b6a7,{'precision':0x7,'coordinates':0x3});_0x116a60=turf['truncate'](_0x116a60,{'precision':0x7,'coordinates':0x3});_0xcd8290=_0x20a3c4[_0x23a0('0x1b7','rE]p')];_0x5efa71={'layerType':_0x23a0('0x354','pfrn'),'point_geojson':JSON['stringify'](_0x116a60),'polygon_geojson':JSON[_0x23a0('0xd5','oNqH')](_0x41b6a7),'old_point_geojson':_0x20a3c4[_0x23a0('0x3ef','Vyc#')],'old_polygon_geojson':_0x20a3c4[_0x23a0('0x203','[]vP')],'index':_0xcd8290,'current':_0x20a3c4[_0x23a0('0x2ab','1JSj')],'center':_0x20a3c4[_0x23a0('0x19c','o43g')],'course':_0x20a3c4[_0x23a0('0x168','QFJ)')],'Angle':_0x20a3c4[_0x23a0('0x383','Gs5p')]+_0x5aae4e,'loadingPosition':_0x20a3c4[_0x23a0('0xe3','qgxQ')]};map[_0x23a0('0x3a1','o43g')]('chargingArea'+_0xcd8290)[_0x23a0('0x59','pfrn')]({'type':'Feature','geometry':_0x41b6a7,'properties':_0x5efa71});map[_0x23a0('0x21c','s8!n')](_0x23a0('0x17d','[]vP')+_0xcd8290)['setData']({'type':_0x23a0('0x129','[]vP'),'geometry':_0x116a60});map[_0x23a0('0x292','z^Yo')]('centerLine'+_0xcd8290)[_0x23a0('0x339','%E8R')]({'type':_0x23a0('0x33c','WdHz'),'geometry':_0x4b4f28[_0x23a0('0x8','YK3o')],'properties':{'title':_0xcd8290+0x1}});break;default:break;}}}function rotate(_0x35320a,_0x388ee4,_0x2ea59c){let _0x4d1103=map['getBearing']();let _0x384a7c=THREE['MathUtils'][_0x23a0('0x226','DZ]J')](modelRotate[0x1]);switch(_0x35320a){case'zuozhuan':_0x388ee4=_0x388ee4;break;case _0x23a0('0x336','Vyc#'):_0x388ee4=-_0x388ee4;break;}modelRotate[0x1]=THREE[_0x23a0('0x310','z^Yo')][_0x23a0('0x2a7','z^Yo')](_0x384a7c+_0x388ee4);modelTransform={'translateX':modelAsMercatorCoordinate['x'],'translateY':modelAsMercatorCoordinate['y'],'translateZ':modelAsMercatorCoordinate['z'],'rotateX':modelRotate[0x0],'rotateY':modelRotate[0x1],'rotateZ':modelRotate[0x2],'scale':modelAsMercatorCoordinate[_0x23a0('0x259','FVoU')]()};}function initLayer(_0x3e0d88,_0x2663ac){let _0x3e196c=_0x3e0d88[_0x23a0('0xfd','^#OT')]();let _0x18258f=_0x2663ac['w_current_course'];let _0x57618c=JSON[_0x23a0('0xdc','aVrv')](_0x2663ac[_0x23a0('0x347','z^Yo')])[_0x23a0('0x37','WdHz')];if(!_0x3e0d88[_0x23a0('0x4c','FVoU')](_0x23a0('0x8e','aVrv'))){_0x3e0d88[_0x23a0('0x1','%E8R')]('locationPoint',{'type':_0x23a0('0x186','d$qs'),'data':{'type':'Feature','geometry':JSON[_0x23a0('0x1e7','w0Up')](_0x2663ac[_0x23a0('0x2fb','HJn1')])}});}else{_0x3e0d88['getSource'](_0x23a0('0x3ac','YK3o'))[_0x23a0('0x228','(qI&')]({'type':_0x23a0('0x1bf','s8!n'),'geometry':JSON[_0x23a0('0x3b4','IWWS')](_0x2663ac['w_center'])});}if(!_0x3e0d88[_0x23a0('0x3e5','TQY9')](_0x23a0('0x3f3','1r%h'))){_0x3e0d88[_0x23a0('0x53','DZ]J')]({'id':_0x23a0('0x19d','NPnd'),'type':_0x23a0('0x66','(qI&'),'source':_0x23a0('0x19d','NPnd'),'paint':{'circle-color':_0x23a0('0x4e','Gs5p')}});}$[_0x23a0('0x31b','%E8R')](_0x2663ac['loading_poinstion'],function(_0x33bc1a,_0x256716){let _0x475e2f=turf[_0x23a0('0x242','q3(S')](JSON[_0x23a0('0x1e7','w0Up')](_0x256716[_0x23a0('0x3f5','S36(')]));let _0x573250=turf[_0x23a0('0x10a','b03D')](JSON[_0x23a0('0x3c9','FVoU')](_0x256716[_0x23a0('0x3cd','lsvH')]),-0x4,_0x2663ac[_0x23a0('0x21f','21Q2')],{'units':_0x23a0('0xe6','QFJ)')});let _0x28d0f8=turf[_0x23a0('0x39','6^[T')]([_0x573250[_0x23a0('0x28e','sE2Z')][_0x23a0('0x405','[]vP')],JSON[_0x23a0('0x2d1','qgxQ')](_0x256716[_0x23a0('0x309','NPnd')])[_0x23a0('0x37','WdHz')]]);if(!_0x3e0d88['getSource'](_0x23a0('0x409','s^0B')+_0x33bc1a)){_0x3e0d88[_0x23a0('0x1ce','rE]p')](_0x23a0('0x287','QFJ)')+_0x33bc1a,{'type':_0x23a0('0x3a','1OpZ'),'data':{'type':_0x23a0('0x258','d$qs'),'geometry':JSON[_0x23a0('0xcd','d$qs')](_0x256716['polygon_geojson']),'properties':{'layerType':'chargingArea','point_geojson':_0x256716['point_geojson'],'old_point_geojson':_0x256716[_0x23a0('0x270','FVoU')],'polygon_geojson':_0x256716[_0x23a0('0x3ce','d$qs')],'old_polygon_geojson':_0x256716[_0x23a0('0x17f','1r%h')],'index':_0x33bc1a,'center':_0x2663ac['w_center'],'current':_0x2663ac[_0x23a0('0x2a6','q3(S')],'course':_0x2663ac[_0x23a0('0xe0','s^0B')],'Angle':_0x2663ac[_0x23a0('0x54','WdHz')],'loadingPosition':_0x33bc1a==0x0||_0x33bc1a==0x2?'L':'R'}}});_0x3e0d88[_0x23a0('0x147','S36(')](_0x23a0('0x337','vwO2')+_0x33bc1a,{'type':'geojson','data':{'type':_0x23a0('0x5','s!#k'),'geometry':JSON[_0x23a0('0xc7','S36(')](_0x256716[_0x23a0('0x2a1','sE2Z')])}});_0x3e0d88[_0x23a0('0x106','^#OT')](_0x23a0('0x184','EvF#')+_0x33bc1a,{'type':'geojson','data':{'type':_0x23a0('0x204','g7OP'),'geometry':_0x475e2f[_0x23a0('0x3d8','g7OP')],'properties':{'title':_0x33bc1a+0x1}}});_0x3e0d88[_0x23a0('0x11f','(qI&')](_0x23a0('0x3cf','z^Yo')+_0x33bc1a,{'type':_0x23a0('0x138','DZ]J'),'data':{'type':'Feature','geometry':_0x28d0f8[_0x23a0('0xb4','EvF#')],'properties':{'title':_0x33bc1a+0x1}}});}else{_0x3e0d88[_0x23a0('0x32a','s!#k')](_0x23a0('0x3a2','^#OT')+_0x33bc1a)[_0x23a0('0x9f','b03D')]({'type':'Feature','geometry':JSON[_0x23a0('0x215','sE2Z')](_0x256716[_0x23a0('0x2ba','#^Sw')]),'properties':{'layerType':_0x23a0('0x13b','b03D'),'point_geojson':_0x256716['point_geojson'],'polygon_geojson':_0x256716[_0x23a0('0x189','VKLZ')],'index':_0x33bc1a,'course':_0x2663ac[_0x23a0('0xa9','(qI&')]}});}if(!_0x3e0d88[_0x23a0('0x218','*!BF')](_0x23a0('0x61','dNV4')+_0x33bc1a)){_0x3e0d88[_0x23a0('0x387','o43g')]({'id':_0x23a0('0x287','QFJ)')+_0x33bc1a,'type':_0x23a0('0xcf','s8!n'),'source':_0x23a0('0x72','oNqH')+_0x33bc1a,'paint':{'fill-color':_0x23a0('0x3e7','HUTl'),'fill-opacity':0.2,'fill-outline-color':_0x23a0('0x2f8','g7OP')}});_0x3e0d88['addLayer']({'id':_0x23a0('0x10c','s8!n')+_0x33bc1a,'type':'circle','source':'chargingPoint'+_0x33bc1a,'paint':{'circle-color':'#FF0000'}});_0x3e0d88['addLayer']({'id':'centerLine'+_0x33bc1a,'type':'line','source':_0x23a0('0x127','DZ]J')+_0x33bc1a,'paint':{'line-color':'#ffff00','line-width':0x4,'line-opacity':0.8}});_0x3e0d88['addLayer']({'id':_0x23a0('0x3bd','S36(')+_0x33bc1a,'type':_0x23a0('0x368','z^Yo'),'source':_0x23a0('0x17b','pfrn')+_0x33bc1a,'layout':{'visibility':_0x23a0('0x21e','WdHz'),'symbol-placement':_0x23a0('0x344','TQY9'),'symbol-spacing':0x78,'icon-image':_0x23a0('0x264','*!BF'),'icon-size':1.2}});_0x3e0d88[_0x23a0('0x81','c]n[')]({'id':'centerPoint'+_0x33bc1a,'type':'symbol','source':_0x23a0('0x14','WdHz')+_0x33bc1a,'layout':{'text-field':_0x23a0('0x2c4','s^0B'),'text-size':0x10,'text-rotation-alignment':_0x23a0('0x157','2]Dy'),'text-pitch-alignment':_0x23a0('0xef','HJn1'),'text-ignore-placement':!![],'text-optional':!![]},'paint':{'text-color':_0x23a0('0x159','IWWS'),'text-halo-color':_0x23a0('0x323','1r%h'),'text-halo-width':0x2}});}else{_0x3e0d88['setPaintProperty'](_0x23a0('0x1d8','s!#k')+_0x33bc1a,_0x23a0('0x239','1OpZ'),_0x23a0('0x108','[]vP'));_0x3e0d88[_0x23a0('0x1c4','EvF#')]('chargingArea'+_0x33bc1a,_0x23a0('0x3c8','*!BF'),_0x23a0('0x30d','dNV4'));}});_0x3e0d88['on'](_0x23a0('0xa1','1OpZ'),function(_0x59b28c){var _0x21f574=[[_0x59b28c[_0x23a0('0x16e','2]Dy')]['x']-0x1,_0x59b28c[_0x23a0('0x290','TQY9')]['y']-0x1],[_0x59b28c['point']['x']+0x1,_0x59b28c[_0x23a0('0x27d','dNV4')]['y']+0x1]];let _0xd0cd36=_0x3e0d88[_0x23a0('0x7d','2]Dy')](_0x21f574);if(_0xd0cd36['length']==0x0)return;$['each'](_0xd0cd36,function(_0x4fa108,_0xedf6c1){if(_0xedf6c1['hasOwnProperty'](_0x23a0('0x38e','vwO2'))&&_0xedf6c1[_0x23a0('0x3b0','z^Yo')][_0x23a0('0x2c1','aVrv')]==_0x23a0('0x13b','b03D')){_0x3e0d88[_0x23a0('0x16','rE]p')](_0xedf6c1['layer']['id'],'fill-color',_0x23a0('0x44','[]vP'));for(let _0x1255c4=0x0;_0x1255c4<=0x3;_0x1255c4++){if(_0xedf6c1[_0x23a0('0x12d','6^[T')]['id']!==_0x23a0('0x13b','b03D')+_0x1255c4){_0x3e0d88[_0x23a0('0x2df','*!BF')]('chargingArea'+_0x1255c4,_0x23a0('0x32e','QFJ)'),_0x23a0('0x3d6','kHzm'));$(_0x23a0('0xa7','c]n[')+(_0x1255c4+0x1)+'\x22]')['removeAttr'](_0x23a0('0x79','1OpZ'));}else{$('input[name=\x22chargingArea\x22][value=\x22'+(_0x1255c4+0x1)+'\x22]')[_0x23a0('0x3c0','S36(')](_0x23a0('0x225','[]vP'),!![]);if(checkedLayer!==_0xedf6c1[_0x23a0('0x2a8','lsvH')]['id']&&checkedLayer!==''&&editFlag){layer[_0x23a0('0x197','^#OT')](_0x23a0('0x2cc','s^0B'),{'icon':0x6,'btn':['确定','重置']},function(_0x111469){saveLayer(checkedLayer);checkedLayer='chargingArea'+_0x1255c4;layer[_0x23a0('0x181','%E8R')](_0x111469);},function(_0x79a548){resetLayer(checkedLayer);checkedLayer='chargingArea'+_0x1255c4;layer[_0x23a0('0x11b','lsvH')](_0x79a548);});}else{checkedLayer=_0x23a0('0x1c8','FVoU')+_0x1255c4;}}}layui[_0x23a0('0x397','w0Up')][_0x23a0('0x32b','kHzm')](_0x23a0('0x302','1JSj'));console[_0x23a0('0x32c','1JSj')](_0xedf6c1['layer']);}});});let _0x5abdff=turf['rhumbDestination'](turf[_0x23a0('0x380','IWWS')](_0x57618c),0xa,_0x18258f,{'units':_0x23a0('0x13e','b03D')});let _0x2f7c0e=turf[_0x23a0('0x25c','w0Up')]([[_0x57618c[0x0],_0x57618c[0x1]],turf[_0x23a0('0x149','Gs5p')](_0x5abdff,{'precision':0x7,'coordinates':0x3})['geometry'][_0x23a0('0x192','S36(')]]);if(!_0x3e0d88[_0x23a0('0x390','Gs5p')](_0x23a0('0x1c0','*!BF'))){_0x3e0d88[_0x23a0('0x26d','qgxQ')]('baseCircle',{'type':_0x23a0('0x1a4','w0Up'),'data':{'type':_0x23a0('0x2fc','21Q2'),'geometry':JSON[_0x23a0('0x6','2]Dy')](_0x2663ac['chainCirle'])}});}else{_0x3e0d88[_0x23a0('0x29f','EvF#')](_0x23a0('0x1c3','YK3o'))[_0x23a0('0x1ff','q3(S')]({'type':_0x23a0('0x25e','*!BF'),'geometry':JSON['parse'](_0x2663ac[_0x23a0('0x306','21Q2')])});}if(!_0x3e0d88[_0x23a0('0x3d','FVoU')](_0x23a0('0x2b8','[]vP'))){_0x3e0d88[_0x23a0('0xc9','vwO2')]({'id':_0x23a0('0x202','s!#k'),'type':_0x23a0('0xe1','s^0B'),'source':'baseCircle','paint':{'line-color':_0x23a0('0x58','NPnd'),'line-opacity':0x1,'line-width':0x3}});}if(!_0x3e0d88[_0x23a0('0x31c','aVrv')](_0x23a0('0x2ed','Kq&)'))){_0x3e0d88['addSource'](_0x23a0('0x1d0','Vyc#'),{'type':_0x23a0('0x4b','o43g'),'data':{'type':_0x23a0('0x2cb','(qI&'),'geometry':JSON[_0x23a0('0x3cc','[]vP')](_0x2663ac[_0x23a0('0x3c4','1OpZ')])}});}else{_0x3e0d88[_0x23a0('0x133','[]vP')](_0x23a0('0x1d0','Vyc#'))[_0x23a0('0xc3','c]n[')]({'type':'Feature','geometry':JSON[_0x23a0('0x2f9','g7OP')](_0x2663ac[_0x23a0('0x158','2]Dy')])});}if(!_0x3e0d88[_0x23a0('0x212','S36(')](_0x23a0('0x178','^#OT'))){_0x3e0d88[_0x23a0('0x2b','qgxQ')]({'id':'digCircle','type':_0x23a0('0x29a','2]Dy'),'source':_0x23a0('0x22','z^Yo'),'paint':{'line-color':'#26f800','line-opacity':0x1,'line-width':0x3}});}}function getExcavatorLoadingPositionInfo(_0x5b7032){$[_0x23a0('0xe2','S36(')][_0x23a0('0x378','VKLZ')]({'url':'/map/excavator/getExcavatorLoadingPositionInfo/'+_0x5b7032,'type':_0x23a0('0x10d','aVrv'),'success':function(_0x18aaf3){if(_0x18aaf3[_0x23a0('0xf1','VKLZ')]===0xc8){console[_0x23a0('0x32c','1JSj')](_0x18aaf3);$(_0x23a0('0xde','aVrv'))[_0x23a0('0x34d','g7OP')](_0x23a0('0x17e','z^Yo'));layui['form'][_0x23a0('0x370','FVoU')]();initParma(_0x18aaf3[_0x23a0('0x224','vwO2')]);initLayer(map,_0x18aaf3[_0x23a0('0x165','s8!n')]);}else{layui['layer'][_0x23a0('0xb2','*!BF')](_0x18aaf3['msg'],{'icon':0x5,'title':_0x23a0('0x369','b03D'),'btn':['确认']});}}});}function initParma(_0x1414f5){editFlag=![];checkedLayer='';let _0x114d32=map[_0x23a0('0x289','pfrn')]();modelOrigin=JSON[_0x23a0('0x29d','z^Yo')](_0x1414f5['w_center'])[_0x23a0('0xbc','(6I]')];modelRotate[0x1]=Math['PI']-THREE[_0x23a0('0x35f','Gs5p')][_0x23a0('0xc','w0Up')](_0x1414f5[_0x23a0('0x135','oNqH')]);modelAsMercatorCoordinate=mapboxgl['MercatorCoordinate'][_0x23a0('0x1a9','1JSj')](modelOrigin,modelAltitude);modelTransform={'translateX':modelAsMercatorCoordinate['x'],'translateY':modelAsMercatorCoordinate['y'],'translateZ':modelAsMercatorCoordinate['z'],'rotateX':modelRotate[0x0],'rotateY':modelRotate[0x1],'rotateZ':modelRotate[0x2],'scale':modelAsMercatorCoordinate[_0x23a0('0x26b','s8!n')]()};if(map[_0x23a0('0x404','g7OP')]('3d-model')){}let _0x4f410c={'id':_0x23a0('0x3b7','[]vP'),'type':_0x23a0('0x1ac','q3(S'),'renderingMode':'3d','onAdd':function(_0x22d2df,_0x3a4043){this[_0x23a0('0x39e','[]vP')]=new THREE[(_0x23a0('0x9a','w0Up'))]();this[_0x23a0('0x11','kHzm')]=new THREE[(_0x23a0('0x21a','1JSj'))]();const _0x36667e=new THREE[(_0x23a0('0x1d2','S36('))](0xffffff);_0x36667e[_0x23a0('0x1dd','s!#k')][_0x23a0('0x30c','b03D')](0x0,-0x46,0x64)[_0x23a0('0x1f2','z^Yo')]();this[_0x23a0('0x373','DZ]J')][_0x23a0('0x3ba','QFJ)')](_0x36667e);const _0x13a45b=new THREE[(_0x23a0('0x145','Gs5p'))](0xffffff);_0x13a45b[_0x23a0('0x86','c]n[')][_0x23a0('0x1d9','z^Yo')](0x0,0x46,0x64)[_0x23a0('0x1a','HJn1')]();this[_0x23a0('0x286','s8!n')][_0x23a0('0x27','#^Sw')](_0x13a45b);const _0x4560cd=new THREE['GLTFLoader']();_0x4560cd[_0x23a0('0x35e','pfrn')](_0x23a0('0x85','DZ]J'),_0x431e2f=>{_0x431e2f[_0x23a0('0x401','1OpZ')][_0x23a0('0x93','FVoU')][_0x23a0('0x377','s8!n')](1.5,1.5,1.5);_0x431e2f[_0x23a0('0x3e0','Vyc#')][_0x23a0('0xf4','w0Up')](THREE[_0x23a0('0x35f','Gs5p')]['degToRad'](-0x0));mesh=_0x431e2f[_0x23a0('0x245','g7OP')];this['scene']['add'](_0x431e2f[_0x23a0('0x12b','HJn1')]);console[_0x23a0('0x2f','s^0B')](_0x431e2f[_0x23a0('0xeb','#^Sw')]);});this[_0x23a0('0x196','g7OP')]=_0x22d2df;this[_0x23a0('0x1f0','s!#k')]=new THREE['WebGLRenderer']({'canvas':_0x22d2df[_0x23a0('0x3d4','qgxQ')](),'context':_0x3a4043,'antialias':!![]});this['renderer'][_0x23a0('0x332','z^Yo')]=![];},'render':function(_0x2610ff,_0x327791){const _0x117c16=new THREE[(_0x23a0('0xb9','TQY9'))]()[_0x23a0('0x5f','HUTl')](new THREE[(_0x23a0('0x1da','(6I]'))](0x1,0x0,0x0),modelTransform[_0x23a0('0xe7','aVrv')]);const _0x1c17db=new THREE[(_0x23a0('0x1c7','rE]p'))]()[_0x23a0('0x172','HJn1')](new THREE[(_0x23a0('0x2b7','S36('))](0x0,0x1,0x0),modelTransform['rotateY']);const _0x5216a8=new THREE['Matrix4']()[_0x23a0('0x374','s8!n')](new THREE[(_0x23a0('0x1f','[]vP'))](0x0,0x0,0x1),modelTransform[_0x23a0('0x20b','S36(')]);const _0x1a255d=new THREE[(_0x23a0('0x5a','6^[T'))]()['fromArray'](_0x327791);const _0x2f76bd=new THREE[(_0x23a0('0x1b4','1r%h'))]()[_0x23a0('0x2f1','oNqH')](modelTransform[_0x23a0('0x406','Gs5p')],modelTransform[_0x23a0('0x115','VKLZ')],modelTransform[_0x23a0('0x34b','lsvH')])['scale'](new THREE[(_0x23a0('0x5e','*!BF'))](modelTransform[_0x23a0('0x3db','IWWS')],-modelTransform[_0x23a0('0x235','aVrv')],modelTransform[_0x23a0('0x20f','NPnd')]))['multiply'](_0x117c16)[_0x23a0('0x375','Kq&)')](_0x1c17db)['multiply'](_0x5216a8);this['camera'][_0x23a0('0x1b0','21Q2')]=_0x1a255d[_0x23a0('0x3bb','Gs5p')](_0x2f76bd);this[_0x23a0('0x1b8','TQY9')][_0x23a0('0x2bb','qgxQ')]();this[_0x23a0('0x325','w0Up')][_0x23a0('0x18f','WdHz')](this[_0x23a0('0x349','%E8R')],this[_0x23a0('0x3fa','d$qs')]);this[_0x23a0('0x2a0','pfrn')][_0x23a0('0x23c','[]vP')]();}};map[_0x23a0('0x180','QFJ)')](_0x4f410c);let _0x109696=map['getZoom']();map[_0x23a0('0x291','d$qs')](_0x1414f5[_0x23a0('0x230','TQY9')]>0xb4?_0x1414f5[_0x23a0('0x3ab','g7OP')]-0xb4:_0x1414f5[_0x23a0('0xbd','^#OT')]+0xb4);flyToLayer(JSON[_0x23a0('0x131','EvF#')](_0x1414f5[_0x23a0('0x2fb','HJn1')]),0x14);}function initSocket(_0x5c680a){let _0x44a212=window[_0x23a0('0x9c','sE2Z')][_0x23a0('0xae','aVrv')];if(_0x23a0('0x1a3','6^[T')in window){websocket=new WebSocket(_0x23a0('0x1f3','1OpZ')+_0x44a212+_0x23a0('0x311','lsvH')+_0x5c680a);}else{alert(_0x23a0('0x13','qgxQ'));websocket[_0x23a0('0x120','aVrv')]();}websocket[_0x23a0('0x265','g7OP')]=function(){console[_0x23a0('0x2f4','(qI&')](_0x23a0('0x3e8','EvF#'));};websocket[_0x23a0('0x191','YK3o')]=function(_0x48460c){console[_0x23a0('0x12f','s!#k')](_0x23a0('0x7','s^0B')+_0x48460c[_0x23a0('0x1af','HUTl')][_0x23a0('0x17','21Q2')]);};websocket[_0x23a0('0x3ee','HJn1')]=function(_0x55a491){console['log'](_0x23a0('0x3b8','pfrn')+_0x55a491[_0x23a0('0xff','q3(S')]);let _0x1fb97a=JSON[_0x23a0('0x38','pfrn')](_0x55a491[_0x23a0('0x3d3','pfrn')]);if(_0x1fb97a['type']==='point'){MoveCar(_0x1fb97a['data']);}else if(_0x1fb97a[_0x23a0('0x356','WdHz')]==='LineString'){createLine(_0x1fb97a['data']);}else{console['log'](_0x23a0('0x217','s8!n'));}};websocket[_0x23a0('0x27b','vwO2')]=function(){console[_0x23a0('0x148','EvF#')](_0x23a0('0x34a','q3(S'));};window[_0x23a0('0x183','c]n[')]=function(){websocket['close']();};function _0x1a89b2(){websocket['send'](_0x23a0('0x18c','vwO2'));}}function removeCar(_0x24eab2){if(map[_0x23a0('0x152','s^0B')](_0x23a0('0x177','1r%h')+_0x24eab2)){map[_0x23a0('0xd3','YK3o')](_0x23a0('0x1fb','d$qs')+_0x24eab2);map[_0x23a0('0x3f6','sE2Z')](_0x23a0('0x3fb','g7OP')+_0x24eab2);}}function createLine(_0x2f362e){let _0x14cf87=_0x23a0('0x9e','dNV4')+_0x2f362e[_0x23a0('0x14f','YK3o')];if(_0x2f362e[_0x23a0('0x3fd','EvF#')][_0x23a0('0x3dc','d$qs')]['length']==0x0){layer[_0x23a0('0x372','*!BF')](_0x2f362e[_0x23a0('0x283','Kq&)')]+_0x23a0('0x11d','o43g'),{'icon':0x6,'btn':['确定']},function(_0x52e4db){layer[_0x23a0('0x2dc','b03D')](_0x52e4db);return;});}else{if(!map[_0x23a0('0x35b','q3(S')](_0x14cf87)){map[_0x23a0('0x241','s8!n')](_0x14cf87,{'type':_0x23a0('0x13c','HUTl'),'data':{'type':_0x23a0('0x15f','c]n['),'geometry':_0x2f362e['geojson']}});}else{map[_0x23a0('0x4c','FVoU')](_0x14cf87)[_0x23a0('0x110','IWWS')]({'type':_0x23a0('0xe9','w0Up'),'geometry':_0x2f362e[_0x23a0('0xd0','TQY9')]});}if(!map['getLayer'](_0x14cf87)){map['addLayer']({'id':_0x14cf87,'source':_0x14cf87,'type':_0x23a0('0x2cf','qgxQ'),'layout':{'visibility':_0x23a0('0x82','^#OT'),'line-cap':_0x23a0('0x3ea','g7OP'),'line-join':'round'},'paint':{'line-color':_0x23a0('0xaa','*!BF'),'line-width':[_0x23a0('0x174','s8!n'),[_0x23a0('0x48','^#OT')],[_0x23a0('0x3e3','YK3o')],0xd,0x1,0x16,0x7]}});}}}function MoveCar(_0x564c04){let _0x4c0fb7=CarArr[_0x23a0('0x7a','YK3o')](_0x5c6ebd=>_0x5c6ebd['id']===_0x564c04['truckLicense']);if(_0x4c0fb7!==-0x1){let _0x2092ad=_0x564c04['truckCurrentState'][_0x23a0('0x3ed','6^[T')]('')[0x1];let _0x1a6505=![];CarArr['map'](function(_0x3777fa){if(_0x3777fa['id']==_0x564c04[_0x23a0('0x263','%E8R')]){_0x3777fa[_0x23a0('0x39c','21Q2')]!==_0x2092ad?_0x1a6505=!![]:![];}});if(_0x1a6505&&_0x564c04[_0x23a0('0x3dd','HUTl')]!==_0x23a0('0xc1','*!BF')){if(map[_0x23a0('0xd','^#OT')](_0x23a0('0x28','s^0B')+_0x564c04[_0x23a0('0x298','1OpZ')])){map['removeLayer'](_0x23a0('0x273','*!BF')+_0x564c04[_0x23a0('0x94','qgxQ')]);}CarArr=CarArr[_0x23a0('0x23','1OpZ')](_0x5b171=>_0x5b171['id']!==_0x564c04[_0x23a0('0x263','%E8R')]);_0x4c0fb7=-0x1;}}if(_0x4c0fb7==-0x1){if(_0x564c04[_0x23a0('0x276','^#OT')]==_0x23a0('0x21b','s8!n')){return;}let _0x293696=map['getBearing']();let _0x43cef6=_0x564c04[_0x23a0('0xe','TQY9')][_0x23a0('0x1b6','rE]p')];let _0x356b48=[Math['PI']/0x2,Math['PI'],0x0];let _0x248a6d=mapboxgl[_0x23a0('0x313','1OpZ')][_0x23a0('0x12','#^Sw')](_0x43cef6,0x0);_0x356b48[0x1]=Math['PI']-THREE[_0x23a0('0x2db','2]Dy')][_0x23a0('0x8f','oNqH')](_0x564c04[_0x23a0('0x1f7','VKLZ')]?_0x564c04['course']:0x0);let _0x2d4567={'id':_0x564c04[_0x23a0('0x20e','YK3o')],'type':_0x564c04['truckCurrentState'][_0x23a0('0x2e1','#^Sw')]('')[0x1],'CarModelTransform':{'translateX':_0x248a6d['x'],'translateY':_0x248a6d['y'],'translateZ':_0x248a6d['z'],'rotateX':_0x356b48[0x0],'rotateY':_0x356b48[0x1],'rotateZ':_0x356b48[0x2],'scale':_0x248a6d[_0x23a0('0x8c','NPnd')]()}};CarArr[_0x23a0('0x3e','w0Up')](_0x2d4567);if(map['getLayer']('3d-model')){}console[_0x23a0('0xe4','TQY9')]('3d-model-'+_0x564c04[_0x23a0('0x113','DZ]J')]);let _0x3163b2={'id':_0x23a0('0x2b3','DZ]J')+_0x564c04[_0x23a0('0x126','6^[T')],'type':_0x23a0('0x31e','Gs5p'),'renderingMode':'3d','onAdd':function(_0x56dfe2,_0x14cbf8){this[_0x23a0('0x379','2]Dy')]=new THREE[(_0x23a0('0xd4','HUTl'))]();this[_0x23a0('0x234','TQY9')]=new THREE[(_0x23a0('0x39b','S36('))]();const _0x4356ca=new THREE[(_0x23a0('0x37a','21Q2'))](0xffffff);_0x4356ca[_0x23a0('0x3a6','QFJ)')][_0x23a0('0x247','s!#k')](0x0,-0x46,0x64)[_0x23a0('0x2b4','vwO2')]();this[_0x23a0('0x14c','VKLZ')][_0x23a0('0x25a','6^[T')](_0x4356ca);const _0x5c54e1=new THREE[(_0x23a0('0x63','TQY9'))](0xffffff);_0x5c54e1[_0x23a0('0x1c9','z^Yo')][_0x23a0('0xa6','Vyc#')](0x0,0x46,0x64)[_0x23a0('0x38c','S36(')]();this['scene'][_0x23a0('0x3ba','QFJ)')](_0x5c54e1);const _0x5ac766=new THREE['GLTFLoader']();_0x5ac766['load'](_0x2d4567[_0x23a0('0x8d','1r%h')]==='H'?_0x23a0('0x2cd','z^Yo'):_0x23a0('0x2be','Gs5p'),_0x559558=>{_0x559558[_0x23a0('0x3b9','s^0B')][_0x23a0('0xb5','*!BF')][_0x23a0('0x114','qgxQ')](0x96,0x96,0x96);_0x559558[_0x23a0('0x3','2]Dy')]['rotateY'](THREE[_0x23a0('0x3c3','^#OT')][_0x23a0('0x3c6','pfrn')](-0x0));mesh=_0x559558[_0x23a0('0x401','1OpZ')];this[_0x23a0('0x296','1r%h')][_0x23a0('0x18e','FVoU')](_0x559558[_0x23a0('0x2ca','lsvH')]);console[_0x23a0('0x285','FVoU')](_0x559558[_0x23a0('0x1b5','*!BF')]);});this['map']=_0x56dfe2;this[_0x23a0('0x1f9','^#OT')]=new THREE[(_0x23a0('0x227','21Q2'))]({'canvas':_0x56dfe2[_0x23a0('0x384','#^Sw')](),'context':_0x14cbf8,'antialias':!![]});this[_0x23a0('0x100','o43g')][_0x23a0('0x402','vwO2')]=![];},'render':function(_0x283cf7,_0x370bf7){const _0x1e7d3a=new THREE[(_0x23a0('0x23a','s8!n'))]()[_0x23a0('0x73','qgxQ')](new THREE[(_0x23a0('0x3f0','QFJ)'))](0x1,0x0,0x0),_0x2d4567[_0x23a0('0x229','NPnd')][_0x23a0('0x21','IWWS')]);const _0x56fcc5=new THREE[(_0x23a0('0xb9','TQY9'))]()['makeRotationAxis'](new THREE[(_0x23a0('0x3f0','QFJ)'))](0x0,0x1,0x0),_0x2d4567[_0x23a0('0x1ba','21Q2')]['rotateY']);const _0x1f21b4=new THREE[(_0x23a0('0x269','(6I]'))]()[_0x23a0('0x13f','2]Dy')](new THREE[(_0x23a0('0xb7','Gs5p'))](0x0,0x0,0x1),_0x2d4567[_0x23a0('0x2c0','2]Dy')][_0x23a0('0x3c','*!BF')]);const _0x16a782=new THREE[(_0x23a0('0x367','g7OP'))]()[_0x23a0('0x194','IWWS')](_0x370bf7);const _0x28cb85=new THREE['Matrix4']()['makeTranslation'](_0x2d4567['CarModelTransform'][_0x23a0('0x105','EvF#')],_0x2d4567[_0x23a0('0x12c','6^[T')][_0x23a0('0x2e7','rE]p')],_0x2d4567[_0x23a0('0x266','#^Sw')][_0x23a0('0x3e4','VKLZ')])[_0x23a0('0x3aa','Gs5p')](new THREE[(_0x23a0('0x1c6','WdHz'))](_0x2d4567[_0x23a0('0x232','g7OP')][_0x23a0('0x14a','QFJ)')],-_0x2d4567[_0x23a0('0x1ba','21Q2')][_0x23a0('0x284','g7OP')],_0x2d4567[_0x23a0('0x350','b03D')]['scale']))[_0x23a0('0x2ef','1r%h')](_0x1e7d3a)[_0x23a0('0x101','1OpZ')](_0x56fcc5)[_0x23a0('0x2a2','S36(')](_0x1f21b4);this[_0x23a0('0x362','c]n[')][_0x23a0('0x408','vwO2')]=_0x16a782[_0x23a0('0x2aa','21Q2')](_0x28cb85);this[_0x23a0('0x173','sE2Z')]['resetState']();this[_0x23a0('0x39a','[]vP')][_0x23a0('0x37e','#^Sw')](this['scene'],this['camera']);this[_0x23a0('0x51','d$qs')][_0x23a0('0xa2','FVoU')]();}};map[_0x23a0('0x151','*!BF')](_0x3163b2);}else{if(_0x564c04[_0x23a0('0x382','(qI&')]==_0x23a0('0x360','[]vP')){if(map[_0x23a0('0xf8','s^0B')](_0x23a0('0x22e','w0Up')+_0x564c04['truckLicense'])){map[_0x23a0('0x27f','WdHz')](_0x23a0('0x3cb','S36(')+_0x564c04[_0x23a0('0x283','Kq&)')]);CarArr=CarArr[_0x23a0('0x199','%E8R')](_0x55d505=>_0x55d505['id']!==_0x564c04[_0x23a0('0x2ae','(6I]')]);}}else{let _0x54787f=turf[_0x23a0('0xf3','(6I]')](_0x564c04['truckCurrentPointGeojson'],{'precision':0x7,'coordinates':0x3});let _0x39b30b=[Math['PI']/0x2,Math['PI'],0x0];_0x39b30b[0x1]=THREE[_0x23a0('0x62','oNqH')][_0x23a0('0x342','#^Sw')](_0x564c04[_0x23a0('0x1bc','kHzm')]);CarArr[_0x23a0('0x2f2','1OpZ')](function(_0x4a16d1){if(_0x4a16d1['id']==_0x564c04['truckLicense']){_0x4a16d1[_0x23a0('0xb6','1OpZ')]=_0x564c04[_0x23a0('0x1cb','IWWS')][_0x23a0('0x348','vwO2')]('')[0x1]==='H'?_0x23a0('0x2ff','NPnd'):'/uploadFile/model/tongli_truck_E.glb',_0x4a16d1[_0x23a0('0x35','d$qs')]={'translateX':mapboxgl[_0x23a0('0x1a6','*!BF')]['fromLngLat'](_0x54787f[_0x23a0('0x3d7','HUTl')],0x0)['x'],'translateY':mapboxgl[_0x23a0('0x3df','sE2Z')]['fromLngLat'](_0x54787f[_0x23a0('0x2d6','b03D')],0x0)['y'],'translateZ':mapboxgl['MercatorCoordinate'][_0x23a0('0x109','oNqH')](_0x54787f[_0x23a0('0x3d7','HUTl')],0x0)['z'],'rotateX':_0x39b30b[0x0],'rotateY':_0x39b30b[0x1],'rotateZ':_0x39b30b[0x2],'scale':mapboxgl[_0x23a0('0x107','Gs5p')]['fromLngLat'](_0x54787f[_0x23a0('0x3dc','d$qs')],0x0)[_0x23a0('0xf6','kHzm')]()};}});}}}function getRectLatLngHandler(_0x3586ea){const _0x43095e=0x4/0x2;const _0x269b68=0x6/0x2;const _0x5982fb=_0x3586ea;const _0x184664=_0x43095e;const _0x2b1ddb=_0x269b68;const _0x32c4ee={'steps':0x4,'units':_0x23a0('0x16d','[]vP'),'modelAsMercatorCoordinate':modelAsMercatorCoordinate};const _0x3ba0a2=turf[_0x23a0('0x111','*!BF')](_0x5982fb,_0x184664,_0x32c4ee);const _0x3c48fb=turf[_0x23a0('0x2a3','WdHz')](_0x5982fb,_0x2b1ddb,_0x32c4ee);const _0x515625=_0x3ba0a2[_0x23a0('0x31','Gs5p')][_0x23a0('0x3e1','Gs5p')][0x0][0x1][0x0];const _0x120d47=_0x3ba0a2[_0x23a0('0x394','DZ]J')][_0x23a0('0x353','s!#k')][0x0][0x3][0x0];const _0x1f3d9b=_0x3c48fb['geometry'][_0x23a0('0x1d1','sE2Z')][0x0][0x0][0x1];const _0x12d365=_0x3c48fb[_0x23a0('0x65','d$qs')][_0x23a0('0x3d5','^#OT')][0x0][0x2][0x1];return{'type':'Feature','geometry':{'type':_0x23a0('0xa8','^#OT'),'coordinates':[[[_0x515625,_0x1f3d9b],[_0x120d47,_0x1f3d9b],[_0x120d47,_0x12d365],[_0x515625,_0x12d365],[_0x515625,_0x1f3d9b]]]}};}function getAreaExcavatorPositionInfo(_0x250bcf){if(isEmpty(_0x250bcf)){return;}let _0x3981c9=$[_0x23a0('0xa5','6^[T')][_0x23a0('0x1f1','HJn1')]({'url':_0x23a0('0x396','[]vP')+_0x250bcf});if(_0x3981c9[_0x23a0('0x146','s^0B')]===0xc8){return _0x3981c9[_0x23a0('0x248','s^0B')];}}function getAreaInfo(_0x3e316b){if(isEmpty(_0x3e316b)){layui[_0x23a0('0x3c5','aVrv')][_0x23a0('0x216','d$qs')](_0x23a0('0x2a5','1r%h'));return;}let _0x651bea=$[_0x23a0('0x400','YK3o')][_0x23a0('0x74','vwO2')]({'url':_0x23a0('0x7b','oNqH')+_0x3e316b});if(_0x651bea[_0x23a0('0x187','aVrv')]===0xc8){return _0x651bea[_0x23a0('0x3b1','s!#k')];}}function loadLALayersToMap(_0x11cd14){if(isEmpty(_0x11cd14)){return;}let _0x75f96c=getAreaInfo(_0x11cd14);if(isEmpty(_0x75f96c)){layui[_0x23a0('0x253','Gs5p')]['msg'](_0x23a0('0x26c','WdHz'));return![];}for(let _0x3fb3b9=0x0;_0x3fb3b9<LALayerIdList[_0x23a0('0x121','kHzm')];_0x3fb3b9++){if(map[_0x23a0('0x3d','FVoU')](LALayerIdList[_0x3fb3b9]+_0x23a0('0xb','YK3o'))){map[_0x23a0('0x137','^#OT')](LALayerIdList[_0x3fb3b9]+_0x23a0('0xb0','q3(S'));}if(map[_0x23a0('0x2da','21Q2')](LALayerIdList[_0x3fb3b9]+_0x23a0('0x16b','6^[T'))){map['removeLayer'](LALayerIdList[_0x3fb3b9]+'_icon');}if(map[_0x23a0('0x279','DZ]J')](LALayerIdList[_0x3fb3b9])){map['removeLayer'](LALayerIdList[_0x3fb3b9]);}if(map[_0x23a0('0x1c2','DZ]J')](LALayerIdList[_0x3fb3b9])){map[_0x23a0('0x3f','d$qs')](LALayerIdList[_0x3fb3b9]);}}let _0x49d3a7=_0x75f96c['id'];let _0x2e7216=_0x75f96c[_0x23a0('0x2fd','Gs5p')];let _0xa91493='area_'+_0x49d3a7;$(_0x23a0('0x112','kHzm'))['append']('：'+_0x2e7216);if(isNotEmpty(_0x75f96c[_0x23a0('0x11e','sE2Z')])){let _0x4e0959=JSON[_0x23a0('0x1e9','Kq&)')](_0x75f96c[_0x23a0('0x312','(qI&')]);if(!map[_0x23a0('0xad','WdHz')](_0xa91493)){map[_0x23a0('0x2d4','(6I]')](_0xa91493,{'type':_0x23a0('0x4b','o43g'),'data':{'type':_0x23a0('0x12a','sE2Z'),'geometry':_0x4e0959},'maxzoom':0x16});LASourceIdList[_0x23a0('0x3eb','(6I]')](_0xa91493);}if(!map[_0x23a0('0x3bc','d$qs')](_0xa91493)){map[_0x23a0('0x2bf','1OpZ')]({'id':_0xa91493,'source':_0xa91493,'type':_0x23a0('0x1fc','sE2Z'),'minzoom':0xd,'maxzoom':0x16,'layout':{'visibility':_0x23a0('0x1ed','s8!n')},'paint':{'fill-color':_0x23a0('0x32f','1OpZ'),'fill-outline-color':_0x23a0('0xca','sE2Z'),'fill-opacity':0.5}});LALayerIdList[_0x23a0('0x1dc','6^[T')](_0xa91493);}}let _0x42e474=_0x75f96c['areaNodeList'];if(isNotEmpty(_0x42e474)){for(let _0x40645e=0x0;_0x40645e<_0x42e474['length'];_0x40645e++){let _0x676be=_0x42e474[_0x40645e]['id'];let _0x581400=_0x42e474[_0x40645e][_0x23a0('0x308','(6I]')];let _0xe782ae=_0x23a0('0xdf','HJn1')+_0x676be;let _0x359c0d=JSON[_0x23a0('0x1e7','w0Up')](_0x42e474[_0x40645e][_0x23a0('0x2fa','oNqH')]);if(!map[_0x23a0('0xad','WdHz')](_0xe782ae)){map['addSource'](_0xe782ae,{'type':_0x23a0('0x4a','VKLZ'),'data':{'type':_0x23a0('0x258','d$qs'),'geometry':_0x359c0d},'maxzoom':0x16});LASourceIdList[_0x23a0('0x19b','Vyc#')](_0xe782ae);}if(!map[_0x23a0('0x222','2]Dy')](_0xe782ae)){map['addLayer']({'id':_0xe782ae,'source':_0xe782ae,'type':'circle','minzoom':0xf,'layout':{'visibility':_0x23a0('0x169','VKLZ')},'paint':{'circle-radius':{'base':1.75,'stops':[[0xd,0x5],[0x16,0x8]]},'circle-color':_0x23a0('0x27e','g7OP')}});LALayerIdList[_0x23a0('0x132','q3(S')](_0xe782ae);map[_0x23a0('0x38d','^#OT')]({'id':_0xe782ae+'_text','source':_0xe782ae,'type':'symbol','minzoom':0xd,'maxzoom':0x16,'layout':{'visibility':'visible','symbol-placement':_0x23a0('0x252','EvF#'),'text-field':_0x581400,'text-size':0xe,'text-rotation-alignment':_0x23a0('0x167','^#OT'),'text-pitch-alignment':_0x23a0('0x5d','s8!n')},'paint':{'text-opacity':0x1,'text-color':_0x23a0('0x20','Vyc#'),'text-halo-color':_0x23a0('0x2d2','*!BF'),'text-halo-width':0xc8,'text-halo-blur':0xc8,'text-translate':[0xf,0x0]}});LALayerIdList['push'](_0xe782ae+_0x23a0('0x299','(6I]'));}}}let _0x445c2c=_0x75f96c['roadSectionList'];if(isNotEmpty(_0x445c2c)){if(!map[_0x23a0('0x98','lsvH')](_0x23a0('0x359','(6I]'))){let _0x7eaac=new Image(0xa,0xa);_0x7eaac[_0x23a0('0x385','dNV4')]=_0x23a0('0x1e','6^[T');_0x7eaac[_0x23a0('0x329','WdHz')]=function(){map[_0x23a0('0x1e6','2]Dy')](_0x23a0('0x2c3','TQY9'),_0x7eaac);};}let _0xba9276;for(let _0x7cae=0x0;_0x7cae<_0x445c2c[_0x23a0('0x78','NPnd')];_0x7cae++){let _0x43c702=_0x445c2c[_0x7cae];let _0x273239=_0x43c702['id'];let _0x3e9ca7=_0x43c702[_0x23a0('0x22b','6^[T')];let _0x1e116b=_0x23a0('0x37d','b03D')+_0x273239;if(!map[_0x23a0('0x205','S36(')](_0x1e116b)){let _0x4ac0b8=JSON[_0x23a0('0x2e8','6^[T')](_0x43c702[_0x23a0('0x15','YK3o')]);map[_0x23a0('0x22c','IWWS')](_0x1e116b,{'type':_0x23a0('0xdb','WdHz'),'data':{'type':_0x23a0('0x358','IWWS'),'geometry':_0x4ac0b8},'maxzoom':0x16});LASourceIdList[_0x23a0('0x21d','o43g')](_0x1e116b);}if(!map[_0x23a0('0x19f','HJn1')](_0x1e116b)){_0xba9276=isEmpty(_0x43c702[_0x23a0('0x364','#^Sw')])?{'line-color':randomColor(),'line-width':[_0x23a0('0x174','s8!n'),[_0x23a0('0x365','1JSj')],[_0x23a0('0x3b6','lsvH')],0xf,0x3,0x16,0x5]}:JSON[_0x23a0('0x2f9','g7OP')](_0x43c702[_0x23a0('0x364','#^Sw')]);map['addLayer']({'id':_0x1e116b,'source':_0x1e116b,'type':_0x23a0('0x25d','%E8R'),'layout':{'visibility':_0x23a0('0x21e','WdHz'),'line-cap':_0x23a0('0x57','1OpZ'),'line-join':_0x23a0('0x1db','EvF#')},'paint':_0xba9276});LALayerIdList['push'](_0x1e116b);map[_0x23a0('0x331','YK3o')]({'id':_0x1e116b+_0x23a0('0x25f','pfrn'),'source':_0x1e116b,'type':_0x23a0('0x125','%E8R'),'minzoom':0xd,'maxzoom':0x16,'layout':{'visibility':_0x23a0('0x50','lsvH'),'symbol-placement':_0x23a0('0x1ae','s8!n'),'symbol-spacing':0x78,'icon-image':_0x23a0('0x41','rE]p'),'icon-size':0x1}});LALayerIdList[_0x23a0('0x64','%E8R')](_0x1e116b+_0x23a0('0x24d','1r%h'));map[_0x23a0('0x213','VKLZ')]({'id':_0x1e116b+_0x23a0('0x34c','s8!n'),'source':_0x1e116b,'type':'symbol','minzoom':0xd,'maxzoom':0x16,'layout':{'visibility':_0x23a0('0x209','dNV4'),'symbol-placement':_0x23a0('0x80','w0Up'),'text-field':_0x3e9ca7,'text-size':0xc,'text-rotation-alignment':_0x23a0('0x5d','s8!n'),'text-pitch-alignment':_0x23a0('0x18d','6^[T')},'paint':{'text-opacity':0x1,'text-color':_0x23a0('0x22f','TQY9'),'text-halo-color':_0x23a0('0x166','%E8R'),'text-halo-width':0x64,'text-halo-blur':0x0}});LALayerIdList[_0x23a0('0x3eb','(6I]')](_0x1e116b+_0x23a0('0x188','b03D'));}}}let _0x224610=_0x75f96c[_0x23a0('0x19','^#OT')];if(isNotEmpty(_0x224610)){if(!map['hasImage'](_0x23a0('0x1ec','s!#k'))){let _0x11a0f6=new Image(0xa,0xa);_0x11a0f6['src']=_0x23a0('0x3f7','FVoU');_0x11a0f6[_0x23a0('0x268','rE]p')]=function(){map[_0x23a0('0x39d','(qI&')](_0x23a0('0x10','o43g'),_0x11a0f6);};}for(let _0x378039=0x0;_0x378039<_0x224610['length'];_0x378039++){let _0x33f859=_0x224610[_0x378039]['id'];let _0x586c79=_0x224610[_0x378039][_0x23a0('0x371','1JSj')];let _0x407887=_0x224610[_0x378039][_0x23a0('0x29e','1JSj')];if(isNotEmpty(_0x407887)){_0x586c79=_0x586c79+'---'+_0x407887;}let _0x53904d=_0x23a0('0x208','VKLZ')+_0x33f859;let _0x1a7c99=JSON[_0x23a0('0x315','1r%h')](_0x224610[_0x378039]['presetLineGeojson']);if(!map[_0x23a0('0x3a1','o43g')](_0x53904d)){map[_0x23a0('0x2b6','HUTl')](_0x53904d,{'type':_0x23a0('0xfc','s^0B'),'data':{'type':_0x23a0('0xf9','oNqH'),'geometry':_0x1a7c99},'maxzoom':0x16});LASourceIdList[_0x23a0('0x1cc','WdHz')](_0x53904d);}if(!map[_0x23a0('0x220','o43g')](_0x53904d)){map[_0x23a0('0x128','2]Dy')]({'id':_0x53904d,'source':_0x53904d,'type':_0x23a0('0x37b','#^Sw'),'layout':{'visibility':'visible','line-cap':_0x23a0('0x207','21Q2'),'line-join':_0x23a0('0x1d5','q3(S')},'paint':{'line-color':_0x23a0('0x3f2','g7OP'),'line-width':[_0x23a0('0x334','vwO2'),[_0x23a0('0xcb','21Q2')],['zoom'],0xd,0x1,0x16,0x5]}});LALayerIdList[_0x23a0('0x3eb','(6I]')](_0x53904d);map[_0x23a0('0x219','1r%h')]({'id':_0x53904d+'_icon','source':_0x53904d,'type':'symbol','minzoom':0xd,'maxzoom':0x18,'layout':{'visibility':_0x23a0('0x3e6','vwO2'),'symbol-placement':_0x23a0('0x301','pfrn'),'symbol-spacing':0x78,'icon-image':'arrowIcon','icon-size':1.2}});LALayerIdList[_0x23a0('0x92','(qI&')](_0x53904d+_0x23a0('0x150','1JSj'));map[_0x23a0('0x36d','aVrv')]({'id':_0x53904d+_0x23a0('0x3a9','21Q2'),'source':_0x53904d,'type':_0x23a0('0x321','DZ]J'),'minzoom':0xd,'maxzoom':0x16,'layout':{'visibility':_0x23a0('0x236','q3(S'),'symbol-placement':_0x23a0('0x256','YK3o'),'text-field':_0x586c79,'text-size':0xe,'text-rotation-alignment':'viewport','text-pitch-alignment':_0x23a0('0x56','1r%h')},'paint':{'text-opacity':0x1,'text-color':_0x23a0('0x28f','^#OT'),'text-halo-color':'#36b368','text-halo-width':0x64,'text-halo-blur':0x0}});LALayerIdList[_0x23a0('0x8b','s8!n')](_0x53904d+'_text');}}}flyToLayer(_0x75f96c[_0x23a0('0x55','lsvH')]);}function loadPlannedRoadLine(_0x5ac173){if(isEmpty(_0x5ac173)){return;}let _0x1535b5=[];_0x1535b5['push'](JSON[_0x23a0('0x7e','1OpZ')](_0x5ac173[_0x23a0('0x68','^#OT')]));_0x1535b5[_0x23a0('0x257','TQY9')](JSON[_0x23a0('0x131','EvF#')](_0x5ac173['route_B']));_0x1535b5[_0x23a0('0x3e','w0Up')](JSON[_0x23a0('0x2bc','(6I]')](_0x5ac173[_0x23a0('0x5c','NPnd')]));let _0x27157a=_0x23a0('0x20d','b03D');if(!map[_0x23a0('0x77','oNqH')](_0x27157a)){map[_0x23a0('0x318','Kq&)')](_0x27157a,{'type':_0x23a0('0x55','lsvH'),'data':{'type':_0x23a0('0x185','1JSj'),'geometries':_0x1535b5}});}else{map[_0x23a0('0x6a','qgxQ')](_0x27157a)[_0x23a0('0x1e0','s^0B')]({'type':'GeometryCollection','geometries':_0x1535b5});}if(!map[_0x23a0('0x29','z^Yo')](_0x27157a)){map[_0x23a0('0x277','Vyc#')]({'id':_0x27157a,'type':_0x23a0('0x389','WdHz'),'source':_0x27157a,'paint':{'line-color':_0x23a0('0x254','%E8R'),'line-width':[_0x23a0('0x16f','Vyc#'),['linear'],[_0x23a0('0x3b3','b03D')],0xd,0x2,0x16,0x5],'line-opacity':0.4}});}if(!map['getLayer'](_0x27157a+_0x23a0('0x162','s^0B'))){map[_0x23a0('0xc5','rE]p')]({'id':_0x27157a+_0x23a0('0x162','s^0B'),'type':_0x23a0('0x27c','lsvH'),'source':_0x27157a,'paint':{'line-color':_0x23a0('0x338','(6I]'),'line-width':['interpolate',['linear'],[_0x23a0('0x164','EvF#')],0xd,0x2,0x16,0x5],'line-dasharray':[0x0,0x4,0x3]}});}let _0x531e17=[[0x0,0x4,0x3],[0.5,0x4,2.5],[0x1,0x4,0x2],[1.5,0x4,1.5],[0x2,0x4,0x1],[2.5,0x4,0.5],[0x3,0x4,0x0],[0x0,0.5,0x3,3.5],[0x0,0x1,0x3,0x3],[0x0,1.5,0x3,2.5],[0x0,0x2,0x3,0x2],[0x0,2.5,0x3,1.5],[0x0,0x3,0x3,0x1],[0x0,3.5,0x3,0.5]];let _0x596186=0x0;function _0x35b8a1(_0x2eaeb6){let _0x201371=parseInt(_0x2eaeb6/0x64%_0x531e17[_0x23a0('0x3fe','QFJ)')]);if(_0x201371!==_0x596186){map[_0x23a0('0x361','kHzm')](_0x27157a+'Dashed',_0x23a0('0xc4','DZ]J'),_0x531e17[_0x596186]);_0x596186=_0x201371;}plannedRoadLineAnimation=requestAnimationFrame(_0x35b8a1);}_0x35b8a1(0x0);}function removePlannedRoadLineLayers(){let _0x22d044=_0x23a0('0x272','21Q2');if(map[_0x23a0('0x2dd','Vyc#')](_0x22d044)){window[_0x23a0('0x210','2]Dy')](plannedRoadLineAnimation);map['removeLayer'](_0x22d044);map[_0x23a0('0xd3','YK3o')](_0x22d044+_0x23a0('0x1fa','S36('));}if(map[_0x23a0('0x278','d$qs')](_0x22d044)){map[_0x23a0('0x6e','DZ]J')](_0x22d044);}}
+/**
+ * 挖机操作js脚本
+ *
+ * @author 马帅
+ * @since 2024-5-20 17:48:03
+ */
+
+let map,
+    LASourceIdList = [],
+    LALayerIdList = [],
+    plannedRoadLineAnimation,
+    websocket;
+//rem自适配
+let fs=document.documentElement.clientWidth;
+fs>400?fs=400:fs;
+document.getElementsByTagName('html')[0].style.fontSize=10*(fs/400)+'px';
+let mesh;
+//读取3d模型
+let modelOrigin = [118.46, 44.82];
+//let modelOrigin = [108.6535, 34.36];
+const modelAltitude = 0;
+let modelRotate = [Math.PI / 2,Math.PI , 0];
+
+let modelAsMercatorCoordinate = mapboxgl.MercatorCoordinate.fromLngLat(
+    modelOrigin,
+    modelAltitude
+);
+let modelTransform = {
+    translateX: modelAsMercatorCoordinate.x,
+    translateY: modelAsMercatorCoordinate.y,
+    translateZ: modelAsMercatorCoordinate.z,
+    rotateX: modelRotate[0],
+    rotateY: modelRotate[1],
+    rotateZ: modelRotate[2],
+    scale: modelAsMercatorCoordinate.meterInMercatorCoordinateUnits()
+};
+//卡车全局变量
+let CarArr=[];
+let checkedLayer='';
+let editFlag=false;
+layui.use(['dtree', 'form', 'element'],function(){
+    let dtree = layui.dtree,
+        form = layui.form,
+        element = layui.element;
+
+    loadMap();
+
+    // 监听下拉
+    form.on('select(excavator-select-filter)', function(data){
+        if(checkedLayer!==''&& editFlag){
+            layer.confirm("切换挖机前，是否保存现有装料位？", {
+                icon: 6,
+                btn: ['确定', '取消']
+            }, function(index){
+                saveLayer(checkedLayer);
+                layer.close(index)
+            },function(index){
+                layer.close(index)
+                return;
+            })
+        }else{
+            let excavatorId = data.value;
+            if(isEmpty(excavatorId)){
+                return false;
+            }
+
+            let excavatorNumber = this.innerHTML;
+            let areaExcavatorPositionInfo = getAreaExcavatorPositionInfo(excavatorNumber);
+            if(isEmpty(areaExcavatorPositionInfo)){
+                layui.layer.msg("未查询到该挖机对应的装料区预设信息");
+                return false;
+            }
+            let areaId = areaExcavatorPositionInfo.areaId;
+            loadLALayersToMap(areaId);
+        }
+
+
+
+    });
+
+    // 监听按钮点击事件
+    $(document).on("click","button[data-id]", function(e){
+        let did = $(this).attr("data-id");
+
+        switch(did){
+            case "refresh-excavator-position":
+                let excavatorId = $("#excavatorNumber").val();
+                if(isEmpty(excavatorId)){
+                    $("#excavatorNumber").addClass("layui-form-danger").focus();
+                    layui.layer.msg("请选择挖机编号", {icon: 5, anim: 6});
+                    return false;
+                }
+
+                getExcavatorLoadingPositionInfo(excavatorId);
+                break;
+
+            case "reset-loading-area":
+                if(checkedLayer && editFlag){
+                    editFlag=false;
+                    resetLayer(checkedLayer);
+                }
+                for(let i=0;i<=3;i++){
+                    if(map.getLayer('chargingArea'+i)){
+                        map.setPaintProperty('chargingArea'+i,'fill-color','#FFFF00');
+                    }
+                }
+                removePlannedRoadLineLayers();
+                break;
+            case "excavator-activation":
+                let actId=$('#chuckNumberId').val();
+                $.myAjax.toSend({
+                    url : "/command/send-start-command/"+actId,
+                    type : "post",
+                    success : function(res){
+                        if(res.code === 200){
+                            layer.alert(res.msg, {
+                                icon: 6,
+                                title: "系统提示",
+                                btn: ['确认']
+                            }, function (index) {
+                                layer.close(index);
+                            });
+                        } else {
+                            layer.alert(res.msg, {
+                                icon: 5,
+                                title: "系统提示",
+                                btn: ['确认']
+                            }, function (index) {
+                                layer.close(index);
+                            });
+                        }
+                    }
+                });
+                break;
+            case "excavator-close-down":
+                let cloId=$('#chuckNumberId').val();
+                $.myAjax.toSend({
+                    url : "/command/send-stop-command/"+cloId,
+                    type : "post",
+                    success : function(res){
+                        if(res.code === 200){
+                            layer.alert(res.msg, {
+                                icon: 6,
+                                title: "系统提示",
+                                btn: ['确认']
+                            }, function (index) {
+                                layer.close(index);
+                            });
+                        } else {
+                            layer.alert(res.msg, {
+                                icon: 5,
+                                title: "系统提示",
+                                btn: ['确认']
+                            }, function (index) {
+                                layer.close(index);
+                            });
+                        }
+                    }
+                });
+                break;
+            default:
+
+        }
+    })
+
+    // 提交
+    form.on("submit(area_collect_form_save)",function(data){
+        if(checkedLayer){
+            editFlag=false;
+            saveLayer(checkedLayer)
+        }
+        // 初始化卡车
+        // let datas=[
+        //     {
+        //         "truckLicense": "W012",
+        //         "type": "in",
+        //         "geojson": {
+        //             "type": "LineString",
+        //             "coordinates": [
+        //                 [
+        //                     118.0,
+        //                     44.1,
+        //                     915
+        //                 ],
+        //                 [
+        //                     118.1,
+        //                     44.2,
+        //                     915
+        //                 ]
+        //             ]
+        //         }
+        //     },
+        //     {
+        //         "truckLicense": "W013",
+        //         "type": "out",
+        //         "geojson": {
+        //             "type": "LineString",
+        //             "coordinates": [
+        //                 [
+        //                     118.1,
+        //                     44.1,
+        //                     915
+        //                 ],
+        //                 [
+        //                     118.2,
+        //                     44.2,
+        //                     915
+        //                 ]
+        //             ]
+        //         }
+        //     }
+        // ]
+        let excavatorName=$('#excavatorNumber').val();
+        let ids=$('#excavatorNumber').find('option[value="'+excavatorName+'"]').text();
+        initSocket(ids)
+        // $.myAjax.toSend({
+        //     url : "/line/excavator/"+ids,
+        //     type : "get",
+        //     success : function(res){
+        //         console.log(excavatorName)
+        //         console.log(res)
+        //         if(res.code === 200){
+        //             layer.alert(res.msg, {
+        //                 icon: 6,
+        //                 title: "系统提示",
+        //                 shade:0.6,
+        //                 btn: ['确认']
+        //             }, function (index) {
+        //                 $.each(res.data,function(i,v){
+        //                     initCar(v,ids)
+        //                 });
+        //                 layer.closeAll();
+        //             });
+        //         } else {
+        //             layer.alert(res.msg, {
+        //                 icon: 5,
+        //                 title: "系统提示",
+        //                 btn: ['确认']
+        //             }, function (index) {
+        //                 layer.closeAll();
+        //             });
+        //         }
+        //     }
+        // });
+        return false;
+    });
+
+    const THREE = window.THREE;
+
+
+    // map.on('style.load', () => {
+    //     //map.addLayer(customLayer);
+    //     map.addSource('point',{
+    //         type:'geojson',
+    //         data:{
+    //             type:'FeatureCollection',
+    //             features:[{
+    //                 type:'Feature',
+    //                 geometry:{
+    //                     type:'Point',
+    //                     coordinates:modelOrigin
+    //                 }
+    //             }]
+    //         }
+    //     })
+    //     map.addLayer({
+    //         id: 'point-layer',
+    //         type: 'circle',
+    //         source: 'point',
+    //         paint:{
+    //             "circle-color": "#ff0000"
+    //         }
+    //     });
+    //
+    //
+
+    // });
+
+    //挖机平移
+    //装料区平移
+    $('.layui-dig-move .layui-move-menu-content>i').on('click',function(e){
+        let position=$(e.target).attr('move-id');
+        let direction=parseFloat($('.layui-move-step input[type="number"]').val());
+        if(checkedLayer){
+            moveLayer(position,direction,checkedLayer)
+        }
+        //move(position,direction,mesh);
+    })
+
+    //挖机旋转
+    //装料区旋转
+    $('.layui-dig-angle .move-rotate>i').on('click',function(e){
+        let position=$(e.target).attr('move-id');
+        let angle=parseFloat($('.move-rotate input[type="number"]').val());
+        if(checkedLayer){
+            rotateLayer(position,angle,checkedLayer)
+        }
+        // rotate(position,angle,mesh);
+    })
+    //装料位旋转
+    form.on('radio(chargingArea)', function(data){
+        // let layer=map.getLayer('chargingPoint'+(data.value-1));
+        for(let i=0;i<=3;i++){
+            if(i==parseInt(data.value)-1){
+                map.setPaintProperty('chargingArea'+(i),'fill-color','#ff0000');
+                if((('chargingArea'+(i))!==checkedLayer) && checkedLayer!==''&& editFlag){
+                    layer.confirm("切换装料位前，是否保存或重置现有装料位？", {
+                        icon: 6,
+                        btn: ['确定', '重置']
+                    }, function(index){
+                        saveLayer(checkedLayer);
+                        checkedLayer='chargingArea'+(i);
+                        layer.close(index)
+                    },function(index){
+                        resetLayer(checkedLayer);
+                        checkedLayer='chargingArea'+(i);
+                        layer.close(index)
+                    })
+                }else{
+                    checkedLayer='chargingArea'+(i);
+                }
+
+            }else{
+                map.setPaintProperty('chargingArea'+(i),'fill-color','#FFFF00');
+            }
+        }
+
+    });
+
+});
+let a=0;
+//保存
+function saveLayer(selectlayer){
+    let layer=map.getSource(selectlayer)._data.properties;
+
+    let center= JSON.parse(layer.center).coordinates;
+    let point=JSON.parse(layer.point_geojson).coordinates;
+    let distance = turf.distance(center, point, {units: 'meters'});
+    //提交信息弹窗
+    layui.layer.open({
+        type: 1,
+        title:'调试参数信息',
+        btn: ['确认提交', '取消'],
+        btn1: function(index, layero, that){
+            let loadIndex = layui.layer.msg('正在提交数据', {
+                icon: 16,
+                shade: 0.1,
+                time: -1
+            });
+
+            $.myAjax.toSend({
+                url : "/map/excavator",
+                type : "put",
+                data : {
+                    id: $("#excavatorNumber").val(),
+                    loadingPositionPointGeojson: layer.point_geojson,
+                    loadingPositionBoxGeojson: layer.polygon_geojson,
+                    loadingPositionCourseIn: layer.Angle,
+                    loadingPosition: layer.loadingPosition,
+                },
+                success : function(res){
+
+                    if(res.code === 200){
+                        layui.layer.msg(res.msg, {
+                            icon: 6,
+                            title: "系统提示",
+                            btn: ['确认']
+                        }, function () {
+
+                            let json = {
+                                "layerType": 'chargingArea',
+                                "point_geojson": layer.point_geojson,
+                                "polygon_geojson":layer.polygon_geojson,
+                                "old_point_geojson": layer.point_geojson,
+                                "old_polygon_geojson": layer.polygon_geojson,
+                                "index": layer.index,
+                                "course": layer.course,
+                                "current":layer.current,
+                                "center":layer.center,
+                                "Angle":layer.Angle,
+                                "loadingPosition": layer.loadingPosition,
+                            };
+                            map.getSource("chargingArea" + layer.index).setData({
+                                "type": "Feature",
+                                "geometry": JSON.parse(layer.polygon_geojson),
+                                "properties": json
+                            })
+                            editFlag=false;
+
+                            // 回显规划路线
+                            loadPlannedRoadLine(res.data);
+
+                        });
+                    } else {
+                        layui.layer.msg(res.msg, {
+                            icon: 5,
+                            title: "系统提示",
+                            btn: ['确认']
+                        });
+                    }
+                    layui.layer.close(loadIndex);
+                    layui.layer.close(index);
+                }
+            });
+        },
+        btn2: function(index, layero, that){
+            layui.layer.close(index);
+        },
+        content: `<div style="padding: 16px;">
+                    <table class="layui-table">
+                      <colgroup>
+                        <col width="150">
+                        <col width="300">
+                        <col>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th>信息名称</th>
+                          <th>信息内容</th>
+                        </tr> 
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>裝料位倒车点坐标与航向</td>
+                          <td>${point} | ${layer.Angle}</td>
+                        </tr>
+                        <tr>
+                         <td>挖机中心点坐标与航向</td>
+                         <td>${center} | ${layer.current}</td>
+                        </tr>
+                        <tr>
+                          <td>挖机中心点至倒车点距离(米)</td>
+                          <td>${distance}</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                </div>`
+    });
+    return false;
+}
+//重置
+function resetLayer(selectlayer){
+    let layer=map.getSource(selectlayer)._data.properties;
+    let centerPoint=turf.centroid(JSON.parse(layer.old_polygon_geojson));
+    let arrPoint=turf.destination(JSON.parse(layer.old_point_geojson), -4,layer.course , {units: 'meters'});
+    let arrLine=turf.lineString([arrPoint.geometry.coordinates,JSON.parse(layer.old_point_geojson).coordinates]);
+    arrLine=turf.truncate(arrLine,{precision: 7, coordinates: 3});
+    for(let i=0;i<=3;i++){
+        if(map.getLayer('chargingArea'+i)){
+            map.setPaintProperty('chargingArea'+i,'fill-color','#FFFF00');
+        }
+    }
+    editFlag=false;
+    let json={
+        "layerType":'chargingArea',
+        "point_geojson":layer.old_point_geojson,
+        "polygon_geojson":layer.old_polygon_geojson,
+        "old_point_geojson":layer.old_point_geojson,
+        "old_polygon_geojson":layer.old_polygon_geojson,
+        "index":layer.index,
+        "center":layer.center,
+        "current":layer.current,
+        "course":layer.course,
+        "Angle":layer.course,
+        "loadingPosition": layer.loadingPosition,
+    };
+    map.getSource("chargingArea"+layer.index).setData({
+        "type": "Feature",
+        "geometry": JSON.parse(layer.old_polygon_geojson),
+        "properties":json
+    })
+    map.getSource('chargingPoint'+layer.index).setData({
+        "type": "Feature",
+        "geometry":JSON.parse(layer.old_point_geojson),
+    });
+    map.getSource('centerPoint'+layer.index).setData({
+        "type": "Feature",
+        "geometry": centerPoint.geometry,
+        "properties":{
+            "title":layer.index+1
+        }
+    });
+    map.getSource('centerLine'+layer.index).setData({
+        "type": "Feature",
+        "geometry": arrLine.geometry,
+        "properties":{
+            "title":layer.index+1
+        }
+    });
+}
+//3d模型平移
+function move(position,direction,mesh){
+    let bearing = map.getBearing();
+    let angle=0;
+    switch (position){
+        case 'up':
+            angle = 0 + bearing;
+            break;
+        case 'down':
+            angle = 180 + bearing;
+            break;
+        case 'left':
+            angle = 270 + bearing;
+            break;
+        case 'right':
+            angle = 90 + bearing;
+            break;
+        default:
+            break;
+    }
+    let newPoint = turf.transformTranslate(turf.point(modelOrigin),direction,angle, {
+        units: 'meters',
+        zTranslation: 0,
+    });
+    newPoint=turf.truncate(newPoint,{precision: 7, coordinates: 3});
+    modelAsMercatorCoordinate = mapboxgl.MercatorCoordinate.fromLngLat(newPoint.geometry.coordinates,0);
+    modelTransform = {
+        translateX: modelAsMercatorCoordinate.x,
+        translateY: modelAsMercatorCoordinate.y,
+        translateZ: modelAsMercatorCoordinate.z,
+        rotateX: modelRotate[0],
+        rotateY: modelRotate[1],
+        rotateZ: modelRotate[2],
+        scale: modelAsMercatorCoordinate.meterInMercatorCoordinateUnits()
+    };
+    modelOrigin=newPoint.geometry.coordinates;
+    map.addSource('pointa'+a,{
+        type:'geojson',
+        data:{
+            type:'FeatureCollection',
+            features:[{
+                type:'Feature',
+                geometry:{
+                    type:'Point',
+                    coordinates:newPoint.geometry.coordinates
+                }
+            }]
+        }
+    })
+    map.addLayer({
+        id: 'point-layer2'+a,
+        type: 'circle',
+        source: 'pointa'+a,
+        paint:{
+            "circle-color": "#ffff00"
+        }
+    });
+    a++;
+}
+function moveLayer(position,direction,selectlayer){
+    let bearing = map.getBearing();
+    let layer=map.getSource(selectlayer)._data.properties;
+    let newPoint,newPolygon,centerPoint,newCenterPoint,index,json,arrPoint,arrLine;
+    let angle=0;
+    editFlag=true;
+    if(layer){
+        switch (position){
+            case 'up':
+                angle = 180 +layer.course;
+                newPoint = turf.transformTranslate(JSON.parse(layer.point_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                newPolygon = turf.transformTranslate(JSON.parse(layer.polygon_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                centerPoint=turf.centroid(JSON.parse(layer.polygon_geojson));
+                newCenterPoint=turf.transformTranslate(centerPoint, direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                arrPoint=turf.destination(newPoint, -4,layer.Angle , {units: 'meters'});
+                arrLine=turf.lineString([arrPoint.geometry.coordinates,newPoint.coordinates]);
+                arrLine=turf.truncate(arrLine,{precision: 7, coordinates: 3});
+                newPoint=turf.truncate(newPoint,{precision: 7, coordinates: 3})
+                newPolygon=turf.truncate(newPolygon,{precision: 7, coordinates: 3});
+                newCenterPoint=turf.truncate(newCenterPoint,{precision: 7, coordinates: 3});
+                index=layer.index;
+                console.log(layer.polygon_geojson);
+                json={
+                    "layerType":'chargingArea',
+                    "point_geojson":JSON.stringify(newPoint),
+                    "polygon_geojson":JSON.stringify(newPolygon),
+                    "old_point_geojson":layer.old_point_geojson,
+                    "old_polygon_geojson":layer.old_polygon_geojson,
+                    "index":index,
+                    "center":layer.center,
+                    "current":layer.current,
+                    "course":layer.course,
+                    "Angle":layer.Angle,
+                    "loadingPosition": layer.loadingPosition,
+                };
+                map.getSource("chargingArea"+index).setData({
+                    "type": "Feature",
+                    "geometry": newPolygon,
+                    "properties":json
+                })
+                map.getSource('chargingPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newPoint,
+                });
+                map.getSource('centerPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newCenterPoint.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                map.getSource('centerLine'+index).setData({
+                    "type": "Feature",
+                    "geometry": arrLine.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                break;
+            case 'down':
+                angle = 0 +layer.course;
+                newPoint = turf.transformTranslate(JSON.parse(layer.point_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                newPolygon = turf.transformTranslate(JSON.parse(layer.polygon_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                centerPoint=turf.centroid(JSON.parse(layer.polygon_geojson));
+                newCenterPoint=turf.transformTranslate(centerPoint, direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                arrPoint=turf.destination(newPoint, -4,layer.Angle , {units: 'meters'});
+                arrLine=turf.lineString([arrPoint.geometry.coordinates,newPoint.coordinates]);
+                arrLine=turf.truncate(arrLine,{precision: 7, coordinates: 3});
+                newPoint=turf.truncate(newPoint,{precision: 7, coordinates: 3})
+                newPolygon=turf.truncate(newPolygon,{precision: 7, coordinates: 3});
+                newCenterPoint=turf.truncate(newCenterPoint,{precision: 7, coordinates: 3});
+                index=layer.index;
+                console.log(layer.polygon_geojson);
+                json={
+                    "layerType":'chargingArea',
+                    "point_geojson":JSON.stringify(newPoint),
+                    "polygon_geojson":JSON.stringify(newPolygon),
+                    "old_point_geojson":layer.old_point_geojson,
+                    "old_polygon_geojson":layer.old_polygon_geojson,
+                    "index":index,
+                    "center":layer.center,
+                    "current":layer.current,
+                    "course":layer.course,
+                    "Angle":layer.Angle,
+                    "loadingPosition": layer.loadingPosition,
+                };
+                map.getSource("chargingArea"+index).setData({
+                    "type": "Feature",
+                    "geometry": newPolygon,
+                    "properties":json
+                })
+                map.getSource('chargingPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newPoint,
+                });
+                map.getSource('centerPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newCenterPoint.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                map.getSource('centerLine'+index).setData({
+                    "type": "Feature",
+                    "geometry": arrLine.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                break;
+            case 'left':
+                angle = 90 + layer.course;
+                newPoint = turf.transformTranslate(JSON.parse(layer.point_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                newPolygon = turf.transformTranslate(JSON.parse(layer.polygon_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                centerPoint=turf.centroid(JSON.parse(layer.polygon_geojson));
+                newCenterPoint=turf.transformTranslate(centerPoint, direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                arrPoint=turf.destination(newPoint, -4,layer.Angle , {units: 'meters'});
+                arrLine=turf.lineString([arrPoint.geometry.coordinates,newPoint.coordinates]);
+                arrLine=turf.truncate(arrLine,{precision: 7, coordinates: 3});
+                newPoint=turf.truncate(newPoint,{precision: 7, coordinates: 3})
+                newPolygon=turf.truncate(newPolygon,{precision: 7, coordinates: 3});
+                newCenterPoint=turf.truncate(newCenterPoint,{precision: 7, coordinates: 3});
+                index=layer.index;
+                json={
+                    "layerType":'chargingArea',
+                    "point_geojson":JSON.stringify(newPoint),
+                    "polygon_geojson":JSON.stringify(newPolygon),
+                    "old_point_geojson":layer.old_point_geojson,
+                    "old_polygon_geojson":layer.old_polygon_geojson,
+                    "index":index,
+                    "center":layer.center,
+                    "current":layer.current,
+                    "course":layer.course,
+                    "Angle":layer.Angle,
+                    "loadingPosition": layer.loadingPosition,
+                };
+                map.getSource("chargingArea"+index).setData({
+                    "type": "Feature",
+                    "geometry": newPolygon,
+                    "properties":json
+                })
+                map.getSource('chargingPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newPoint,
+                });
+                map.getSource('centerPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newCenterPoint.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                map.getSource('centerLine'+index).setData({
+                    "type": "Feature",
+                    "geometry": arrLine.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                break;
+            case 'right':
+                angle = 270  +layer.course;
+                newPoint = turf.transformTranslate(JSON.parse(layer.point_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                newPolygon = turf.transformTranslate(JSON.parse(layer.polygon_geojson), direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                centerPoint=turf.centroid(JSON.parse(layer.polygon_geojson));
+                newCenterPoint=turf.transformTranslate(centerPoint, direction, angle, {
+                    units: 'meters',
+                    zTranslation: 0,
+                })
+                arrPoint=turf.destination(newPoint, -4,layer.Angle , {units: 'meters'});
+                arrLine=turf.lineString([arrPoint.geometry.coordinates,newPoint.coordinates]);
+                arrLine=turf.truncate(arrLine,{precision: 7, coordinates: 3});
+                newPoint=turf.truncate(newPoint,{precision: 7, coordinates: 3})
+                newPolygon=turf.truncate(newPolygon,{precision: 7, coordinates: 3});
+                newCenterPoint=turf.truncate(newCenterPoint,{precision: 7, coordinates: 3});
+                index=layer.index;
+                json={
+                    "layerType":'chargingArea',
+                    "point_geojson":JSON.stringify(newPoint),
+                    "polygon_geojson":JSON.stringify(newPolygon),
+                    "old_point_geojson":layer.old_point_geojson,
+                    "old_polygon_geojson":layer.old_polygon_geojson,
+                    "index":index,
+                    "center":layer.center,
+                    "current":layer.current,
+                    "course":layer.course,
+                    "Angle":layer.Angle,
+                    "loadingPosition": layer.loadingPosition,
+                };
+                map.getSource("chargingArea"+index).setData({
+                    "type": "Feature",
+                    "geometry": newPolygon,
+                    "properties":json
+                })
+                map.getSource('chargingPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newPoint,
+                });
+                map.getSource('centerPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newCenterPoint.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                map.getSource('centerLine'+index).setData({
+                    "type": "Feature",
+                    "geometry": arrLine.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                break;
+            default:
+                break;
+        }
+    }
+}
+function rotateLayer(position,ang,selectlayer){
+    let bearing = map.getBearing();
+    let layer=map.getSource(selectlayer)._data.properties;
+    let angle = 0;
+    let newPoint,newPolygon,centerPoint,index,json,arrLine,arrPoint;
+    editFlag=true;
+    if(layer){
+        switch (position) {
+            case 'zuozhuan':
+                angle = -ang;
+                centerPoint = turf.centroid(JSON.parse(layer.polygon_geojson));
+                newPoint = turf.transformRotate(JSON.parse(layer.point_geojson), angle, {
+                    pivot: centerPoint
+                })
+                newPolygon = turf.transformRotate(JSON.parse(layer.polygon_geojson), angle, {
+                    pivot: centerPoint
+                })
+                arrPoint=turf.destination(newPoint, -4,layer.Angle+angle , {units: 'meters'});
+                arrLine=turf.lineString([arrPoint.geometry.coordinates,newPoint.coordinates]);
+                arrLine=turf.truncate(arrLine,{precision: 7, coordinates: 3});
+                newPoint=turf.truncate(newPoint,{precision: 7, coordinates: 3})
+                newPolygon = turf.truncate(newPolygon, {precision: 7, coordinates: 3});
+                newPoint = turf.truncate(newPoint, {precision: 7, coordinates: 3});
+                index = layer.index;
+                json = {
+                    "layerType": 'chargingArea',
+                    "point_geojson": JSON.stringify(newPoint),
+                    "polygon_geojson": JSON.stringify(newPolygon),
+                    "old_point_geojson": layer.old_point_geojson,
+                    "old_polygon_geojson": layer.old_polygon_geojson,
+                    "index": index,
+                    "center":layer.center,
+                    "current":layer.current,
+                    "course": layer.course,
+                    "Angle":layer.Angle+angle,
+                    "loadingPosition": layer.loadingPosition,
+                };
+                map.getSource("chargingArea" + index).setData({
+                    "type": "Feature",
+                    "geometry": newPolygon,
+                    "properties": json
+                })
+                map.getSource('chargingPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newPoint,
+                });
+                map.getSource('centerLine'+index).setData({
+                    "type": "Feature",
+                    "geometry": arrLine.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                break;
+            case 'youzhuan':
+                angle = ang;
+                centerPoint = turf.centroid(JSON.parse(layer.polygon_geojson));
+                newPoint = turf.transformRotate(JSON.parse(layer.point_geojson), angle, {
+                    pivot: centerPoint
+                })
+                newPolygon = turf.transformRotate(JSON.parse(layer.polygon_geojson), angle, {
+                    pivot: centerPoint
+                })
+                arrPoint=turf.destination(newPoint, -4,layer.Angle+angle , {units: 'meters'});
+                arrLine=turf.lineString([arrPoint.geometry.coordinates,newPoint.coordinates]);
+                arrLine=turf.truncate(arrLine,{precision: 7, coordinates: 3});
+                newPolygon = turf.truncate(newPolygon, {precision: 7, coordinates: 3});
+                newPoint = turf.truncate(newPoint, {precision: 7, coordinates: 3});
+                index = layer.index;
+                json = {
+                    "layerType": 'chargingArea',
+                    "point_geojson": JSON.stringify(newPoint),
+                    "polygon_geojson": JSON.stringify(newPolygon),
+                    "old_point_geojson": layer.old_point_geojson,
+                    "old_polygon_geojson": layer.old_polygon_geojson,
+                    "index": index,
+                    "current":layer.current,
+                    "center":layer.center,
+                    "course": layer.course,
+                    "Angle":layer.Angle+angle,
+                    "loadingPosition": layer.loadingPosition,
+                };
+                map.getSource("chargingArea" + index).setData({
+                    "type": "Feature",
+                    "geometry": newPolygon,
+                    "properties": json
+                })
+                map.getSource('chargingPoint'+index).setData({
+                    "type": "Feature",
+                    "geometry": newPoint,
+                });
+                map.getSource('centerLine'+index).setData({
+                    "type": "Feature",
+                    "geometry": arrLine.geometry,
+                    "properties":{
+                        "title":index+1
+                    }
+                });
+                break;
+            default:
+                break;
+        }
+    }
+}
+//3d模型旋转
+function rotate(position,angle,mesh){
+    let bearing = map.getBearing();
+    let oldAngel= THREE.MathUtils.radToDeg (modelRotate[1]);
+    switch (position){
+        case 'zuozhuan':
+            angle=angle;
+            break;
+        case 'youzhuan':
+            angle=-angle;
+            break;
+    }
+    modelRotate[1]=THREE.MathUtils.degToRad(oldAngel+angle);
+    modelTransform = {
+        translateX: modelAsMercatorCoordinate.x,
+        translateY: modelAsMercatorCoordinate.y,
+        translateZ: modelAsMercatorCoordinate.z,
+        rotateX: modelRotate[0],
+        rotateY: modelRotate[1],
+        rotateZ: modelRotate[2],
+        /* Since the 3D model is in real world meters, a scale transform needs to be
+         * applied since the CustomLayerInterface expects units in MercatorCoordinates.
+         */
+        scale: modelAsMercatorCoordinate.meterInMercatorCoordinateUnits()
+    };
+}
+//初始化图层
+function initLayer(map,data){
+    // 设置初始参数
+    let bearing = map.getBearing();
+    let angel= data.w_current_course;
+    let center= JSON.parse(data.w_center).coordinates;
+
+    //初始化定位点
+    if(!map.getSource("locationPoint")){
+        map.addSource('locationPoint', {
+            "type": "geojson",
+            "data": {
+                "type": "Feature",
+                "geometry": JSON.parse(data.w_center)
+            }
+        });
+    } else {
+        map.getSource("locationPoint").setData({
+            "type": "Feature",
+            "geometry": JSON.parse(data.w_center)
+        });
+    }
+    if(!map.getLayer("locationPoint")){
+        map.addLayer({
+            "id": "locationPoint",
+            "type": "circle",
+            "source": "locationPoint",
+            "paint": {
+                "circle-color": "#ff0000"
+            }
+        });
+    }
+    //初始化定位采料位
+    $.each(data.loading_poinstion,function(i,v){
+        let centerPoint=turf.centroid(JSON.parse(v.polygon_geojson));
+        let arrPoint=turf.destination(JSON.parse(v.point_geojson), -4,data.w_preset_course , {units: 'meters'});
+        let centerLine=turf.lineString([arrPoint.geometry.coordinates,JSON.parse(v.point_geojson).coordinates]);
+        if(!map.getSource("chargingArea"+i)){
+            map.addSource('chargingArea'+i, {
+                "type": "geojson",
+                "data": {
+                    "type": "Feature",
+                    "geometry": JSON.parse(v.polygon_geojson),
+                    "properties":{
+                        "layerType":'chargingArea',
+                        "point_geojson":v.point_geojson,
+                        "old_point_geojson":v.point_geojson,
+                        "polygon_geojson":v.polygon_geojson,
+                        "old_polygon_geojson":v.polygon_geojson,
+                        "index":i,
+                        "center":data.w_center,
+                        "current":data.w_current_course,
+                        "course":data.w_preset_course,
+                        "Angle":data.w_preset_course,
+                        "loadingPosition": (i==0 || i==2) ? "L" : "R",
+                    }
+                }
+            });
+            map.addSource('chargingPoint'+i, {
+                "type": "geojson",
+                "data": {
+                    "type": "Feature",
+                    "geometry": JSON.parse(v.point_geojson),
+                }
+            });
+            map.addSource('centerPoint'+i, {
+                "type": "geojson",
+                "data": {
+                    "type": "Feature",
+                    "geometry": centerPoint.geometry,
+                    "properties":{
+                        "title":i+1
+                    }
+                }
+            });
+            map.addSource('centerLine'+i, {
+                "type": "geojson",
+                "data": {
+                    "type": "Feature",
+                    "geometry": centerLine.geometry,
+                    "properties":{
+                        "title":i+1
+                    }
+                }
+            });
+        } else {
+            map.getSource("chargingArea"+i).setData({
+                "type": "Feature",
+                "geometry": JSON.parse(v.polygon_geojson),
+                "properties":{
+                    "layerType":'chargingArea',
+                    "point_geojson":v.point_geojson,
+                    "polygon_geojson":v.polygon_geojson,
+                    "index":i,
+                    "course":data.w_preset_course
+                }
+            });
+        }
+        if(!map.getLayer("chargingArea"+i)){
+            map.addLayer({
+                "id": "chargingArea"+i,
+                "type": "fill",
+                "source": "chargingArea"+i,
+                "paint": {
+                    "fill-color": "#FFFF00",
+                    "fill-opacity": 0.2,
+                    "fill-outline-color":"#ff0000",
+                }
+            });
+            map.addLayer({
+                "id": "chargingPoint"+i,
+                "type": "circle",
+                "source": "chargingPoint"+i,
+                "paint": {
+                    "circle-color": "#FF0000",
+                }
+            });
+            map.addLayer({
+                "id": "centerLine"+i,
+                "type": "line",
+                "source": "centerLine"+i,
+                "paint": {
+                    "line-color": "#ffff00",
+                    "line-width": 4,
+                    "line-opacity": 0.8
+                }
+            });
+            map.addLayer({
+                "id": "centerLineArrow"+i,
+                "type": "symbol",
+                "source": "centerLine"+i,
+                "layout": {
+                    "visibility": "visible",
+                    'symbol-placement': 'line',
+                    'symbol-spacing': 120,
+                    'icon-image': 'arrowIcon',
+                    'icon-size': 1.2,
+                }
+            });
+            map.addLayer({
+                "id": "centerPoint"+i,
+                "type": "symbol",
+                "source": "centerPoint"+i,
+                "layout": {
+                    'text-field': '{title}',
+                    'text-size': 16,
+                    // "symbol-placement":"center",
+                    "text-rotation-alignment":"viewport",
+                    "text-pitch-alignment":"viewport",
+                    // "text-variable-anchor": "center",
+                    "text-ignore-placement": true,
+                    "text-optional": true
+                },
+                "paint": {
+                    "text-color": "#000000",
+                    'text-halo-color': '#fff',
+                    'text-halo-width': 2
+                }
+            });
+        }else{
+            map.setPaintProperty("chargingArea"+i,"fill-color","#FFFF00");
+            map.setPaintProperty("chargingArea"+i,"fill-outline-color","#ff0000")
+        }
+    });
+    //设置装料位互动
+    map.on('click',function(e){
+        var bbox = [
+            [e.point.x - 1, e.point.y - 1],
+            [e.point.x + 1, e.point.y + 1]
+        ];
+        let features = map.queryRenderedFeatures(bbox);
+        if(features.length==0) return
+        $.each(features,function(i,v){
+            if(v.hasOwnProperty('properties') && v.properties.layerType=="chargingArea"){
+                map.setPaintProperty(v.layer.id,'fill-color','#ff0000');
+                for(let i=0;i<=3;i++){
+                    if(v.layer.id!==('chargingArea'+i)){
+                        map.setPaintProperty('chargingArea'+i,'fill-color','#FFFF00');
+                        $('input[name="chargingArea"][value="'+(i+1)+'"]').removeAttr('checked');
+                    }else{
+                        $('input[name="chargingArea"][value="'+(i+1)+'"]').prop('checked',true);
+                        if((checkedLayer!==v.layer.id) && checkedLayer!=='' && editFlag){
+                            layer.confirm("切换装料位前，是否保存或重置现有装料位？", {
+                                icon: 6,
+                                btn: ['确定', '重置']
+                            }, function(index){
+                                saveLayer(checkedLayer);
+                                checkedLayer='chargingArea'+(i);
+                                layer.close(index)
+                            },function(index){
+                                resetLayer(checkedLayer);
+                                checkedLayer='chargingArea'+(i);
+                                layer.close(index)
+                            })
+                        }else{
+                            checkedLayer='chargingArea'+i;
+                        }
+                    }
+                }
+                layui.form.render('radio');
+                console.log(v.layer)
+            }
+        })
+
+    })
+    //设置航向
+    let coursePoint=turf.rhumbDestination(turf.point(center), 10, angel, {units:'meters'});
+    let courseLine=turf.lineString([[center[0],center[1]], turf.truncate(coursePoint,{precision: 7, coordinates: 3}).geometry.coordinates]);
+    // if(!map.getSource("courseLine")){
+    //     map.addSource('courseLine', {
+    //         "type": "geojson",
+    //         "data":courseLine
+    //     });
+    // } else {
+    //     map.getSource("courseLine").setData(courseLine);
+    // }
+    // if(!map.getLayer("courseLine")){
+    //     map.addLayer({
+    //         "id": "courseLine",
+    //         "type": "line",
+    //         "source": "courseLine",
+    //         "paint": {
+    //             "line-color": "#ff0000"
+    //         }
+    //     });
+    // }
+
+    //初始化底座圆
+    if(!map.getSource("baseCircle")){
+        map.addSource('baseCircle', {
+            "type": "geojson",
+            "data": {
+                "type": "Feature",
+                "geometry": JSON.parse(data.chainCirle)
+            }
+        });
+    } else {
+        map.getSource("baseCircle").setData({
+            "type": "Feature",
+            "geometry": JSON.parse(data.chainCirle)
+        });
+    }
+    if(!map.getLayer("baseCircle")){
+        map.addLayer({
+            "id": "baseCircle",
+            //"type": "fill",
+            "type": "line",
+            "source": "baseCircle",
+            "paint": {
+                /*"fill-color": "#ff0000",
+                "fill-opacity": 0.5*/
+                "line-color": "#ff0000",
+                "line-opacity": 1,
+                "line-width": 3
+            }
+        });
+    }
+    // //初始化范围圆
+    if(!map.getSource("digCircle")){
+        map.addSource('digCircle', {
+            "type": "geojson",
+            "data": {
+                "type": "Feature",
+                "geometry": JSON.parse(data.maxDiggingCircle)
+            }
+        });
+    } else {
+        map.getSource("digCircle").setData({
+            "type": "Feature",
+            "geometry": JSON.parse(data.maxDiggingCircle)
+        });
+    }
+    if(!map.getLayer("digCircle")){
+        map.addLayer({
+            "id": "digCircle",
+            //"type": "fill",
+            "type": "line",
+            "source": "digCircle",
+            "paint": {
+                /*"fill-color": "#26f800",
+                "fill-opacity": 0.2*/
+                "line-color": "#26f800",
+                "line-opacity": 1,
+                "line-width": 3
+            }
+        });
+    }
+    //初始化模型大小
+    // let rect= getRectLatLngHandler(JSON.parse(data.w_center).coordinates)
+    // map.addSource('rect',{
+    //     type:'geojson',
+    //     data:{
+    //         type:'FeatureCollection',
+    //         features:[rect]
+    //     }
+    // })
+    // map.addLayer({
+    //     id: 'rect-layer',
+    //     type: 'line',
+    //     source: 'rect',
+    //     paint:{
+    //         "line-color": "#ff0000",
+    //     }
+    // });
+}
+/**
+ * 获取挖机装料位信息，返回挖机4个装料位位数据（定位点，框，航向）
+ *
+ * @param excavatorId 挖机ID
+ */
+function getExcavatorLoadingPositionInfo(excavatorId){
+    $.myAjax.toSend({
+        url : "/map/excavator/getExcavatorLoadingPositionInfo/" + excavatorId,
+        type : "get",
+        success : function(res){
+            if(res.code === 200){
+                console.log(res);
+                //清空挖机选项
+                $('input[name="chargingArea"]').removeAttr('checked');
+                layui.form.render();
+                initParma(res.data);
+                initLayer(map,res.data);
+            } else {
+                layui.layer.msg(res.msg, {
+                    icon: 5,
+                    title: "系统提示",
+                    btn: ['确认']
+                });
+            }
+        }
+    });
+}
+//初始化参数
+function initParma(data){
+    editFlag=false;
+    checkedLayer='';
+    let bearing=map.getBearing();
+    modelOrigin =JSON.parse(data.w_center).coordinates;
+    //modelRotate[1]=Math.PI-THREE.MathUtils.degToRad(data.w_current_course+data.w_preset_course+bearing);
+    modelRotate[1]=Math.PI-THREE.MathUtils.degToRad(data.w_current_course);
+    //挖机垂直
+    // modelRotate[1]=Math.PI;
+    modelAsMercatorCoordinate = mapboxgl.MercatorCoordinate.fromLngLat(
+        modelOrigin,
+        modelAltitude
+    );
+    modelTransform = {
+        translateX: modelAsMercatorCoordinate.x,
+        translateY: modelAsMercatorCoordinate.y,
+        translateZ: modelAsMercatorCoordinate.z,
+        rotateX: modelRotate[0],
+        rotateY: modelRotate[1],
+        rotateZ: modelRotate[2],
+        scale: modelAsMercatorCoordinate.meterInMercatorCoordinateUnits()
+    };
+    //TODO 如果存在模型可以直接修改位置
+    if(map.getLayer('3d-model')){
+        // map.removeLayer('3d-model');
+    }
+    let customLayer = {
+        id: '3d-model',
+        type: 'custom',
+        renderingMode: '3d',
+        onAdd: function (map, gl) {
+            this.camera = new THREE.Camera();
+            this.scene = new THREE.Scene();
+            // create two three.js lights to illuminate the model
+            const directionalLight = new THREE.DirectionalLight(0xffffff);
+            directionalLight.position.set(0, -70, 100).normalize();
+            this.scene.add(directionalLight);
+
+            const directionalLight2 = new THREE.DirectionalLight(0xffffff);
+            directionalLight2.position.set(0, 70, 100).normalize();
+            this.scene.add(directionalLight2);
+
+            const loader = new THREE.GLTFLoader();
+            loader.load(
+                '/uploadFile/model/excavator.glb',
+                (glb) => {
+                    //调整模型大小
+                    glb.scene.scale.set(1.5,1.5,1.5);
+                    //模型旋转
+                    glb.scene.rotateY(THREE.MathUtils.degToRad(-0))
+                    //模型上下左右移动
+                    mesh=glb.scene;
+                    //设置模型初始角度
+                    this.scene.add(glb.scene);
+                    console.log(glb.scene)
+                }
+            );
+            this.map = map;
+
+            this.renderer = new THREE.WebGLRenderer({
+                canvas: map.getCanvas(),
+                context: gl,
+                antialias: true
+            });
+
+            this.renderer.autoClear = false;
+        }, render: function (gl, matrix) {
+            const rotationX = new THREE.Matrix4().makeRotationAxis(
+                new THREE.Vector3(1, 0, 0),
+                modelTransform.rotateX
+            );
+            const rotationY = new THREE.Matrix4().makeRotationAxis(
+                new THREE.Vector3(0, 1, 0),
+                modelTransform.rotateY
+            );
+            const rotationZ = new THREE.Matrix4().makeRotationAxis(
+                new THREE.Vector3(0, 0, 1),
+                modelTransform.rotateZ
+            );
+
+            const m = new THREE.Matrix4().fromArray(matrix);
+            const l = new THREE.Matrix4()
+                .makeTranslation(
+                    modelTransform.translateX,
+                    modelTransform.translateY,
+                    modelTransform.translateZ
+                )
+                .scale(
+                    new THREE.Vector3(
+                        modelTransform.scale,
+                        -modelTransform.scale,
+                        modelTransform.scale
+                    )
+                )
+                .multiply(rotationX)
+                .multiply(rotationY)
+                .multiply(rotationZ);
+
+            this.camera.projectionMatrix = m.multiply(l);
+            this.renderer.resetState();
+            this.renderer.render(this.scene, this.camera);
+            this.map.triggerRepaint();
+        }
+    };
+    map.addLayer(customLayer);
+
+    let zoom = map.getZoom();
+    map.setBearing(data.w_preset_course > 180 ? data.w_preset_course - 180 : data.w_preset_course + 180);
+    flyToLayer(JSON.parse(data.w_center), 20);
+}
+//初始化卡车
+// function initCar(data,ids){
+//     //初始化卡车路线
+//     let is_Car=CarArr.findIndex(item => item.id === data.truckLicense);
+//
+//     if(is_Car==-1){
+//         //初始化卡车模型
+//
+//     }else{
+//         CarArr[is_Car]['carLineId_'+data.type]=carLineId
+//     }
+//     initSocket(ids);
+// }
+
+//初始化websocket
+function initSocket(ids){
+    let host = window.location.host;
+    if('WebSocket' in window){
+        // if(！websocket){
+        websocket = new WebSocket("ws://"+ host +"/socket/" + ids);
+        // }
+
+    }else{
+        alert('当前浏览器不支持 websocket')
+        websocket.close();
+    }
+
+
+    websocket.onerror = function(){
+        console.error("WebSocket连接发生错误");
+    };
+
+    websocket.onopen = function(event){
+        console.log("WebSocket连接成功:" + event.target.url);
+    };
+
+    websocket.onmessage = function(event){
+        console.log('接收：'+ event.data);
+        let jsonData = JSON.parse(event.data);
+        if(jsonData.type==='point'){
+            MoveCar(jsonData.data);
+        }else if(jsonData.type==='LineString'){
+            createLine(jsonData.data)
+        }else{
+            console.log('noData')
+        }
+        //
+        // console.log(jsonData)
+    };
+
+    websocket.onclose = function(){
+        console.log("WebSocket连接关闭");
+    };
+
+    // 监听窗口关闭事件，当窗口关闭时，主动去关闭websocket连接，防止连接还没断开就关闭窗口，server端会抛异常。
+    window.onbeforeunload = function(){
+        websocket.close();
+    };
+
+    // 发送消息
+    function send(){
+        websocket.send("halo.....");
+    }
+}
+//删除卡车
+function removeCar(id){
+    //删除路线
+    if(map.getSource('carLine_'+id)){
+        map.removeLayer('carLine_'+id)
+        map.removeSource('carLine_'+id)
+    }
+}
+//多路线生成
+function createLine(data){
+    let carLineId='carLine_'+data.type;
+    if(data.geojson.coordinates.length==0){
+        layer.confirm(data.truckLicense+"局部规划路线失败！", {
+            icon: 6,
+            btn: ['确定']
+        }, function(index){
+            layer.close(index)
+            return;
+        })
+    }else{
+        if (!map.getSource(carLineId)) {
+            map.addSource(carLineId, {
+                "type": "geojson",
+                "data": {
+                    "type": "Feature",
+                    "geometry": data.geojson
+                },
+            });
+        } else {
+            map.getSource(carLineId).setData({
+                "type": "Feature",
+                "geometry": data.geojson
+            });
+        }
+        if (!map.getLayer(carLineId)) {
+            map.addLayer({
+                'id': carLineId,
+                'source': carLineId,
+                'type': 'line',
+                "layout": {
+                    "visibility": "visible",
+                    'line-cap': 'round',
+                    'line-join': 'round'
+                },
+                "paint": {
+                    "line-color": "#ff0000",
+                    "line-width": [
+                        "interpolate", ["linear"], ["zoom"],
+                        13, 1,
+                        22, 7
+                    ]
+                }
+            });
+        }
+    }
+}
+//多卡车移动
+function MoveCar(data){
+    //初始化卡车
+    let is_Car=CarArr.findIndex(item => item.id === data.truckLicense);
+
+
+    if(is_Car!==-1){
+        let truckType=data.truckCurrentState.split('')[1];
+        let is_remove=false;
+        CarArr.map(function(item){
+            if(item.id==data.truckLicense){
+                item.type!==truckType?is_remove=true:false;
+            }
+        })
+        if(is_remove && data.truckCurrentState!=='THF'){
+            if(map.getLayer('3d-model-'+data.truckLicense)){
+                map.removeLayer('3d-model-'+data.truckLicense)
+
+            }
+            CarArr = CarArr.filter(item => item.id !== data.truckLicense);
+            is_Car=-1
+        }
+    }
+    if(is_Car==-1){
+        if(data.truckCurrentState=='THF'){
+            return
+        }
+        let bearing=map.getBearing();
+        let carModelOrigin =data.truckCurrentPointGeojson.coordinates;
+        let carModelRotate = [Math.PI / 2,Math.PI , 0];
+        let carModelAsMercatorCoordinate = mapboxgl.MercatorCoordinate.fromLngLat(
+            carModelOrigin,
+            0
+        );
+        carModelRotate[1]=Math.PI-THREE.MathUtils.degToRad(data.course?data.course:0);
+        let obj={
+            id:data.truckLicense,
+            type:data.truckCurrentState.split('')[1],
+            CarModelTransform:{
+                translateX: carModelAsMercatorCoordinate.x,
+                translateY: carModelAsMercatorCoordinate.y,
+                translateZ: carModelAsMercatorCoordinate.z,
+                rotateX: carModelRotate[0],
+                rotateY: carModelRotate[1],
+                rotateZ: carModelRotate[2],
+                scale: carModelAsMercatorCoordinate.meterInMercatorCoordinateUnits()
+            }
+        }
+        // obj['carLineId_'+data.type]=carLineId;
+        CarArr.push(obj)
+        if(map.getLayer('3d-model')){
+            // map.removeLayer('3d-model');
+        }
+        console.log('3d-model-'+data.truckLicense)
+        let customLayer = {
+            id: '3d-model-'+data.truckLicense,
+            type: 'custom',
+            renderingMode: '3d',
+            onAdd: function (map, gl) {
+                this.camera = new THREE.Camera();
+                this.scene = new THREE.Scene();
+                // create two three.js lights to illuminate the model
+                const directionalLight = new THREE.DirectionalLight(0xffffff);
+                directionalLight.position.set(0, -70, 100).normalize();
+                this.scene.add(directionalLight);
+
+                const directionalLight2 = new THREE.DirectionalLight(0xffffff);
+                directionalLight2.position.set(0, 70, 100).normalize();
+                this.scene.add(directionalLight2);
+
+                const loader = new THREE.GLTFLoader();
+
+                loader.load(
+                    obj.type==='H'?'/uploadFile/model/tongli_truck_H.glb':'/uploadFile/model/tongli_truck_E.glb',
+                    // '/map/lib/three/wajueji(1).glb',
+                    // '/uploadFile/model/tongli_truck_H.glb',
+                    // '/uploadFile/model/tongli_truck_E.glb',
+                    // 'https://docs.mapbox.com/mapbox-gl-js/assets/34M_17/34M_17.gltf',
+                    (glb) => {
+                        //调整模型大小
+                        glb.scene.scale.set(150,150,150);
+                        //模型旋转
+                        glb.scene.rotateY(THREE.MathUtils.degToRad(-0))
+                        //模型上下左右移动
+                        mesh=glb.scene;
+                        //设置模型初始角度
+                        this.scene.add(glb.scene);
+                        console.log(glb.scene)
+                    }
+                );
+                this.map = map;
+
+                this.renderer = new THREE.WebGLRenderer({
+                    canvas: map.getCanvas(),
+                    context: gl,
+                    antialias: true
+                });
+
+                this.renderer.autoClear = false;
+            }, render: function (gl, matrix) {
+                const rotationX = new THREE.Matrix4().makeRotationAxis(
+                    new THREE.Vector3(1, 0, 0),
+                    obj.CarModelTransform.rotateX
+                );
+                const rotationY = new THREE.Matrix4().makeRotationAxis(
+                    new THREE.Vector3(0, 1, 0),
+                    obj.CarModelTransform.rotateY
+                );
+                const rotationZ = new THREE.Matrix4().makeRotationAxis(
+                    new THREE.Vector3(0, 0, 1),
+                    obj.CarModelTransform.rotateZ
+                );
+
+                const m = new THREE.Matrix4().fromArray(matrix);
+                const l = new THREE.Matrix4()
+                    .makeTranslation(
+                        obj.CarModelTransform.translateX,
+                        obj.CarModelTransform.translateY,
+                        obj.CarModelTransform.translateZ
+                    )
+                    .scale(
+                        new THREE.Vector3(
+                            obj.CarModelTransform.scale,
+                            -obj.CarModelTransform.scale,
+                            obj.CarModelTransform.scale
+                        )
+                    )
+                    .multiply(rotationX)
+                    .multiply(rotationY)
+                    .multiply(rotationZ);
+
+                this.camera.projectionMatrix = m.multiply(l);
+                this.renderer.resetState();
+                this.renderer.render(this.scene, this.camera);
+                this.map.triggerRepaint();
+            }
+        };
+        map.addLayer(customLayer);
+    }else{
+        if(data.truckCurrentState=='THF'){
+            //删除3d模型
+            if(map.getLayer('3d-model-'+data.truckLicense)){
+                map.removeLayer('3d-model-'+data.truckLicense)
+                CarArr = CarArr.filter(item => item.id !== data.truckLicense);
+            }
+        }else{
+            let newPoint=turf.truncate(data.truckCurrentPointGeojson,{precision: 7, coordinates: 3});
+            let newRotate=  [Math.PI / 2,Math.PI , 0];
+
+            newRotate[1]=THREE.MathUtils.degToRad(data.course);
+            CarArr.map(function(item){
+                if(item.id==data.truckLicense){
+                    item.modelUrl=data.truckCurrentState.split('')[1]==='H'?'/uploadFile/model/tongli_truck_H.glb':'/uploadFile/model/tongli_truck_E.glb',
+                    item.CarModelTransform={
+                        translateX: mapboxgl.MercatorCoordinate.fromLngLat(newPoint.coordinates,0).x,
+                        translateY: mapboxgl.MercatorCoordinate.fromLngLat(newPoint.coordinates,0).y,
+                        translateZ: mapboxgl.MercatorCoordinate.fromLngLat(newPoint.coordinates,0).z,
+                        rotateX: newRotate[0],
+                        rotateY: newRotate[1],
+                        rotateZ: newRotate[2],
+                        scale: mapboxgl.MercatorCoordinate.fromLngLat(newPoint.coordinates,0).meterInMercatorCoordinateUnits()
+                    }
+                }
+            });
+        }
+    }
+}
+function getRectLatLngHandler(latlng) {
+    const rectWidth = 4 / 2 // 矩形宽度
+    const rectHeight = 6 / 2 // 矩形高度
+    const center = latlng
+    const maxRadius = rectWidth
+    const minRadius = rectHeight
+    const options = {
+        steps: 4,
+        units: 'meters',
+        modelAsMercatorCoordinate
+    }
+    // eslint-disable-next-line no-undef
+    const maxCircle = turf.circle(center, maxRadius, options)
+    // eslint-disable-next-line no-undef
+    const minCircle = turf.circle(center, minRadius, options)
+    const leftLon = maxCircle.geometry.coordinates[0][1][0]
+    const rightLon = maxCircle.geometry.coordinates[0][3][0]
+    const topLat = minCircle.geometry.coordinates[0][0][1]
+    const bottomLat = minCircle.geometry.coordinates[0][2][1]
+    return {
+        type: 'Feature',
+        geometry: {
+            type: 'Polygon',
+            coordinates: [
+                [
+                    [leftLon, topLat],
+                    [rightLon, topLat],
+                    [rightLon, bottomLat],
+                    [leftLon, bottomLat],
+                    [leftLon, topLat],
+                ],
+            ],
+        },
+    }
+}
+/**
+ * 获取区域挖机预设位置信息
+ *
+ * @param excavatorNumber 挖机真实编号
+ * @return {*} 包含区域ID
+ */
+function getAreaExcavatorPositionInfo(excavatorNumber) {
+    if(isEmpty(excavatorNumber)){
+        return;
+    }
+    let res = $.myAjax.toSendResult({
+        url : "/map/areaExcavatorPosition/getByRealExcavatorNumber/" + excavatorNumber,
+    });
+
+    if(res.code === 200){
+        return res.data;
+    }
+}
+/**
+ * 获取区域所有数据信息
+ *
+ * @param areaId
+ * @return {*}
+ */
+function getAreaInfo(areaId) {
+    if(isEmpty(areaId)){
+        layui.layer.msg("装料区ID未知");
+        return;
+    }
+    let res = $.myAjax.toSendResult({
+        url : "/map/area/info/" + areaId,
+    });
+
+    if(res.code === 200){
+        return res.data;
+    }
+}
+/**
+ * 加载装料区所有图层：采集路线、采集停车位置
+ */
+function loadLALayersToMap(areaId) {
+    if(isEmpty(areaId)){
+        return;
+    }
+
+    // 装料区域信息
+    let areaInfo = getAreaInfo(areaId);
+    if(isEmpty(areaInfo)){
+        layui.layer.msg("没有区域数据");
+        return false;
+    }
+
+    for (let i = 0; i < LALayerIdList.length; i++) {
+        if(map.getLayer(LALayerIdList[i]+'_text')){
+            map.removeLayer(LALayerIdList[i]+'_text');
+        }
+        if(map.getLayer(LALayerIdList[i]+'_icon')){
+            map.removeLayer(LALayerIdList[i]+'_icon');
+        }
+        if(map.getLayer(LALayerIdList[i])){
+            map.removeLayer(LALayerIdList[i]);
+        }
+        if(map.getSource(LALayerIdList[i])){
+            map.removeSource(LALayerIdList[i]);
+        }
+    }
+
+    let id = areaInfo.id;
+    let name = areaInfo.name;
+    let layerId = "area_" + id;
+
+    $("#pad_excavator_area_name").append("：" + name);
+
+    if(isNotEmpty(areaInfo.geojson)){
+        let geojson = JSON.parse(areaInfo.geojson);
+        // 区域范围，后期使用GEOJSON加载
+        if(!map.getSource(layerId)){
+            map.addSource(layerId, {
+                "type": "geojson",
+                "data": {
+                    "type": "Feature",
+                    "geometry": geojson
+                },
+                "maxzoom": 22
+            });
+            LASourceIdList.push(layerId);
+        }
+        if(!map.getLayer(layerId)){
+            map.addLayer({
+                "id": layerId,
+                'source': layerId,
+                //'source-layer': "polygon",
+                "type": "fill",
+                "minzoom": 13,
+                "maxzoom": 22,
+                "layout": {
+                    "visibility": "visible",
+                },
+                "paint": {
+                    "fill-color": 'rgba(124,235,14,0.23)',
+                    "fill-outline-color": 'rgb(255,0,0)',
+                    "fill-opacity": 0.5
+                }
+            });
+            LALayerIdList.push(layerId);
+        }
+    }
+
+
+    // 装料区采集路线，使用瓦片加载
+    /*let areaRoadLineList = areaInfo.areaRoadLineList;
+    if(isNotEmpty(areaRoadLineList)){
+        if(!map.hasImage("arrowIcon")){
+            let arrowIcon = new Image(10, 10)
+            arrowIcon.src = "/map/img/arrow-icon.svg";
+            arrowIcon.onload = function() {
+                map.addImage('arrowIcon', arrowIcon);
+            }
+        }
+
+        let paint;
+        for (let i = 0; i < areaRoadLineList.length; i++) {
+            let areaRoadLine = areaRoadLineList[i];
+            let id = areaRoadLine.id;
+            let name = areaRoadLine.roadLineType;
+            let layerId = "areaRoadLine_" + id;
+            areaRoadLineArr.push(layerId);
+            if(!map.getSource(layerId)){
+                let tiles_href = window.location.origin + "/map/areaCollectRoadLine/getTiles/" + id + "/{z}/{x}/{y}.mvt";
+                map.addSource(layerId, {
+                    type: 'vector',
+                    tiles:[tiles_href],
+                    bounds: [118.42295002114071, 44.7882842153993, 118.51215205073385, 44.85348501891053],
+                    minzoom: 13,
+                    maxzoom: 22,
+                    attribution: ""
+                });
+                //LASourceIdList.push(layerId);
+            }
+
+            if(!map.getLayer(layerId)){
+                paint = isEmpty(areaRoadLine.style) ? {
+                    //"line-color": "#ff0000",
+                    "line-color": randomColor(),
+                    "line-width": [
+                        "interpolate", ["linear"], ["zoom"],
+                        15, 3,
+                        22, 5
+                    ]
+                } : JSON.parse(areaRoadLine.style);
+
+                map.addLayer({
+                    'id': layerId,
+                    'source': layerId,
+                    'source-layer': "line",
+                    'type': 'line',
+                    "layout": {
+                        "visibility": "visible",
+                        'line-cap': 'round',
+                        'line-join': 'round'
+                    },
+                    "paint": paint
+                });
+                LALayerIdList.push(layerId);
+                // 线图标
+                map.addLayer({
+                    'id': layerId + "_icon",
+                    'source': layerId,
+                    'source-layer': "line",
+                    'type': 'symbol',
+                    "minzoom": 13,
+                    "maxzoom": 22,
+                    'layout': {
+                        "visibility": "visible",
+                        'symbol-placement': 'line',
+                        'symbol-spacing': 120,
+                        'icon-image': 'arrowIcon',
+                        'icon-size': 1,
+                        //'icon-rotate': 90,
+                    }
+                });
+                LALayerIdList.push(layerId + "_icon");
+                // 线文本
+                map.addLayer({
+                    "id": layerId + "_text",
+                    'source': layerId,
+                    'source-layer': "line",
+                    "type": "symbol",
+                    "minzoom": 13,
+                    "maxzoom": 22,
+                    "layout": {
+                        "visibility": "visible",
+                        'symbol-placement': 'line-center',
+                        "text-field": name,
+                        "text-size": 12,
+                        "text-rotation-alignment": "viewport",
+                        "text-pitch-alignment": "viewport",
+                    },
+                    paint: {
+                        "text-opacity": 1,
+                        "text-color": "#ffffff",
+                        "text-halo-color": "#36b368",
+                        "text-halo-width": 100,
+                        "text-halo-blur": 0,
+                    }
+                });
+                LALayerIdList.push(layerId + "_text");
+            }
+        }
+    }*/
+
+    // 装料区点位，使用GEOJSON加载
+    let areaNodeList = areaInfo.areaNodeList;
+    if(isNotEmpty(areaNodeList)){
+        for (let i = 0; i < areaNodeList.length; i++) {
+            let id = areaNodeList[i].id;
+            let name = areaNodeList[i].name;
+            let layerId = "areaNode" + id;
+            let geojson = JSON.parse(areaNodeList[i].pointGeojson);
+            if(!map.getSource(layerId)){
+                map.addSource(layerId, {
+                    "type": "geojson",
+                    "data": {
+                        "type": "Feature",
+                        "geometry": geojson
+                    },
+                    maxzoom: 22
+                });
+                LASourceIdList.push(layerId);
+            }
+            if(!map.getLayer(layerId)){
+                map.addLayer({
+                    "id": layerId,
+                    'source': layerId,
+                    //'source-layer': "point",
+                    "type": "circle",
+                    "minzoom": 15,
+                    "layout": {
+                        "visibility": "visible",
+                    },
+                    "paint": {
+                        // make circles larger as the user zooms from z12 to z22
+                        'circle-radius': {
+                            'base': 1.75,
+                            'stops': [[13, 5], [22, 8]]
+                        },
+                        //'circle-radius':20,
+                        "circle-color": "#21e318"
+                    }
+                });
+                LALayerIdList.push(layerId);
+                map.addLayer({
+                    "id": layerId + "_text",
+                    'source': layerId,
+                    //'source-layer': "point",
+                    "type": "symbol",
+                    "minzoom": 13,
+                    "maxzoom": 22,
+                    "layout": {
+                        "visibility": "visible",
+                        'symbol-placement': 'point',
+                        "text-field": name,
+                        "text-size": 14,
+                        "text-rotation-alignment": "viewport",
+                        "text-pitch-alignment": "viewport",
+                    },
+                    paint: {
+                        "text-opacity": 1,
+                        "text-color": "#ffffff",
+                        "text-halo-color": "#36b368",
+                        "text-halo-width": 200,
+                        "text-halo-blur": 200,
+                        "text-translate": [15, 0],
+                    }
+                });
+                LALayerIdList.push(layerId + "_text");
+            }
+        }
+    }
+
+    // 装料区规划路线，使用瓦片加载
+    let roadSectionList = areaInfo.roadSectionList;
+    if(isNotEmpty(roadSectionList)){
+        if(!map.hasImage("arrowIcon")){
+            let arrowIcon = new Image(10, 10)
+            arrowIcon.src = "/map/img/arrow-icon.svg";
+            arrowIcon.onload = function() {
+                map.addImage('arrowIcon', arrowIcon);
+            }
+        }
+
+        let paint;
+        for (let i = 0; i < roadSectionList.length; i++) {
+            let roadSection = roadSectionList[i];
+            let id = roadSection.id;
+            let name = roadSection.directionType;
+            let layerId = "roadSection_" + id;
+            if(!map.getSource(layerId)){
+                /*let tiles_href = window.location.origin + "/map/getTiles/" + roadSection.sourceName + "/" + id + "/{z}/{x}/{y}.mvt";
+                map.addSource(layerId, {
+                    type: 'vector',
+                    tiles:[tiles_href],
+                    bounds: [118.42295002114071, 44.7882842153993, 118.51215205073385, 44.85348501891053],
+                    minzoom: 13,
+                    maxzoom: 22,
+                    attribution: ""
+                });*/
+                let geojson = JSON.parse(roadSection.geojson);
+                map.addSource(layerId, {
+                    "type": "geojson",
+                    "data": {
+                        "type": "Feature",
+                        "geometry": geojson,
+                    },
+                    "maxzoom": 22
+                });
+                LASourceIdList.push(layerId);
+            }
+
+            if(!map.getLayer(layerId)){
+                paint = isEmpty(roadSection.style) ? {
+                    //"line-color": "#ff0000",
+                    "line-color": randomColor(),
+                    "line-width": [
+                        "interpolate", ["linear"], ["zoom"],
+                        15, 3,
+                        22, 5
+                    ]
+                } : JSON.parse(roadSection.style);
+
+                map.addLayer({
+                    'id': layerId,
+                    'source': layerId,
+                    //'source-layer': "line",
+                    'type': 'line',
+                    "layout": {
+                        "visibility": "visible",
+                        'line-cap': 'round',
+                        'line-join': 'round'
+                    },
+                    "paint": paint
+                });
+                LALayerIdList.push(layerId);
+                // 线图标
+                map.addLayer({
+                    'id': layerId + "_icon",
+                    'source': layerId,
+                    //'source-layer': "line",
+                    'type': 'symbol',
+                    "minzoom": 13,
+                    "maxzoom": 22,
+                    'layout': {
+                        "visibility": "visible",
+                        'symbol-placement': 'line',
+                        'symbol-spacing': 120,
+                        'icon-image': 'arrowIcon',
+                        'icon-size': 1,
+                        //'icon-rotate': 90,
+                    }
+                });
+                LALayerIdList.push(layerId + "_icon");
+                // 线文本
+                map.addLayer({
+                    "id": layerId + "_text",
+                    'source': layerId,
+                    //'source-layer': "line",
+                    "type": "symbol",
+                    "minzoom": 13,
+                    "maxzoom": 22,
+                    "layout": {
+                        "visibility": "visible",
+                        'symbol-placement': 'line-center',
+                        "text-field": name,
+                        "text-size": 12,
+                        "text-rotation-alignment": "viewport",
+                        "text-pitch-alignment": "viewport",
+                    },
+                    paint: {
+                        "text-opacity": 1,
+                        "text-color": "#ffffff",
+                        "text-halo-color": "#36b368",
+                        "text-halo-width": 100,
+                        "text-halo-blur": 0,
+                    }
+                });
+                LALayerIdList.push(layerId + "_text");
+            }
+        }
+    }
+
+    // 装料区挖机位置线，使用GEOJSON加载
+    let areaExcavatorPositionList = areaInfo.areaExcavatorPositionList;
+    if(isNotEmpty(areaExcavatorPositionList)){
+        if(!map.hasImage("arrowIcon")){
+            let arrowIcon = new Image(10, 10)
+            arrowIcon.src = "/map/img/arrow-icon.svg";
+            arrowIcon.onload = function() {
+                map.addImage('arrowIcon', arrowIcon);
+            }
+        }
+        for (let i = 0; i < areaExcavatorPositionList.length; i++) {
+            let id = areaExcavatorPositionList[i].id;
+            let name = areaExcavatorPositionList[i].excavatorNumber;
+            let real_name = areaExcavatorPositionList[i].realExcavatorNumber;
+            if(isNotEmpty(real_name)){
+                name = name + "---" + real_name;
+            }
+            let layerId = "areaExcavator_" + id;
+            let geojson = JSON.parse(areaExcavatorPositionList[i].presetLineGeojson);
+
+            if(!map.getSource(layerId)){
+                map.addSource(layerId, {
+                    "type": "geojson",
+                    "data": {
+                        "type": "Feature",
+                        "geometry": geojson
+                    },
+                    maxzoom: 22
+                });
+                LASourceIdList.push(layerId);
+            }
+
+            if(!map.getLayer(layerId)){
+                map.addLayer({
+                    'id': layerId,
+                    'source': layerId,
+                    //'source-layer': "line",
+                    'type': 'line',
+                    "layout": {
+                        "visibility": "visible",
+                        'line-cap': 'round',
+                        'line-join': 'round'
+                    },
+                    "paint": {
+                        "line-color": "#fff800",
+                        "line-width": [
+                            "interpolate", ["linear"], ["zoom"],
+                            13, 1,
+                            22, 5
+                        ]
+                    }
+                });
+                LALayerIdList.push(layerId);
+
+                // 线图标
+                map.addLayer({
+                    'id': layerId + "_icon",
+                    'source': layerId,
+                    //'source-layer': "line",
+                    'type': 'symbol',
+                    "minzoom": 13,
+                    "maxzoom": 24,
+                    'layout': {
+                        "visibility": "visible",
+                        'symbol-placement': 'line',
+                        'symbol-spacing': 120,
+                        'icon-image': 'arrowIcon',
+                        'icon-size': 1.2,
+                        //'icon-rotate': 90,
+                    }
+                });
+                LALayerIdList.push(layerId + "_icon");
+
+                // 线文本
+                map.addLayer({
+                    "id": layerId + "_text",
+                    'source': layerId,
+                    //'source-layer': "line",
+                    "type": "symbol",
+                    "minzoom": 13,
+                    "maxzoom": 22,
+                    "layout": {
+                        "visibility": "visible",
+                        'symbol-placement': 'line-center',
+                        "text-field": name,
+                        "text-size": 14,
+                        "text-rotation-alignment": "viewport",
+                        "text-pitch-alignment": "viewport",
+                    },
+                    paint: {
+                        "text-opacity": 1,
+                        "text-color": "#ffffff",
+                        "text-halo-color": "#36b368",
+                        "text-halo-width": 100,
+                        "text-halo-blur": 0,
+                    }
+                });
+                LALayerIdList.push(layerId + "_text");
+            }
+        }
+    }
+
+    flyToLayer(areaInfo.geojson);
+
+}
+/**
+ * 加载规划路线
+ *
+ * @param data
+ */
+function loadPlannedRoadLine(data) {
+    if(isEmpty(data)){
+        return;
+    }
+
+    let geometries = [];
+    geometries.push(JSON.parse(data.route_I));
+    geometries.push(JSON.parse(data.route_B));
+    geometries.push(JSON.parse(data.route_O));
+
+    let layerId = "plannedRoadLine";
+
+    if(!map.getSource(layerId)){
+        map.addSource(layerId, {
+            type: "geojson",
+            /*data: {
+                "type": "Feature",
+                "geometry": geojson
+            }*/
+            data: {
+                "type": "GeometryCollection",
+                "geometries": geometries
+            }
+        });
+    } else {
+        map.getSource(layerId).setData({
+            "type": "GeometryCollection",
+            "geometries": geometries
+        });
+    }
+
+    if(!map.getLayer(layerId)){
+        map.addLayer({
+            id: layerId,
+            type: 'line',
+            source: layerId,
+            paint: {
+                'line-color': '#ffbb00',
+                'line-width': [
+                    "interpolate", ["linear"], ["zoom"],
+                    13, 2,
+                    22, 5
+                ],
+                'line-opacity': 0.4
+            }
+        });
+    }
+
+    if(!map.getLayer(layerId + "Dashed")){
+        map.addLayer({
+            id: layerId + "Dashed",
+            type: 'line',
+            source: layerId,
+            paint: {
+                'line-color': '#FFFF00',
+                'line-width': [
+                    "interpolate", ["linear"], ["zoom"],
+                    13, 2,
+                    22, 5
+                ],
+                'line-dasharray': [0, 4, 3],
+            }
+        });
+    }
+
+    let dashArraySequence = [
+        [0, 4, 3],
+        [0.5, 4, 2.5],
+        [1, 4, 2],
+        [1.5, 4, 1.5],
+        [2, 4, 1],
+        [2.5, 4, 0.5],
+        [3, 4, 0],
+        [0, 0.5, 3, 3.5],
+        [0, 1, 3, 3],
+        [0, 1.5, 3, 2.5],
+        [0, 2, 3, 2],
+        [0, 2.5, 3, 1.5],
+        [0, 3, 3, 1],
+        [0, 3.5, 3, 0.5]
+    ];
+
+    let step = 0;
+    function animateDashArray(timestamp) {
+        let newStep = parseInt(
+            (timestamp / 100) % dashArraySequence.length
+        );
+
+        if (newStep !== step) {
+            map.setPaintProperty(
+                layerId + "Dashed",
+                'line-dasharray',
+                dashArraySequence[step]
+            );
+            step = newStep;
+        }
+
+        plannedRoadLineAnimation = requestAnimationFrame(animateDashArray);
+    }
+
+    //plannedRoadLineAnimation = requestAnimationFrame(animateDashArray);
+    animateDashArray(0);
+}
+/**
+ * 删除回显的规划路线图层
+ */
+function removePlannedRoadLineLayers() {
+    let layerId = "plannedRoadLine";
+    if(map.getLayer(layerId)){
+        window.cancelAnimationFrame(plannedRoadLineAnimation);
+        map.removeLayer(layerId);
+        map.removeLayer(layerId + "Dashed");
+    }
+    if(map.getSource(layerId)){
+        map.removeSource(layerId);
+    }
+}
